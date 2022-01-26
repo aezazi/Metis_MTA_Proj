@@ -1,0 +1,1553 @@
+,Line Name and Location,Date and Time,Day,4hr Time Interval Ending at,Net Entries,Net Exits,Total Entries & Exits
+0,Line 1 : Canal & Varick St,2019-09-01 08:00:00,Sunday,08:00:00,60.0,89.0,149.0
+1,Line 1 : Canal & Varick St,2019-09-01 12:00:00,Sunday,12:00:00,353.0,726.0,1079.0
+2,Line 1 : Canal & Varick St,2019-09-01 16:00:00,Sunday,16:00:00,661.0,1018.0,1679.0
+3,Line 1 : Canal & Varick St,2019-09-01 20:00:00,Sunday,20:00:00,795.0,727.0,1522.0
+4,Line 1 : Canal & Varick St,2019-09-02 00:00:00,Monday,00:00:00,292.0,208.0,500.0
+5,Line 1 : Canal & Varick St,2019-09-02 04:00:00,Monday,04:00:00,45.0,40.0,85.0
+6,Line 1 : Canal & Varick St,2019-09-02 08:00:00,Monday,08:00:00,71.0,137.0,208.0
+7,Line 1 : Canal & Varick St,2019-09-02 12:00:00,Monday,12:00:00,326.0,511.0,837.0
+8,Line 1 : Canal & Varick St,2019-09-02 16:00:00,Monday,16:00:00,492.0,684.0,1176.0
+9,Line 1 : Canal & Varick St,2019-09-02 20:00:00,Monday,20:00:00,574.0,405.0,979.0
+10,Line 1 : Canal & Varick St,2019-09-03 00:00:00,Tuesday,00:00:00,230.0,129.0,359.0
+11,Line 1 : Canal & Varick St,2019-09-03 04:00:00,Tuesday,04:00:00,24.0,46.0,70.0
+12,Line 1 : Canal & Varick St,2019-09-03 08:00:00,Tuesday,08:00:00,342.0,1454.0,1796.0
+13,Line 1 : Canal & Varick St,2019-09-03 12:00:00,Tuesday,12:00:00,765.0,2236.0,3001.0
+14,Line 1 : Canal & Varick St,2019-09-03 16:00:00,Tuesday,16:00:00,1591.0,1092.0,2683.0
+15,Line 1 : Canal & Varick St,2019-09-03 20:00:00,Tuesday,20:00:00,3290.0,935.0,4225.0
+16,Line 1 : Canal & Varick St,2019-09-04 00:00:00,Wednesday,00:00:00,393.0,197.0,590.0
+17,Line 1 : Canal & Varick St,2019-09-04 04:00:00,Wednesday,04:00:00,73.0,55.0,128.0
+18,Line 1 : Canal & Varick St,2019-09-04 08:00:00,Wednesday,08:00:00,383.0,1443.0,1826.0
+19,Line 1 : Canal & Varick St,2019-09-04 12:00:00,Wednesday,12:00:00,872.0,2411.0,3283.0
+20,Line 1 : Canal & Varick St,2019-09-04 16:00:00,Wednesday,16:00:00,1702.0,1179.0,2881.0
+21,Line 1 : Canal & Varick St,2019-09-04 20:00:00,Wednesday,20:00:00,3475.0,1057.0,4532.0
+22,Line 1 : Canal & Varick St,2019-09-05 00:00:00,Thursday,00:00:00,563.0,207.0,770.0
+23,Line 1 : Canal & Varick St,2019-09-05 04:00:00,Thursday,04:00:00,89.0,72.0,161.0
+24,Line 1 : Canal & Varick St,2019-09-05 08:00:00,Thursday,08:00:00,452.0,1625.0,2077.0
+25,Line 1 : Canal & Varick St,2019-09-05 12:00:00,Thursday,12:00:00,946.0,2298.0,3244.0
+26,Line 1 : Canal & Varick St,2019-09-05 16:00:00,Thursday,16:00:00,2022.0,1337.0,3359.0
+27,Line 1 : Canal & Varick St,2019-09-05 20:00:00,Thursday,20:00:00,3484.0,1134.0,4618.0
+28,Line 1 : Canal & Varick St,2019-09-06 00:00:00,Friday,00:00:00,729.0,265.0,994.0
+29,Line 1 : Canal & Varick St,2019-09-06 04:00:00,Friday,04:00:00,115.0,50.0,165.0
+30,Line 1 : Canal & Varick St,2019-09-06 08:00:00,Friday,08:00:00,383.0,1583.0,1966.0
+31,Line 1 : Canal & Varick St,2019-09-06 12:00:00,Friday,12:00:00,997.0,2315.0,3312.0
+32,Line 1 : Canal & Varick St,2019-09-06 16:00:00,Friday,16:00:00,2349.0,1425.0,3774.0
+33,Line 1 : Canal & Varick St,2019-09-06 20:00:00,Friday,20:00:00,3299.0,1030.0,4329.0
+34,Line 1 : Canal & Varick St,2019-09-07 04:00:00,Saturday,04:00:00,111.0,55.0,166.0
+35,Line 1 : Canal & Varick St,2019-09-07 08:00:00,Saturday,08:00:00,99.0,298.0,397.0
+36,Line 1 : Canal & Varick St,2019-09-07 12:00:00,Saturday,12:00:00,492.0,983.0,1475.0
+37,Line 1 : Canal & Varick St,2019-09-07 16:00:00,Saturday,16:00:00,1199.0,1439.0,2638.0
+38,Line 1 : Canal & Varick St,2019-09-07 20:00:00,Saturday,20:00:00,1189.0,1046.0,2235.0
+39,Line 1 : Canal & Varick St,2019-09-08 00:00:00,Sunday,00:00:00,542.0,329.0,871.0
+40,Line 1 : Canal & Varick St,2019-09-08 04:00:00,Sunday,04:00:00,119.0,55.0,174.0
+41,Line 1 : Canal & Varick St,2019-09-08 08:00:00,Sunday,08:00:00,64.0,140.0,204.0
+42,Line 1 : Canal & Varick St,2019-09-08 12:00:00,Sunday,12:00:00,439.0,804.0,1243.0
+43,Line 1 : Canal & Varick St,2019-09-08 16:00:00,Sunday,16:00:00,787.0,1113.0,1900.0
+44,Line 1 : Canal & Varick St,2019-09-08 20:00:00,Sunday,20:00:00,928.0,693.0,1621.0
+45,Line 1 : Canal & Varick St,2019-09-09 00:00:00,Monday,00:00:00,359.0,167.0,526.0
+46,Line 1 : Canal & Varick St,2019-09-09 04:00:00,Monday,04:00:00,39.0,32.0,71.0
+47,Line 1 : Canal & Varick St,2019-09-09 08:00:00,Monday,08:00:00,446.0,1567.0,2013.0
+48,Line 1 : Canal & Varick St,2019-09-09 12:00:00,Monday,12:00:00,806.0,2453.0,3259.0
+49,Line 1 : Canal & Varick St,2019-09-09 16:00:00,Monday,16:00:00,1872.0,1291.0,3163.0
+50,Line 1 : Canal & Varick St,2019-09-09 20:00:00,Monday,20:00:00,3644.0,1058.0,4702.0
+51,Line 1 : Canal & Varick St,2019-09-10 00:00:00,Tuesday,00:00:00,405.0,86.0,491.0
+52,Line 1 : Canal & Varick St,2019-09-10 04:00:00,Tuesday,04:00:00,113.0,147.0,260.0
+53,Line 1 : Canal & Varick St,2019-09-10 08:00:00,Tuesday,08:00:00,468.0,1578.0,2046.0
+54,Line 1 : Canal & Varick St,2019-09-10 12:00:00,Tuesday,12:00:00,953.0,2492.0,3445.0
+55,Line 1 : Canal & Varick St,2019-09-10 16:00:00,Tuesday,16:00:00,2029.0,1347.0,3376.0
+56,Line 1 : Canal & Varick St,2019-09-10 20:00:00,Tuesday,20:00:00,3628.0,1118.0,4746.0
+57,Line 1 : Canal & Varick St,2019-09-11 00:00:00,Wednesday,00:00:00,535.0,212.0,747.0
+58,Line 1 : Canal & Varick St,2019-09-11 04:00:00,Wednesday,04:00:00,59.0,49.0,108.0
+59,Line 1 : Canal & Varick St,2019-09-11 08:00:00,Wednesday,08:00:00,460.0,1486.0,1946.0
+60,Line 1 : Canal & Varick St,2019-09-11 12:00:00,Wednesday,12:00:00,956.0,2156.0,3112.0
+61,Line 1 : Canal & Varick St,2019-09-11 16:00:00,Wednesday,16:00:00,1869.0,1245.0,3114.0
+62,Line 1 : Canal & Varick St,2019-09-11 20:00:00,Wednesday,20:00:00,3536.0,1171.0,4707.0
+63,Line 1 : Canal & Varick St,2019-09-12 00:00:00,Thursday,00:00:00,554.0,217.0,771.0
+64,Line 1 : Canal & Varick St,2019-09-12 04:00:00,Thursday,04:00:00,72.0,38.0,110.0
+65,Line 1 : Canal & Varick St,2019-09-12 08:00:00,Thursday,08:00:00,431.0,1664.0,2095.0
+66,Line 1 : Canal & Varick St,2019-09-12 12:00:00,Thursday,12:00:00,907.0,2437.0,3344.0
+67,Line 1 : Canal & Varick St,2019-09-12 16:00:00,Thursday,16:00:00,1927.0,1209.0,3136.0
+68,Line 1 : Canal & Varick St,2019-09-12 20:00:00,Thursday,20:00:00,3782.0,1370.0,5152.0
+69,Line 1 : Canal & Varick St,2019-09-13 00:00:00,Friday,00:00:00,523.0,200.0,723.0
+70,Line 1 : Canal & Varick St,2019-09-13 04:00:00,Friday,04:00:00,57.0,54.0,111.0
+71,Line 1 : Canal & Varick St,2019-09-13 08:00:00,Friday,08:00:00,398.0,1496.0,1894.0
+72,Line 1 : Canal & Varick St,2019-09-13 12:00:00,Friday,12:00:00,973.0,2362.0,3335.0
+73,Line 1 : Canal & Varick St,2019-09-13 16:00:00,Friday,16:00:00,2141.0,1568.0,3709.0
+74,Line 1 : Canal & Varick St,2019-09-13 20:00:00,Friday,20:00:00,3196.0,1400.0,4596.0
+75,Line 1 : Canal & Varick St,2019-09-14 04:00:00,Saturday,04:00:00,101.0,68.0,169.0
+76,Line 1 : Canal & Varick St,2019-09-14 08:00:00,Saturday,08:00:00,107.0,194.0,301.0
+77,Line 1 : Canal & Varick St,2019-09-14 12:00:00,Saturday,12:00:00,352.0,787.0,1139.0
+78,Line 1 : Canal & Varick St,2019-09-14 16:00:00,Saturday,16:00:00,917.0,1223.0,2140.0
+79,Line 1 : Canal & Varick St,2019-09-14 20:00:00,Saturday,20:00:00,970.0,921.0,1891.0
+80,Line 1 : Canal & Varick St,2019-09-15 00:00:00,Sunday,00:00:00,522.0,286.0,808.0
+81,Line 1 : Canal & Varick St,2019-09-15 04:00:00,Sunday,04:00:00,91.0,59.0,150.0
+82,Line 1 : Canal & Varick St,2019-09-15 08:00:00,Sunday,08:00:00,43.0,109.0,152.0
+83,Line 1 : Canal & Varick St,2019-09-15 12:00:00,Sunday,12:00:00,290.0,684.0,974.0
+84,Line 1 : Canal & Varick St,2019-09-15 16:00:00,Sunday,16:00:00,721.0,936.0,1657.0
+85,Line 1 : Canal & Varick St,2019-09-15 20:00:00,Sunday,20:00:00,775.0,671.0,1446.0
+86,Line 1 : Canal & Varick St,2019-09-16 00:00:00,Monday,00:00:00,287.0,160.0,447.0
+87,Line 1 : Canal & Varick St,2019-09-16 04:00:00,Monday,04:00:00,34.0,34.0,68.0
+88,Line 1 : Canal & Varick St,2019-09-16 08:00:00,Monday,08:00:00,397.0,1529.0,1926.0
+89,Line 1 : Canal & Varick St,2019-09-16 12:00:00,Monday,12:00:00,836.0,2409.0,3245.0
+90,Line 1 : Canal & Varick St,2019-09-16 16:00:00,Monday,16:00:00,1712.0,1203.0,2915.0
+91,Line 1 : Canal & Varick St,2019-09-16 20:00:00,Monday,20:00:00,3484.0,1008.0,4492.0
+92,Line 1 : Canal & Varick St,2019-09-17 00:00:00,Tuesday,00:00:00,415.0,176.0,591.0
+93,Line 1 : Canal & Varick St,2019-09-17 04:00:00,Tuesday,04:00:00,40.0,47.0,87.0
+94,Line 1 : Canal & Varick St,2019-09-17 08:00:00,Tuesday,08:00:00,438.0,1502.0,1940.0
+95,Line 1 : Canal & Varick St,2019-09-17 12:00:00,Tuesday,12:00:00,878.0,2280.0,3158.0
+96,Line 1 : Canal & Varick St,2019-09-17 16:00:00,Tuesday,16:00:00,1800.0,1228.0,3028.0
+97,Line 1 : Canal & Varick St,2019-09-17 20:00:00,Tuesday,20:00:00,3496.0,1031.0,4527.0
+98,Line 1 : Canal & Varick St,2019-09-18 00:00:00,Wednesday,00:00:00,438.0,200.0,638.0
+99,Line 1 : Canal & Varick St,2019-09-18 04:00:00,Wednesday,04:00:00,45.0,39.0,84.0
+100,Line 1 : Canal & Varick St,2019-09-18 08:00:00,Wednesday,08:00:00,463.0,1504.0,1967.0
+101,Line 1 : Canal & Varick St,2019-09-18 12:00:00,Wednesday,12:00:00,939.0,2492.0,3431.0
+102,Line 1 : Canal & Varick St,2019-09-18 16:00:00,Wednesday,16:00:00,1860.0,1319.0,3179.0
+103,Line 1 : Canal & Varick St,2019-09-18 20:00:00,Wednesday,20:00:00,3681.0,1211.0,4892.0
+104,Line 1 : Canal & Varick St,2019-09-19 00:00:00,Thursday,00:00:00,473.0,217.0,690.0
+105,Line 1 : Canal & Varick St,2019-09-19 04:00:00,Thursday,04:00:00,59.0,75.0,134.0
+106,Line 1 : Canal & Varick St,2019-09-19 08:00:00,Thursday,08:00:00,428.0,1431.0,1859.0
+107,Line 1 : Canal & Varick St,2019-09-19 12:00:00,Thursday,12:00:00,889.0,2520.0,3409.0
+108,Line 1 : Canal & Varick St,2019-09-19 16:00:00,Thursday,16:00:00,1803.0,1329.0,3132.0
+109,Line 1 : Canal & Varick St,2019-09-19 20:00:00,Thursday,20:00:00,3481.0,1237.0,4718.0
+110,Line 1 : Canal & Varick St,2019-09-20 00:00:00,Friday,00:00:00,623.0,265.0,888.0
+111,Line 1 : Canal & Varick St,2019-09-20 04:00:00,Friday,04:00:00,75.0,45.0,120.0
+112,Line 1 : Canal & Varick St,2019-09-20 08:00:00,Friday,08:00:00,394.0,1339.0,1733.0
+113,Line 1 : Canal & Varick St,2019-09-20 12:00:00,Friday,12:00:00,902.0,2464.0,3366.0
+114,Line 1 : Canal & Varick St,2019-09-20 16:00:00,Friday,16:00:00,2043.0,1471.0,3514.0
+115,Line 1 : Canal & Varick St,2019-09-20 20:00:00,Friday,20:00:00,3058.0,1452.0,4510.0
+116,Line 1 : Canal & Varick St,2019-09-21 04:00:00,Saturday,04:00:00,124.0,58.0,182.0
+117,Line 1 : Canal & Varick St,2019-09-21 08:00:00,Saturday,08:00:00,87.0,196.0,283.0
+118,Line 1 : Canal & Varick St,2019-09-21 12:00:00,Saturday,12:00:00,407.0,756.0,1163.0
+119,Line 1 : Canal & Varick St,2019-09-21 16:00:00,Saturday,16:00:00,914.0,1128.0,2042.0
+120,Line 1 : Canal & Varick St,2019-09-21 20:00:00,Saturday,20:00:00,1033.0,886.0,1919.0
+121,Line 1 : Canal & Varick St,2019-09-22 00:00:00,Sunday,00:00:00,601.0,336.0,937.0
+122,Line 1 : Canal & Varick St,2019-09-22 04:00:00,Sunday,04:00:00,132.0,38.0,170.0
+123,Line 1 : Canal & Varick St,2019-09-22 08:00:00,Sunday,08:00:00,72.0,130.0,202.0
+124,Line 1 : Canal & Varick St,2019-09-22 12:00:00,Sunday,12:00:00,380.0,579.0,959.0
+125,Line 1 : Canal & Varick St,2019-09-22 16:00:00,Sunday,16:00:00,682.0,951.0,1633.0
+126,Line 1 : Canal & Varick St,2019-09-22 20:00:00,Sunday,20:00:00,850.0,445.0,1295.0
+127,Line 1 : Canal & Varick St,2019-09-23 00:00:00,Monday,00:00:00,301.0,110.0,411.0
+128,Line 1 : Canal & Varick St,2019-09-23 04:00:00,Monday,04:00:00,41.0,40.0,81.0
+129,Line 1 : Canal & Varick St,2019-09-23 08:00:00,Monday,08:00:00,448.0,1519.0,1967.0
+130,Line 1 : Canal & Varick St,2019-09-23 12:00:00,Monday,12:00:00,808.0,2231.0,3039.0
+131,Line 1 : Canal & Varick St,2019-09-23 16:00:00,Monday,16:00:00,1667.0,1183.0,2850.0
+132,Line 1 : Canal & Varick St,2019-09-23 20:00:00,Monday,20:00:00,3276.0,1003.0,4279.0
+133,Line 1 : Canal & Varick St,2019-09-24 00:00:00,Tuesday,00:00:00,407.0,170.0,577.0
+134,Line 1 : Canal & Varick St,2019-09-24 04:00:00,Tuesday,04:00:00,46.0,59.0,105.0
+135,Line 1 : Canal & Varick St,2019-09-24 08:00:00,Tuesday,08:00:00,454.0,1546.0,2000.0
+136,Line 1 : Canal & Varick St,2019-09-24 12:00:00,Tuesday,12:00:00,943.0,2436.0,3379.0
+137,Line 1 : Canal & Varick St,2019-09-24 16:00:00,Tuesday,16:00:00,1868.0,1370.0,3238.0
+138,Line 1 : Canal & Varick St,2019-09-24 20:00:00,Tuesday,20:00:00,3694.0,1143.0,4837.0
+139,Line 1 : Canal & Varick St,2019-09-25 00:00:00,Wednesday,00:00:00,440.0,225.0,665.0
+140,Line 1 : Canal & Varick St,2019-09-25 04:00:00,Wednesday,04:00:00,42.0,51.0,93.0
+141,Line 1 : Canal & Varick St,2019-09-25 08:00:00,Wednesday,08:00:00,486.0,1532.0,2018.0
+142,Line 1 : Canal & Varick St,2019-09-25 12:00:00,Wednesday,12:00:00,929.0,2406.0,3335.0
+143,Line 1 : Canal & Varick St,2019-09-25 16:00:00,Wednesday,16:00:00,1850.0,1168.0,3018.0
+144,Line 1 : Canal & Varick St,2019-09-25 20:00:00,Wednesday,20:00:00,3529.0,1301.0,4830.0
+145,Line 1 : Canal & Varick St,2019-09-26 00:00:00,Thursday,00:00:00,524.0,212.0,736.0
+146,Line 1 : Canal & Varick St,2019-09-26 04:00:00,Thursday,04:00:00,44.0,48.0,92.0
+147,Line 1 : Canal & Varick St,2019-09-26 08:00:00,Thursday,08:00:00,439.0,1532.0,1971.0
+148,Line 1 : Canal & Varick St,2019-09-26 12:00:00,Thursday,12:00:00,943.0,2406.0,3349.0
+149,Line 1 : Canal & Varick St,2019-09-26 16:00:00,Thursday,16:00:00,1975.0,1243.0,3218.0
+150,Line 1 : Canal & Varick St,2019-09-26 20:00:00,Thursday,20:00:00,3518.0,1343.0,4861.0
+151,Line 1 : Canal & Varick St,2019-09-27 00:00:00,Friday,00:00:00,562.0,231.0,793.0
+152,Line 1 : Canal & Varick St,2019-09-27 04:00:00,Friday,04:00:00,62.0,50.0,112.0
+153,Line 1 : Canal & Varick St,2019-09-27 08:00:00,Friday,08:00:00,385.0,1366.0,1751.0
+154,Line 1 : Canal & Varick St,2019-09-27 12:00:00,Friday,12:00:00,978.0,2221.0,3199.0
+155,Line 1 : Canal & Varick St,2019-09-27 16:00:00,Friday,16:00:00,2046.0,1396.0,3442.0
+156,Line 1 : Canal & Varick St,2019-09-27 20:00:00,Friday,20:00:00,2926.0,1223.0,4149.0
+157,Line 1 : Canal & Varick St,2019-09-28 04:00:00,Saturday,04:00:00,89.0,62.0,151.0
+158,Line 1 : Canal & Varick St,2019-09-28 08:00:00,Saturday,08:00:00,93.0,183.0,276.0
+159,Line 1 : Canal & Varick St,2019-09-28 12:00:00,Saturday,12:00:00,471.0,753.0,1224.0
+160,Line 1 : Canal & Varick St,2019-09-28 16:00:00,Saturday,16:00:00,1006.0,1081.0,2087.0
+161,Line 1 : Canal & Varick St,2019-09-28 20:00:00,Saturday,20:00:00,958.0,724.0,1682.0
+162,Line 1 : Canal & Varick St,2019-09-29 00:00:00,Sunday,00:00:00,424.0,276.0,700.0
+163,Line 1 : Canal & Varick St,2019-09-29 04:00:00,Sunday,04:00:00,133.0,56.0,189.0
+164,Line 1 : Canal & Varick St,2019-09-29 08:00:00,Sunday,08:00:00,77.0,138.0,215.0
+165,Line 1 : Canal & Varick St,2019-09-29 12:00:00,Sunday,12:00:00,390.0,571.0,961.0
+166,Line 1 : Canal & Varick St,2019-09-29 16:00:00,Sunday,16:00:00,710.0,741.0,1451.0
+167,Line 1 : Canal & Varick St,2019-09-29 20:00:00,Sunday,20:00:00,693.0,503.0,1196.0
+168,Line 1 : Canal & Varick St,2019-09-30 00:00:00,Monday,00:00:00,252.0,129.0,381.0
+169,Line 1 : Canal & Varick St,2019-09-30 04:00:00,Monday,04:00:00,27.0,33.0,60.0
+170,Line 1 : Canal & Varick St,2019-09-30 08:00:00,Monday,08:00:00,316.0,1271.0,1587.0
+171,Line 1 : Canal & Varick St,2019-09-30 12:00:00,Monday,12:00:00,778.0,2155.0,2933.0
+172,Line 1 : Canal & Varick St,2019-09-30 16:00:00,Monday,16:00:00,1453.0,1141.0,2594.0
+173,Line 1 : Canal & Varick St,2019-09-30 20:00:00,Monday,20:00:00,2975.0,848.0,3823.0
+174,Line 1 : Canal & Varick St,2019-10-01 00:00:00,Tuesday,00:00:00,241.0,174.0,415.0
+175,Line 1 : Canal & Varick St,2019-10-01 04:00:00,Tuesday,04:00:00,14.0,31.0,45.0
+176,Line 1 : Canal & Varick St,2019-10-01 08:00:00,Tuesday,08:00:00,374.0,1429.0,1803.0
+177,Line 1 : Canal & Varick St,2019-10-01 12:00:00,Tuesday,12:00:00,873.0,2342.0,3215.0
+178,Line 1 : Canal & Varick St,2019-10-01 16:00:00,Tuesday,16:00:00,1542.0,1081.0,2623.0
+179,Line 1 : Canal & Varick St,2019-10-01 20:00:00,Tuesday,20:00:00,3414.0,999.0,4413.0
+180,Line 1 : Canal & Varick St,2019-10-02 00:00:00,Wednesday,00:00:00,242.0,169.0,411.0
+181,Line 1 : Canal & Varick St,2019-10-02 04:00:00,Wednesday,04:00:00,16.0,19.0,35.0
+182,Line 1 : Canal & Varick St,2019-10-02 08:00:00,Wednesday,08:00:00,460.0,1515.0,1975.0
+183,Line 1 : Canal & Varick St,2019-10-02 12:00:00,Wednesday,12:00:00,883.0,2510.0,3393.0
+184,Line 1 : Canal & Varick St,2019-10-02 16:00:00,Wednesday,16:00:00,1772.0,1212.0,2984.0
+185,Line 1 : Canal & Varick St,2019-10-02 20:00:00,Wednesday,20:00:00,3952.0,1183.0,5135.0
+186,Line 1 : Canal & Varick St,2019-10-03 00:00:00,Thursday,00:00:00,269.0,190.0,459.0
+187,Line 1 : Canal & Varick St,2019-10-03 04:00:00,Thursday,04:00:00,15.0,28.0,43.0
+188,Line 1 : Canal & Varick St,2019-10-03 08:00:00,Thursday,08:00:00,452.0,1503.0,1955.0
+189,Line 1 : Canal & Varick St,2019-10-03 12:00:00,Thursday,12:00:00,926.0,2595.0,3521.0
+190,Line 1 : Canal & Varick St,2019-10-03 16:00:00,Thursday,16:00:00,1863.0,1210.0,3073.0
+191,Line 1 : Canal & Varick St,2019-10-03 20:00:00,Thursday,20:00:00,3733.0,1308.0,5041.0
+192,Line 1 : Canal & Varick St,2019-10-04 00:00:00,Friday,00:00:00,325.0,233.0,558.0
+193,Line 1 : Canal & Varick St,2019-10-04 04:00:00,Friday,04:00:00,21.0,25.0,46.0
+194,Line 1 : Canal & Varick St,2019-10-04 08:00:00,Friday,08:00:00,385.0,1333.0,1718.0
+195,Line 1 : Canal & Varick St,2019-10-04 12:00:00,Friday,12:00:00,937.0,2230.0,3167.0
+196,Line 1 : Canal & Varick St,2019-10-04 16:00:00,Friday,16:00:00,2007.0,1416.0,3423.0
+197,Line 1 : Canal & Varick St,2019-10-04 20:00:00,Friday,20:00:00,3117.0,1231.0,4348.0
+198,Line 1 : Canal & Varick St,2019-10-05 04:00:00,Saturday,04:00:00,83.0,49.0,132.0
+199,Line 1 : Canal & Varick St,2019-10-05 08:00:00,Saturday,08:00:00,107.0,179.0,286.0
+200,Line 1 : Canal & Varick St,2019-10-05 12:00:00,Saturday,12:00:00,376.0,687.0,1063.0
+201,Line 1 : Canal & Varick St,2019-10-05 16:00:00,Saturday,16:00:00,929.0,1139.0,2068.0
+202,Line 1 : Canal & Varick St,2019-10-05 20:00:00,Saturday,20:00:00,989.0,885.0,1874.0
+203,Line 1 : Canal & Varick St,2019-10-06 00:00:00,Sunday,00:00:00,403.0,283.0,686.0
+204,Line 1 : Canal & Varick St,2019-10-06 04:00:00,Sunday,04:00:00,82.0,63.0,145.0
+205,Line 1 : Canal & Varick St,2019-10-06 08:00:00,Sunday,08:00:00,68.0,129.0,197.0
+206,Line 1 : Canal & Varick St,2019-10-06 12:00:00,Sunday,12:00:00,348.0,589.0,937.0
+207,Line 1 : Canal & Varick St,2019-10-06 16:00:00,Sunday,16:00:00,684.0,771.0,1455.0
+208,Line 1 : Canal & Varick St,2019-10-06 20:00:00,Sunday,20:00:00,675.0,432.0,1107.0
+209,Line 1 : Canal & Varick St,2019-10-07 00:00:00,Monday,00:00:00,179.0,150.0,329.0
+210,Line 1 : Canal & Varick St,2019-10-07 04:00:00,Monday,04:00:00,21.0,33.0,54.0
+211,Line 1 : Canal & Varick St,2019-10-07 08:00:00,Monday,08:00:00,448.0,1457.0,1905.0
+212,Line 1 : Canal & Varick St,2019-10-07 12:00:00,Monday,12:00:00,799.0,2338.0,3137.0
+213,Line 1 : Canal & Varick St,2019-10-07 16:00:00,Monday,16:00:00,1823.0,1250.0,3073.0
+214,Line 1 : Canal & Varick St,2019-10-07 20:00:00,Monday,20:00:00,3421.0,1121.0,4542.0
+215,Line 1 : Canal & Varick St,2019-10-08 00:00:00,Tuesday,00:00:00,430.0,188.0,618.0
+216,Line 1 : Canal & Varick St,2019-10-08 04:00:00,Tuesday,04:00:00,46.0,76.0,122.0
+217,Line 1 : Canal & Varick St,2019-10-08 08:00:00,Tuesday,08:00:00,395.0,1516.0,1911.0
+218,Line 1 : Canal & Varick St,2019-10-08 12:00:00,Tuesday,12:00:00,907.0,2336.0,3243.0
+219,Line 1 : Canal & Varick St,2019-10-08 16:00:00,Tuesday,16:00:00,1895.0,1150.0,3045.0
+220,Line 1 : Canal & Varick St,2019-10-08 20:00:00,Tuesday,20:00:00,3474.0,967.0,4441.0
+221,Line 1 : Canal & Varick St,2019-10-09 00:00:00,Wednesday,00:00:00,413.0,270.0,683.0
+222,Line 1 : Canal & Varick St,2019-10-09 04:00:00,Wednesday,04:00:00,40.0,42.0,82.0
+223,Line 1 : Canal & Varick St,2019-10-09 08:00:00,Wednesday,08:00:00,292.0,1364.0,1656.0
+224,Line 1 : Canal & Varick St,2019-10-09 12:00:00,Wednesday,12:00:00,958.0,2365.0,3323.0
+225,Line 1 : Canal & Varick St,2019-10-09 16:00:00,Wednesday,16:00:00,1600.0,1103.0,2703.0
+226,Line 1 : Canal & Varick St,2019-10-09 20:00:00,Wednesday,20:00:00,3205.0,955.0,4160.0
+227,Line 1 : Canal & Varick St,2019-10-10 00:00:00,Thursday,00:00:00,449.0,233.0,682.0
+228,Line 1 : Canal & Varick St,2019-10-10 04:00:00,Thursday,04:00:00,49.0,67.0,116.0
+229,Line 1 : Canal & Varick St,2019-10-10 08:00:00,Thursday,08:00:00,427.0,1461.0,1888.0
+230,Line 1 : Canal & Varick St,2019-10-10 12:00:00,Thursday,12:00:00,935.0,2342.0,3277.0
+231,Line 1 : Canal & Varick St,2019-10-10 16:00:00,Thursday,16:00:00,1864.0,1466.0,3330.0
+232,Line 1 : Canal & Varick St,2019-10-10 20:00:00,Thursday,20:00:00,3749.0,1323.0,5072.0
+233,Line 1 : Canal & Varick St,2019-10-11 00:00:00,Friday,00:00:00,654.0,329.0,983.0
+234,Line 1 : Canal & Varick St,2019-10-11 04:00:00,Friday,04:00:00,76.0,61.0,137.0
+235,Line 1 : Canal & Varick St,2019-10-11 08:00:00,Friday,08:00:00,340.0,1292.0,1632.0
+236,Line 1 : Canal & Varick St,2019-10-11 12:00:00,Friday,12:00:00,864.0,2182.0,3046.0
+237,Line 1 : Canal & Varick St,2019-10-11 16:00:00,Friday,16:00:00,2003.0,1388.0,3391.0
+238,Line 1 : Canal & Varick St,2019-10-11 20:00:00,Friday,20:00:00,3038.0,1066.0,4104.0
+239,Line 1 : Canal & Varick St,2019-10-12 04:00:00,Saturday,04:00:00,118.0,69.0,187.0
+240,Line 1 : Canal & Varick St,2019-10-12 08:00:00,Saturday,08:00:00,104.0,180.0,284.0
+241,Line 1 : Canal & Varick St,2019-10-12 12:00:00,Saturday,12:00:00,399.0,781.0,1180.0
+242,Line 1 : Canal & Varick St,2019-10-12 16:00:00,Saturday,16:00:00,882.0,1030.0,1912.0
+243,Line 1 : Canal & Varick St,2019-10-12 20:00:00,Saturday,20:00:00,873.0,723.0,1596.0
+244,Line 1 : Canal & Varick St,2019-10-13 00:00:00,Sunday,00:00:00,427.0,317.0,744.0
+245,Line 1 : Canal & Varick St,2019-10-13 04:00:00,Sunday,04:00:00,122.0,85.0,207.0
+246,Line 1 : Canal & Varick St,2019-10-13 08:00:00,Sunday,08:00:00,96.0,160.0,256.0
+247,Line 1 : Canal & Varick St,2019-10-13 12:00:00,Sunday,12:00:00,388.0,652.0,1040.0
+248,Line 1 : Canal & Varick St,2019-10-13 16:00:00,Sunday,16:00:00,739.0,832.0,1571.0
+249,Line 1 : Canal & Varick St,2019-10-13 20:00:00,Sunday,20:00:00,694.0,506.0,1200.0
+250,Line 1 : Canal & Varick St,2019-10-14 00:00:00,Monday,00:00:00,261.0,141.0,402.0
+251,Line 1 : Canal & Varick St,2019-10-14 04:00:00,Monday,04:00:00,31.0,35.0,66.0
+252,Line 1 : Canal & Varick St,2019-10-14 08:00:00,Monday,08:00:00,254.0,1144.0,1398.0
+253,Line 1 : Canal & Varick St,2019-10-14 12:00:00,Monday,12:00:00,718.0,1924.0,2642.0
+254,Line 1 : Canal & Varick St,2019-10-14 16:00:00,Monday,16:00:00,1294.0,1139.0,2433.0
+255,Line 1 : Canal & Varick St,2019-10-14 20:00:00,Monday,20:00:00,2917.0,803.0,3720.0
+256,Line 1 : Canal & Varick St,2019-10-15 00:00:00,Tuesday,00:00:00,313.0,205.0,518.0
+257,Line 1 : Canal & Varick St,2019-10-15 04:00:00,Tuesday,04:00:00,35.0,38.0,73.0
+258,Line 1 : Canal & Varick St,2019-10-15 08:00:00,Tuesday,08:00:00,435.0,1533.0,1968.0
+259,Line 1 : Canal & Varick St,2019-10-15 12:00:00,Tuesday,12:00:00,926.0,2357.0,3283.0
+260,Line 1 : Canal & Varick St,2019-10-15 16:00:00,Tuesday,16:00:00,1826.0,1245.0,3071.0
+261,Line 1 : Canal & Varick St,2019-10-15 20:00:00,Tuesday,20:00:00,3609.0,1104.0,4713.0
+262,Line 1 : Canal & Varick St,2019-10-16 00:00:00,Wednesday,00:00:00,512.0,325.0,837.0
+263,Line 1 : Canal & Varick St,2019-10-16 04:00:00,Wednesday,04:00:00,51.0,55.0,106.0
+264,Line 1 : Canal & Varick St,2019-10-16 08:00:00,Wednesday,08:00:00,414.0,1477.0,1891.0
+265,Line 1 : Canal & Varick St,2019-10-16 12:00:00,Wednesday,12:00:00,908.0,2382.0,3290.0
+266,Line 1 : Canal & Varick St,2019-10-16 16:00:00,Wednesday,16:00:00,1944.0,1227.0,3171.0
+267,Line 1 : Canal & Varick St,2019-10-16 20:00:00,Wednesday,20:00:00,4298.0,987.0,5285.0
+268,Line 1 : Canal & Varick St,2019-10-17 00:00:00,Thursday,00:00:00,504.0,245.0,749.0
+269,Line 1 : Canal & Varick St,2019-10-17 04:00:00,Thursday,04:00:00,40.0,50.0,90.0
+270,Line 1 : Canal & Varick St,2019-10-17 08:00:00,Thursday,08:00:00,424.0,1456.0,1880.0
+271,Line 1 : Canal & Varick St,2019-10-17 12:00:00,Thursday,12:00:00,951.0,2473.0,3424.0
+272,Line 1 : Canal & Varick St,2019-10-17 16:00:00,Thursday,16:00:00,1977.0,1326.0,3303.0
+273,Line 1 : Canal & Varick St,2019-10-17 20:00:00,Thursday,20:00:00,3606.0,1135.0,4741.0
+274,Line 1 : Canal & Varick St,2019-10-18 00:00:00,Friday,00:00:00,641.0,325.0,966.0
+275,Line 1 : Canal & Varick St,2019-10-18 04:00:00,Friday,04:00:00,63.0,53.0,116.0
+276,Line 1 : Canal & Varick St,2019-10-18 08:00:00,Friday,08:00:00,397.0,1316.0,1713.0
+277,Line 1 : Canal & Varick St,2019-10-18 12:00:00,Friday,12:00:00,997.0,2311.0,3308.0
+278,Line 1 : Canal & Varick St,2019-10-18 16:00:00,Friday,16:00:00,2086.0,1424.0,3510.0
+279,Line 1 : Canal & Varick St,2019-10-18 20:00:00,Friday,20:00:00,3178.0,1207.0,4385.0
+280,Line 1 : Canal & Varick St,2019-10-19 04:00:00,Saturday,04:00:00,86.0,58.0,144.0
+281,Line 1 : Canal & Varick St,2019-10-19 08:00:00,Saturday,08:00:00,104.0,189.0,293.0
+282,Line 1 : Canal & Varick St,2019-10-19 12:00:00,Saturday,12:00:00,476.0,817.0,1293.0
+283,Line 1 : Canal & Varick St,2019-10-19 16:00:00,Saturday,16:00:00,907.0,1036.0,1943.0
+284,Line 1 : Canal & Varick St,2019-10-19 20:00:00,Saturday,20:00:00,873.0,768.0,1641.0
+285,Line 1 : Canal & Varick St,2019-10-20 00:00:00,Sunday,00:00:00,367.0,268.0,635.0
+286,Line 1 : Canal & Varick St,2019-10-20 04:00:00,Sunday,04:00:00,98.0,37.0,135.0
+287,Line 1 : Canal & Varick St,2019-10-20 08:00:00,Sunday,08:00:00,73.0,113.0,186.0
+288,Line 1 : Canal & Varick St,2019-10-20 12:00:00,Sunday,12:00:00,384.0,683.0,1067.0
+289,Line 1 : Canal & Varick St,2019-10-20 16:00:00,Sunday,16:00:00,670.0,760.0,1430.0
+290,Line 1 : Canal & Varick St,2019-10-20 20:00:00,Sunday,20:00:00,567.0,450.0,1017.0
+291,Line 1 : Canal & Varick St,2019-10-21 00:00:00,Monday,00:00:00,178.0,121.0,299.0
+292,Line 1 : Canal & Varick St,2019-10-21 04:00:00,Monday,04:00:00,25.0,36.0,61.0
+293,Line 1 : Canal & Varick St,2019-10-21 08:00:00,Monday,08:00:00,420.0,1514.0,1934.0
+294,Line 1 : Canal & Varick St,2019-10-21 12:00:00,Monday,12:00:00,835.0,2316.0,3151.0
+295,Line 1 : Canal & Varick St,2019-10-21 16:00:00,Monday,16:00:00,1817.0,1311.0,3128.0
+296,Line 1 : Canal & Varick St,2019-10-21 20:00:00,Monday,20:00:00,3543.0,1116.0,4659.0
+297,Line 1 : Canal & Varick St,2019-10-22 00:00:00,Tuesday,00:00:00,332.0,225.0,557.0
+298,Line 1 : Canal & Varick St,2019-10-22 04:00:00,Tuesday,04:00:00,16.0,46.0,62.0
+299,Line 1 : Canal & Varick St,2019-10-22 08:00:00,Tuesday,08:00:00,437.0,1507.0,1944.0
+300,Line 1 : Canal & Varick St,2019-10-22 12:00:00,Tuesday,12:00:00,977.0,2276.0,3253.0
+301,Line 1 : Canal & Varick St,2019-10-22 16:00:00,Tuesday,16:00:00,1947.0,1179.0,3126.0
+302,Line 1 : Canal & Varick St,2019-10-22 20:00:00,Tuesday,20:00:00,3816.0,1124.0,4940.0
+303,Line 1 : Canal & Varick St,2019-10-23 00:00:00,Wednesday,00:00:00,288.0,265.0,553.0
+304,Line 1 : Canal & Varick St,2019-10-23 04:00:00,Wednesday,04:00:00,18.0,37.0,55.0
+305,Line 1 : Canal & Varick St,2019-10-23 08:00:00,Wednesday,08:00:00,445.0,1414.0,1859.0
+306,Line 1 : Canal & Varick St,2019-10-23 12:00:00,Wednesday,12:00:00,1052.0,2461.0,3513.0
+307,Line 1 : Canal & Varick St,2019-10-23 16:00:00,Wednesday,16:00:00,1849.0,1198.0,3047.0
+308,Line 1 : Canal & Varick St,2019-10-23 20:00:00,Wednesday,20:00:00,3660.0,1147.0,4807.0
+309,Line 1 : Canal & Varick St,2019-10-24 00:00:00,Thursday,00:00:00,303.0,244.0,547.0
+310,Line 1 : Canal & Varick St,2019-10-24 04:00:00,Thursday,04:00:00,20.0,43.0,63.0
+311,Line 1 : Canal & Varick St,2019-10-24 08:00:00,Thursday,08:00:00,408.0,1353.0,1761.0
+312,Line 1 : Canal & Varick St,2019-10-24 12:00:00,Thursday,12:00:00,942.0,2438.0,3380.0
+313,Line 1 : Canal & Varick St,2019-10-24 16:00:00,Thursday,16:00:00,1873.0,1358.0,3231.0
+314,Line 1 : Canal & Varick St,2019-10-24 20:00:00,Thursday,20:00:00,3636.0,1378.0,5014.0
+315,Line 1 : Canal & Varick St,2019-10-25 00:00:00,Friday,00:00:00,337.0,331.0,668.0
+316,Line 1 : Canal & Varick St,2019-10-25 04:00:00,Friday,04:00:00,25.0,37.0,62.0
+317,Line 1 : Canal & Varick St,2019-10-25 08:00:00,Friday,08:00:00,388.0,1216.0,1604.0
+318,Line 1 : Canal & Varick St,2019-10-25 12:00:00,Friday,12:00:00,948.0,2381.0,3329.0
+319,Line 1 : Canal & Varick St,2019-10-25 16:00:00,Friday,16:00:00,2153.0,1405.0,3558.0
+320,Line 1 : Canal & Varick St,2019-10-25 20:00:00,Friday,20:00:00,3014.0,1277.0,4291.0
+321,Line 1 : Canal & Varick St,2019-10-26 04:00:00,Saturday,04:00:00,92.0,78.0,170.0
+322,Line 1 : Canal & Varick St,2019-10-26 08:00:00,Saturday,08:00:00,114.0,229.0,343.0
+323,Line 1 : Canal & Varick St,2019-10-26 12:00:00,Saturday,12:00:00,477.0,924.0,1401.0
+324,Line 1 : Canal & Varick St,2019-10-26 16:00:00,Saturday,16:00:00,938.0,1197.0,2135.0
+325,Line 1 : Canal & Varick St,2019-10-26 20:00:00,Saturday,20:00:00,1058.0,871.0,1929.0
+326,Line 1 : Canal & Varick St,2019-10-27 00:00:00,Sunday,00:00:00,445.0,336.0,781.0
+327,Line 1 : Canal & Varick St,2019-10-27 04:00:00,Sunday,04:00:00,82.0,71.0,153.0
+328,Line 1 : Canal & Varick St,2019-10-27 08:00:00,Sunday,08:00:00,104.0,132.0,236.0
+329,Line 1 : Canal & Varick St,2019-10-27 12:00:00,Sunday,12:00:00,332.0,520.0,852.0
+330,Line 1 : Canal & Varick St,2019-10-27 16:00:00,Sunday,16:00:00,527.0,616.0,1143.0
+331,Line 1 : Canal & Varick St,2019-10-27 20:00:00,Sunday,20:00:00,471.0,117.0,588.0
+332,Line 1 : Canal & Varick St,2019-10-28 00:00:00,Monday,00:00:00,80.0,357.0,437.0
+333,Line 1 : Canal & Varick St,2019-10-28 04:00:00,Monday,04:00:00,143.0,60.0,203.0
+334,Line 1 : Canal & Varick St,2019-10-28 08:00:00,Monday,08:00:00,435.0,1483.0,1918.0
+335,Line 1 : Canal & Varick St,2019-10-28 12:00:00,Monday,12:00:00,894.0,2498.0,3392.0
+336,Line 1 : Canal & Varick St,2019-10-28 16:00:00,Monday,16:00:00,1807.0,1244.0,3051.0
+337,Line 1 : Canal & Varick St,2019-10-28 20:00:00,Monday,20:00:00,3497.0,941.0,4438.0
+338,Line 1 : Canal & Varick St,2019-10-29 00:00:00,Tuesday,00:00:00,392.0,187.0,579.0
+339,Line 1 : Canal & Varick St,2019-10-29 04:00:00,Tuesday,04:00:00,36.0,37.0,73.0
+340,Line 1 : Canal & Varick St,2019-10-29 08:00:00,Tuesday,08:00:00,456.0,1539.0,1995.0
+341,Line 1 : Canal & Varick St,2019-10-29 12:00:00,Tuesday,12:00:00,943.0,2570.0,3513.0
+342,Line 1 : Canal & Varick St,2019-10-29 16:00:00,Tuesday,16:00:00,1906.0,1190.0,3096.0
+343,Line 1 : Canal & Varick St,2019-10-29 20:00:00,Tuesday,20:00:00,3895.0,1102.0,4997.0
+344,Line 1 : Canal & Varick St,2019-10-30 00:00:00,Wednesday,00:00:00,430.0,239.0,669.0
+345,Line 1 : Canal & Varick St,2019-10-30 04:00:00,Wednesday,04:00:00,40.0,36.0,76.0
+346,Line 1 : Canal & Varick St,2019-10-30 08:00:00,Wednesday,08:00:00,427.0,1450.0,1877.0
+347,Line 1 : Canal & Varick St,2019-10-30 12:00:00,Wednesday,12:00:00,1004.0,2661.0,3665.0
+348,Line 1 : Canal & Varick St,2019-10-30 16:00:00,Wednesday,16:00:00,1791.0,1333.0,3124.0
+349,Line 1 : Canal & Varick St,2019-10-30 20:00:00,Wednesday,20:00:00,3583.0,1162.0,4745.0
+350,Line 1 : Canal & Varick St,2019-10-31 00:00:00,Thursday,00:00:00,510.0,221.0,731.0
+351,Line 1 : Canal & Varick St,2019-10-31 04:00:00,Thursday,04:00:00,48.0,66.0,114.0
+352,Line 1 : Canal & Varick St,2019-10-31 08:00:00,Thursday,08:00:00,295.0,1084.0,1379.0
+353,Line 1 : Canal & Varick St,2019-10-31 12:00:00,Thursday,12:00:00,1026.0,2740.0,3766.0
+354,Line 1 : Canal & Varick St,2019-10-31 16:00:00,Thursday,16:00:00,2034.0,1355.0,3389.0
+355,Line 1 : Canal & Varick St,2019-10-31 20:00:00,Thursday,20:00:00,3988.0,2354.0,6342.0
+356,Line 1 : Canal & Varick St,2019-11-01 00:00:00,Friday,00:00:00,842.0,565.0,1407.0
+357,Line 1 : Canal & Varick St,2019-11-01 04:00:00,Friday,04:00:00,95.0,60.0,155.0
+358,Line 1 : Canal & Varick St,2019-11-01 08:00:00,Friday,08:00:00,371.0,1253.0,1624.0
+359,Line 1 : Canal & Varick St,2019-11-01 12:00:00,Friday,12:00:00,995.0,2483.0,3478.0
+360,Line 1 : Canal & Varick St,2019-11-01 16:00:00,Friday,16:00:00,2032.0,1330.0,3362.0
+361,Line 1 : Canal & Varick St,2019-11-01 20:00:00,Friday,20:00:00,3119.0,1197.0,4316.0
+362,Line 1 : Canal & Varick St,2019-11-02 04:00:00,Saturday,04:00:00,92.0,56.0,148.0
+363,Line 1 : Canal & Varick St,2019-11-02 08:00:00,Saturday,08:00:00,111.0,185.0,296.0
+364,Line 1 : Canal & Varick St,2019-11-02 12:00:00,Saturday,12:00:00,472.0,786.0,1258.0
+365,Line 1 : Canal & Varick St,2019-11-02 16:00:00,Saturday,16:00:00,954.0,1225.0,2179.0
+366,Line 1 : Canal & Varick St,2019-11-02 20:00:00,Saturday,20:00:00,941.0,800.0,1741.0
+367,Line 1 : Canal & Varick St,2019-11-03 00:00:00,Sunday,00:00:00,357.0,232.0,589.0
+368,Line 1 : Canal & Varick St,2019-11-03 04:00:00,Sunday,04:00:00,99.0,75.0,174.0
+369,Line 1 : Canal & Varick St,2019-11-03 08:00:00,Sunday,08:00:00,108.0,95.0,203.0
+370,Line 1 : Canal & Varick St,2019-11-03 12:00:00,Sunday,12:00:00,372.0,553.0,925.0
+371,Line 1 : Canal & Varick St,2019-11-03 16:00:00,Sunday,16:00:00,782.0,916.0,1698.0
+372,Line 1 : Canal & Varick St,2019-11-03 20:00:00,Sunday,20:00:00,678.0,765.0,1443.0
+373,Line 1 : Canal & Varick St,2019-11-04 00:00:00,Monday,00:00:00,254.0,217.0,471.0
+374,Line 1 : Canal & Varick St,2019-11-04 04:00:00,Monday,04:00:00,45.0,27.0,72.0
+375,Line 1 : Canal & Varick St,2019-11-04 08:00:00,Monday,08:00:00,174.0,544.0,718.0
+376,Line 1 : Canal & Varick St,2019-11-04 12:00:00,Monday,12:00:00,792.0,3083.0,3875.0
+377,Line 1 : Canal & Varick St,2019-11-04 16:00:00,Monday,16:00:00,1416.0,1219.0,2635.0
+378,Line 1 : Canal & Varick St,2019-11-04 20:00:00,Monday,20:00:00,4056.0,1398.0,5454.0
+379,Line 1 : Canal & Varick St,2019-11-05 00:00:00,Tuesday,00:00:00,722.0,248.0,970.0
+380,Line 1 : Canal & Varick St,2019-11-05 04:00:00,Tuesday,04:00:00,66.0,45.0,111.0
+381,Line 1 : Canal & Varick St,2019-11-05 08:00:00,Tuesday,08:00:00,185.0,582.0,767.0
+382,Line 1 : Canal & Varick St,2019-11-05 12:00:00,Tuesday,12:00:00,847.0,3066.0,3913.0
+383,Line 1 : Canal & Varick St,2019-11-05 16:00:00,Tuesday,16:00:00,1328.0,1146.0,2474.0
+384,Line 1 : Canal & Varick St,2019-11-05 20:00:00,Tuesday,20:00:00,3949.0,1371.0,5320.0
+385,Line 1 : Canal & Varick St,2019-11-06 00:00:00,Wednesday,00:00:00,693.0,289.0,982.0
+386,Line 1 : Canal & Varick St,2019-11-06 04:00:00,Wednesday,04:00:00,87.0,33.0,120.0
+387,Line 1 : Canal & Varick St,2019-11-06 08:00:00,Wednesday,08:00:00,196.0,579.0,775.0
+388,Line 1 : Canal & Varick St,2019-11-06 12:00:00,Wednesday,12:00:00,881.0,3094.0,3975.0
+389,Line 1 : Canal & Varick St,2019-11-06 16:00:00,Wednesday,16:00:00,1431.0,1140.0,2571.0
+390,Line 1 : Canal & Varick St,2019-11-06 20:00:00,Wednesday,20:00:00,4026.0,1342.0,5368.0
+391,Line 1 : Canal & Varick St,2019-11-07 00:00:00,Thursday,00:00:00,827.0,321.0,1148.0
+392,Line 1 : Canal & Varick St,2019-11-07 04:00:00,Thursday,04:00:00,90.0,62.0,152.0
+393,Line 1 : Canal & Varick St,2019-11-07 08:00:00,Thursday,08:00:00,174.0,554.0,728.0
+394,Line 1 : Canal & Varick St,2019-11-07 12:00:00,Thursday,12:00:00,875.0,3171.0,4046.0
+395,Line 1 : Canal & Varick St,2019-11-07 16:00:00,Thursday,16:00:00,1466.0,1264.0,2730.0
+396,Line 1 : Canal & Varick St,2019-11-07 20:00:00,Thursday,20:00:00,4430.0,1608.0,6038.0
+397,Line 1 : Canal & Varick St,2019-11-08 00:00:00,Friday,00:00:00,997.0,365.0,1362.0
+398,Line 1 : Canal & Varick St,2019-11-08 04:00:00,Friday,04:00:00,122.0,68.0,190.0
+399,Line 1 : Canal & Varick St,2019-11-08 08:00:00,Friday,08:00:00,164.0,494.0,658.0
+400,Line 1 : Canal & Varick St,2019-11-08 12:00:00,Friday,12:00:00,876.0,2831.0,3707.0
+401,Line 1 : Canal & Varick St,2019-11-08 16:00:00,Friday,16:00:00,1717.0,1367.0,3084.0
+402,Line 1 : Canal & Varick St,2019-11-08 20:00:00,Friday,20:00:00,3832.0,1331.0,5163.0
+403,Line 1 : Canal & Varick St,2019-11-09 04:00:00,Saturday,04:00:00,138.0,110.0,248.0
+404,Line 1 : Canal & Varick St,2019-11-09 08:00:00,Saturday,08:00:00,60.0,108.0,168.0
+405,Line 1 : Canal & Varick St,2019-11-09 12:00:00,Saturday,12:00:00,359.0,665.0,1024.0
+406,Line 1 : Canal & Varick St,2019-11-09 16:00:00,Saturday,16:00:00,804.0,1173.0,1977.0
+407,Line 1 : Canal & Varick St,2019-11-09 20:00:00,Saturday,20:00:00,995.0,937.0,1932.0
+408,Line 1 : Canal & Varick St,2019-11-10 00:00:00,Sunday,00:00:00,420.0,406.0,826.0
+409,Line 1 : Canal & Varick St,2019-11-10 04:00:00,Sunday,04:00:00,140.0,67.0,207.0
+410,Line 1 : Canal & Varick St,2019-11-10 08:00:00,Sunday,08:00:00,33.0,66.0,99.0
+411,Line 1 : Canal & Varick St,2019-11-10 12:00:00,Sunday,12:00:00,317.0,565.0,882.0
+412,Line 1 : Canal & Varick St,2019-11-10 16:00:00,Sunday,16:00:00,699.0,920.0,1619.0
+413,Line 1 : Canal & Varick St,2019-11-10 20:00:00,Sunday,20:00:00,781.0,747.0,1528.0
+414,Line 1 : Canal & Varick St,2019-11-11 00:00:00,Monday,00:00:00,146.0,217.0,363.0
+415,Line 1 : Canal & Varick St,2019-11-11 04:00:00,Monday,04:00:00,207.0,53.0,260.0
+416,Line 1 : Canal & Varick St,2019-11-11 08:00:00,Monday,08:00:00,116.0,448.0,564.0
+417,Line 1 : Canal & Varick St,2019-11-11 12:00:00,Monday,12:00:00,542.0,2164.0,2706.0
+418,Line 1 : Canal & Varick St,2019-11-11 16:00:00,Monday,16:00:00,1045.0,1104.0,2149.0
+419,Line 1 : Canal & Varick St,2019-11-11 20:00:00,Monday,20:00:00,3479.0,1036.0,4515.0
+420,Line 1 : Canal & Varick St,2019-11-12 00:00:00,Tuesday,00:00:00,603.0,273.0,876.0
+421,Line 1 : Canal & Varick St,2019-11-12 04:00:00,Tuesday,04:00:00,70.0,31.0,101.0
+422,Line 1 : Canal & Varick St,2019-11-12 08:00:00,Tuesday,08:00:00,185.0,594.0,779.0
+423,Line 1 : Canal & Varick St,2019-11-12 12:00:00,Tuesday,12:00:00,911.0,3353.0,4264.0
+424,Line 1 : Canal & Varick St,2019-11-12 16:00:00,Tuesday,16:00:00,1416.0,1123.0,2539.0
+425,Line 1 : Canal & Varick St,2019-11-12 20:00:00,Tuesday,20:00:00,4147.0,1092.0,5239.0
+426,Line 1 : Canal & Varick St,2019-11-13 00:00:00,Wednesday,00:00:00,733.0,291.0,1024.0
+427,Line 1 : Canal & Varick St,2019-11-13 04:00:00,Wednesday,04:00:00,96.0,38.0,134.0
+428,Line 1 : Canal & Varick St,2019-11-13 08:00:00,Wednesday,08:00:00,194.0,509.0,703.0
+429,Line 1 : Canal & Varick St,2019-11-13 12:00:00,Wednesday,12:00:00,886.0,3352.0,4238.0
+430,Line 1 : Canal & Varick St,2019-11-13 16:00:00,Wednesday,16:00:00,1412.0,1119.0,2531.0
+431,Line 1 : Canal & Varick St,2019-11-13 20:00:00,Wednesday,20:00:00,4452.0,1454.0,5906.0
+432,Line 1 : Canal & Varick St,2019-11-14 00:00:00,Thursday,00:00:00,853.0,323.0,1176.0
+433,Line 1 : Canal & Varick St,2019-11-14 04:00:00,Thursday,04:00:00,104.0,41.0,145.0
+434,Line 1 : Canal & Varick St,2019-11-14 08:00:00,Thursday,08:00:00,185.0,546.0,731.0
+435,Line 1 : Canal & Varick St,2019-11-14 12:00:00,Thursday,12:00:00,926.0,3177.0,4103.0
+436,Line 1 : Canal & Varick St,2019-11-14 16:00:00,Thursday,16:00:00,1523.0,1235.0,2758.0
+437,Line 1 : Canal & Varick St,2019-11-14 20:00:00,Thursday,20:00:00,4089.0,1443.0,5532.0
+438,Line 1 : Canal & Varick St,2019-11-15 00:00:00,Friday,00:00:00,849.0,403.0,1252.0
+439,Line 1 : Canal & Varick St,2019-11-15 04:00:00,Friday,04:00:00,151.0,67.0,218.0
+440,Line 1 : Canal & Varick St,2019-11-15 08:00:00,Friday,08:00:00,167.0,463.0,630.0
+441,Line 1 : Canal & Varick St,2019-11-15 12:00:00,Friday,12:00:00,847.0,2918.0,3765.0
+442,Line 1 : Canal & Varick St,2019-11-15 16:00:00,Friday,16:00:00,1655.0,1213.0,2868.0
+443,Line 1 : Canal & Varick St,2019-11-15 20:00:00,Friday,20:00:00,3602.0,1199.0,4801.0
+444,Line 1 : Canal & Varick St,2019-11-16 04:00:00,Saturday,04:00:00,145.0,111.0,256.0
+445,Line 1 : Canal & Varick St,2019-11-16 08:00:00,Saturday,08:00:00,62.0,143.0,205.0
+446,Line 1 : Canal & Varick St,2019-11-16 12:00:00,Saturday,12:00:00,331.0,644.0,975.0
+447,Line 1 : Canal & Varick St,2019-11-16 16:00:00,Saturday,16:00:00,769.0,1026.0,1795.0
+448,Line 1 : Canal & Varick St,2019-11-16 20:00:00,Saturday,20:00:00,888.0,862.0,1750.0
+449,Line 1 : Canal & Varick St,2019-11-17 00:00:00,Sunday,00:00:00,371.0,357.0,728.0
+450,Line 1 : Canal & Varick St,2019-11-17 04:00:00,Sunday,04:00:00,167.0,80.0,247.0
+451,Line 1 : Canal & Varick St,2019-11-17 08:00:00,Sunday,08:00:00,39.0,68.0,107.0
+452,Line 1 : Canal & Varick St,2019-11-17 12:00:00,Sunday,12:00:00,208.0,480.0,688.0
+453,Line 1 : Canal & Varick St,2019-11-17 16:00:00,Sunday,16:00:00,916.0,992.0,1908.0
+454,Line 1 : Canal & Varick St,2019-11-17 20:00:00,Sunday,20:00:00,743.0,532.0,1275.0
+455,Line 1 : Canal & Varick St,2019-11-18 00:00:00,Monday,00:00:00,276.0,316.0,592.0
+456,Line 1 : Canal & Varick St,2019-11-18 04:00:00,Monday,04:00:00,99.0,38.0,137.0
+457,Line 1 : Canal & Varick St,2019-11-18 08:00:00,Monday,08:00:00,185.0,565.0,750.0
+458,Line 1 : Canal & Varick St,2019-11-18 12:00:00,Monday,12:00:00,828.0,3076.0,3904.0
+459,Line 1 : Canal & Varick St,2019-11-18 16:00:00,Monday,16:00:00,1367.0,1052.0,2419.0
+460,Line 1 : Canal & Varick St,2019-11-18 20:00:00,Monday,20:00:00,4047.0,1058.0,5105.0
+461,Line 1 : Canal & Varick St,2019-11-19 00:00:00,Tuesday,00:00:00,627.0,262.0,889.0
+462,Line 1 : Canal & Varick St,2019-11-19 04:00:00,Tuesday,04:00:00,74.0,45.0,119.0
+463,Line 1 : Canal & Varick St,2019-11-19 08:00:00,Tuesday,08:00:00,193.0,554.0,747.0
+464,Line 1 : Canal & Varick St,2019-11-19 12:00:00,Tuesday,12:00:00,836.0,3078.0,3914.0
+465,Line 1 : Canal & Varick St,2019-11-19 16:00:00,Tuesday,16:00:00,1371.0,1183.0,2554.0
+466,Line 1 : Canal & Varick St,2019-11-19 20:00:00,Tuesday,20:00:00,4101.0,1185.0,5286.0
+467,Line 1 : Canal & Varick St,2019-11-20 00:00:00,Wednesday,00:00:00,762.0,275.0,1037.0
+468,Line 1 : Canal & Varick St,2019-11-20 04:00:00,Wednesday,04:00:00,98.0,45.0,143.0
+469,Line 1 : Canal & Varick St,2019-11-20 08:00:00,Wednesday,08:00:00,199.0,581.0,780.0
+470,Line 1 : Canal & Varick St,2019-11-20 12:00:00,Wednesday,12:00:00,898.0,3227.0,4125.0
+471,Line 1 : Canal & Varick St,2019-11-20 16:00:00,Wednesday,16:00:00,1377.0,1137.0,2514.0
+472,Line 1 : Canal & Varick St,2019-11-20 20:00:00,Wednesday,20:00:00,4119.0,1401.0,5520.0
+473,Line 1 : Canal & Varick St,2019-11-21 00:00:00,Thursday,00:00:00,988.0,343.0,1331.0
+474,Line 1 : Canal & Varick St,2019-11-21 04:00:00,Thursday,04:00:00,111.0,59.0,170.0
+475,Line 1 : Canal & Varick St,2019-11-21 08:00:00,Thursday,08:00:00,202.0,582.0,784.0
+476,Line 1 : Canal & Varick St,2019-11-21 12:00:00,Thursday,12:00:00,873.0,3118.0,3991.0
+477,Line 1 : Canal & Varick St,2019-11-21 16:00:00,Thursday,16:00:00,1354.0,1188.0,2542.0
+478,Line 1 : Canal & Varick St,2019-11-21 20:00:00,Thursday,20:00:00,3917.0,1415.0,5332.0
+479,Line 1 : Canal & Varick St,2019-11-22 00:00:00,Friday,00:00:00,1027.0,369.0,1396.0
+480,Line 1 : Canal & Varick St,2019-11-22 04:00:00,Friday,04:00:00,148.0,65.0,213.0
+481,Line 1 : Canal & Varick St,2019-11-22 08:00:00,Friday,08:00:00,186.0,452.0,638.0
+482,Line 1 : Canal & Varick St,2019-11-22 12:00:00,Friday,12:00:00,872.0,2960.0,3832.0
+483,Line 1 : Canal & Varick St,2019-11-22 16:00:00,Friday,16:00:00,1628.0,1318.0,2946.0
+484,Line 1 : Canal & Varick St,2019-11-22 20:00:00,Friday,20:00:00,3643.0,1241.0,4884.0
+485,Line 1 : Canal & Varick St,2019-11-23 04:00:00,Saturday,04:00:00,168.0,84.0,252.0
+486,Line 1 : Canal & Varick St,2019-11-23 08:00:00,Saturday,08:00:00,56.0,91.0,147.0
+487,Line 1 : Canal & Varick St,2019-11-23 12:00:00,Saturday,12:00:00,361.0,620.0,981.0
+488,Line 1 : Canal & Varick St,2019-11-23 16:00:00,Saturday,16:00:00,845.0,1046.0,1891.0
+489,Line 1 : Canal & Varick St,2019-11-23 20:00:00,Saturday,20:00:00,945.0,866.0,1811.0
+490,Line 1 : Canal & Varick St,2019-11-24 00:00:00,Sunday,00:00:00,442.0,413.0,855.0
+491,Line 1 : Canal & Varick St,2019-11-24 04:00:00,Sunday,04:00:00,188.0,80.0,268.0
+492,Line 1 : Canal & Varick St,2019-11-24 08:00:00,Sunday,08:00:00,46.0,50.0,96.0
+493,Line 1 : Canal & Varick St,2019-11-24 12:00:00,Sunday,12:00:00,240.0,438.0,678.0
+494,Line 1 : Canal & Varick St,2019-11-24 16:00:00,Sunday,16:00:00,504.0,562.0,1066.0
+495,Line 1 : Canal & Varick St,2019-11-24 20:00:00,Sunday,20:00:00,587.0,509.0,1096.0
+496,Line 1 : Canal & Varick St,2019-11-25 00:00:00,Monday,00:00:00,262.0,221.0,483.0
+497,Line 1 : Canal & Varick St,2019-11-25 04:00:00,Monday,04:00:00,31.0,34.0,65.0
+498,Line 1 : Canal & Varick St,2019-11-25 08:00:00,Monday,08:00:00,172.0,516.0,688.0
+499,Line 1 : Canal & Varick St,2019-11-25 12:00:00,Monday,12:00:00,907.0,2861.0,3768.0
+500,Line 1 : Canal & Varick St,2019-11-25 16:00:00,Monday,16:00:00,1392.0,1246.0,2638.0
+501,Line 1 : Canal & Varick St,2019-11-25 20:00:00,Monday,20:00:00,3803.0,1197.0,5000.0
+502,Line 1 : Canal & Varick St,2019-11-26 00:00:00,Tuesday,00:00:00,603.0,317.0,920.0
+503,Line 1 : Canal & Varick St,2019-11-26 04:00:00,Tuesday,04:00:00,55.0,38.0,93.0
+504,Line 1 : Canal & Varick St,2019-11-26 08:00:00,Tuesday,08:00:00,206.0,534.0,740.0
+505,Line 1 : Canal & Varick St,2019-11-26 12:00:00,Tuesday,12:00:00,891.0,2686.0,3577.0
+506,Line 1 : Canal & Varick St,2019-11-26 16:00:00,Tuesday,16:00:00,1378.0,1163.0,2541.0
+507,Line 1 : Canal & Varick St,2019-11-26 20:00:00,Tuesday,20:00:00,3775.0,1184.0,4959.0
+508,Line 1 : Canal & Varick St,2019-11-27 00:00:00,Wednesday,00:00:00,628.0,323.0,951.0
+509,Line 1 : Canal & Varick St,2019-11-27 04:00:00,Wednesday,04:00:00,82.0,131.0,213.0
+510,Line 1 : Canal & Varick St,2019-11-27 08:00:00,Wednesday,08:00:00,145.0,455.0,600.0
+511,Line 1 : Canal & Varick St,2019-11-27 12:00:00,Wednesday,12:00:00,734.0,2032.0,2766.0
+512,Line 1 : Canal & Varick St,2019-11-27 16:00:00,Wednesday,16:00:00,2102.0,1057.0,3159.0
+513,Line 1 : Canal & Varick St,2019-11-27 20:00:00,Wednesday,20:00:00,1881.0,938.0,2819.0
+514,Line 1 : Canal & Varick St,2019-11-28 00:00:00,Thursday,00:00:00,395.0,370.0,765.0
+515,Line 1 : Canal & Varick St,2019-11-28 04:00:00,Thursday,04:00:00,84.0,77.0,161.0
+516,Line 1 : Canal & Varick St,2019-11-28 08:00:00,Thursday,08:00:00,97.0,58.0,155.0
+517,Line 1 : Canal & Varick St,2019-11-28 12:00:00,Thursday,12:00:00,372.0,349.0,721.0
+518,Line 1 : Canal & Varick St,2019-11-28 16:00:00,Thursday,16:00:00,506.0,701.0,1207.0
+519,Line 1 : Canal & Varick St,2019-11-28 20:00:00,Thursday,20:00:00,472.0,477.0,949.0
+520,Line 1 : Canal & Varick St,2019-11-29 00:00:00,Friday,00:00:00,260.0,260.0,520.0
+521,Line 1 : Canal & Varick St,2019-11-29 04:00:00,Friday,04:00:00,39.0,51.0,90.0
+522,Line 1 : Canal & Varick St,2019-11-29 08:00:00,Friday,08:00:00,54.0,206.0,260.0
+523,Line 1 : Canal & Varick St,2019-11-29 12:00:00,Friday,12:00:00,359.0,914.0,1273.0
+524,Line 1 : Canal & Varick St,2019-11-29 16:00:00,Friday,16:00:00,779.0,1264.0,2043.0
+525,Line 1 : Canal & Varick St,2019-11-29 20:00:00,Friday,20:00:00,1050.0,845.0,1895.0
+526,Line ACE : Av Americas & WBroadway,2019-09-01 08:00:00,Sunday,08:00:00,194.0,301.0,495.0
+527,Line ACE : Av Americas & WBroadway,2019-09-01 12:00:00,Sunday,12:00:00,992.0,1909.0,2901.0
+528,Line ACE : Av Americas & WBroadway,2019-09-01 16:00:00,Sunday,16:00:00,2342.0,3435.0,5777.0
+529,Line ACE : Av Americas & WBroadway,2019-09-01 20:00:00,Sunday,20:00:00,3169.0,2614.0,5783.0
+530,Line ACE : Av Americas & WBroadway,2019-09-02 00:00:00,Monday,00:00:00,1824.0,935.0,2759.0
+531,Line ACE : Av Americas & WBroadway,2019-09-02 04:00:00,Monday,04:00:00,231.0,140.0,371.0
+532,Line ACE : Av Americas & WBroadway,2019-09-02 08:00:00,Monday,08:00:00,183.0,385.0,568.0
+533,Line ACE : Av Americas & WBroadway,2019-09-02 12:00:00,Monday,12:00:00,907.0,1832.0,2739.0
+534,Line ACE : Av Americas & WBroadway,2019-09-02 16:00:00,Monday,16:00:00,1899.0,2412.0,4311.0
+535,Line ACE : Av Americas & WBroadway,2019-09-02 20:00:00,Monday,20:00:00,2490.0,1851.0,4341.0
+536,Line ACE : Av Americas & WBroadway,2019-09-03 00:00:00,Tuesday,00:00:00,1132.0,622.0,1754.0
+537,Line ACE : Av Americas & WBroadway,2019-09-03 04:00:00,Tuesday,04:00:00,132.0,83.0,215.0
+538,Line ACE : Av Americas & WBroadway,2019-09-03 08:00:00,Tuesday,08:00:00,495.0,2397.0,2892.0
+539,Line ACE : Av Americas & WBroadway,2019-09-03 12:00:00,Tuesday,12:00:00,2130.0,8149.0,10279.0
+540,Line ACE : Av Americas & WBroadway,2019-09-03 16:00:00,Tuesday,16:00:00,3864.0,3308.0,7172.0
+541,Line ACE : Av Americas & WBroadway,2019-09-03 20:00:00,Tuesday,20:00:00,11263.0,3094.0,14357.0
+542,Line ACE : Av Americas & WBroadway,2019-09-04 00:00:00,Wednesday,00:00:00,2590.0,775.0,3365.0
+543,Line ACE : Av Americas & WBroadway,2019-09-04 04:00:00,Wednesday,04:00:00,1.0,17.0,18.0
+544,Line ACE : Av Americas & WBroadway,2019-09-04 08:00:00,Wednesday,08:00:00,483.0,2504.0,2987.0
+545,Line ACE : Av Americas & WBroadway,2019-09-04 12:00:00,Wednesday,12:00:00,2384.0,8669.0,11053.0
+546,Line ACE : Av Americas & WBroadway,2019-09-04 16:00:00,Wednesday,16:00:00,4257.0,3493.0,7750.0
+547,Line ACE : Av Americas & WBroadway,2019-09-04 20:00:00,Wednesday,20:00:00,11321.0,3580.0,14901.0
+548,Line ACE : Av Americas & WBroadway,2019-09-05 00:00:00,Thursday,00:00:00,3382.0,863.0,4245.0
+549,Line ACE : Av Americas & WBroadway,2019-09-05 04:00:00,Thursday,04:00:00,3.0,37.0,40.0
+550,Line ACE : Av Americas & WBroadway,2019-09-05 08:00:00,Thursday,08:00:00,531.0,2482.0,3013.0
+551,Line ACE : Av Americas & WBroadway,2019-09-05 12:00:00,Thursday,12:00:00,2430.0,8903.0,11333.0
+552,Line ACE : Av Americas & WBroadway,2019-09-05 16:00:00,Thursday,16:00:00,4684.0,4059.0,8743.0
+553,Line ACE : Av Americas & WBroadway,2019-09-05 20:00:00,Thursday,20:00:00,11823.0,4190.0,16013.0
+554,Line ACE : Av Americas & WBroadway,2019-09-06 00:00:00,Friday,00:00:00,3492.0,1093.0,4585.0
+555,Line ACE : Av Americas & WBroadway,2019-09-06 04:00:00,Friday,04:00:00,33.0,66.0,99.0
+556,Line ACE : Av Americas & WBroadway,2019-09-06 08:00:00,Friday,08:00:00,505.0,2044.0,2549.0
+557,Line ACE : Av Americas & WBroadway,2019-09-06 12:00:00,Friday,12:00:00,2369.0,7922.0,10291.0
+558,Line ACE : Av Americas & WBroadway,2019-09-06 16:00:00,Friday,16:00:00,5137.0,4196.0,9333.0
+559,Line ACE : Av Americas & WBroadway,2019-09-06 20:00:00,Friday,20:00:00,11421.0,4251.0,15672.0
+560,Line ACE : Av Americas & WBroadway,2019-09-07 04:00:00,Saturday,04:00:00,524.0,239.0,763.0
+561,Line ACE : Av Americas & WBroadway,2019-09-07 08:00:00,Saturday,08:00:00,261.0,731.0,992.0
+562,Line ACE : Av Americas & WBroadway,2019-09-07 12:00:00,Saturday,12:00:00,1334.0,3506.0,4840.0
+563,Line ACE : Av Americas & WBroadway,2019-09-07 16:00:00,Saturday,16:00:00,3527.0,4810.0,8337.0
+564,Line ACE : Av Americas & WBroadway,2019-09-07 20:00:00,Saturday,20:00:00,4240.0,3861.0,8101.0
+565,Line ACE : Av Americas & WBroadway,2019-09-08 00:00:00,Sunday,00:00:00,2703.0,1396.0,4099.0
+566,Line ACE : Av Americas & WBroadway,2019-09-08 04:00:00,Sunday,04:00:00,595.0,200.0,795.0
+567,Line ACE : Av Americas & WBroadway,2019-09-08 08:00:00,Sunday,08:00:00,180.0,457.0,637.0
+568,Line ACE : Av Americas & WBroadway,2019-09-08 12:00:00,Sunday,12:00:00,1083.0,2270.0,3353.0
+569,Line ACE : Av Americas & WBroadway,2019-09-08 16:00:00,Sunday,16:00:00,2561.0,3778.0,6339.0
+570,Line ACE : Av Americas & WBroadway,2019-09-08 20:00:00,Sunday,20:00:00,3660.0,3033.0,6693.0
+571,Line ACE : Av Americas & WBroadway,2019-09-09 00:00:00,Monday,00:00:00,2088.0,789.0,2877.0
+572,Line ACE : Av Americas & WBroadway,2019-09-09 04:00:00,Monday,04:00:00,220.0,97.0,317.0
+573,Line ACE : Av Americas & WBroadway,2019-09-09 08:00:00,Monday,08:00:00,597.0,2303.0,2900.0
+574,Line ACE : Av Americas & WBroadway,2019-09-09 12:00:00,Monday,12:00:00,2261.0,8845.0,11106.0
+575,Line ACE : Av Americas & WBroadway,2019-09-09 16:00:00,Monday,16:00:00,4324.0,3820.0,8144.0
+576,Line ACE : Av Americas & WBroadway,2019-09-09 20:00:00,Monday,20:00:00,11961.0,3706.0,15667.0
+577,Line ACE : Av Americas & WBroadway,2019-09-10 00:00:00,Tuesday,00:00:00,3092.0,858.0,3950.0
+578,Line ACE : Av Americas & WBroadway,2019-09-10 04:00:00,Tuesday,04:00:00,275.0,158.0,433.0
+579,Line ACE : Av Americas & WBroadway,2019-09-10 08:00:00,Tuesday,08:00:00,590.0,2580.0,3170.0
+580,Line ACE : Av Americas & WBroadway,2019-09-10 12:00:00,Tuesday,12:00:00,2432.0,9198.0,11630.0
+581,Line ACE : Av Americas & WBroadway,2019-09-10 16:00:00,Tuesday,16:00:00,4591.0,3852.0,8443.0
+582,Line ACE : Av Americas & WBroadway,2019-09-10 20:00:00,Tuesday,20:00:00,12315.0,3776.0,16091.0
+583,Line ACE : Av Americas & WBroadway,2019-09-11 00:00:00,Wednesday,00:00:00,3518.0,1092.0,4610.0
+584,Line ACE : Av Americas & WBroadway,2019-09-11 04:00:00,Wednesday,04:00:00,424.0,161.0,585.0
+585,Line ACE : Av Americas & WBroadway,2019-09-11 08:00:00,Wednesday,08:00:00,676.0,2689.0,3365.0
+586,Line ACE : Av Americas & WBroadway,2019-09-11 12:00:00,Wednesday,12:00:00,2423.0,9120.0,11543.0
+587,Line ACE : Av Americas & WBroadway,2019-09-11 16:00:00,Wednesday,16:00:00,4635.0,4131.0,8766.0
+588,Line ACE : Av Americas & WBroadway,2019-09-11 20:00:00,Wednesday,20:00:00,12089.0,4050.0,16139.0
+589,Line ACE : Av Americas & WBroadway,2019-09-12 00:00:00,Thursday,00:00:00,3641.0,1133.0,4774.0
+590,Line ACE : Av Americas & WBroadway,2019-09-12 04:00:00,Thursday,04:00:00,387.0,144.0,531.0
+591,Line ACE : Av Americas & WBroadway,2019-09-12 08:00:00,Thursday,08:00:00,607.0,2449.0,3056.0
+592,Line ACE : Av Americas & WBroadway,2019-09-12 12:00:00,Thursday,12:00:00,2338.0,8727.0,11065.0
+593,Line ACE : Av Americas & WBroadway,2019-09-12 16:00:00,Thursday,16:00:00,4547.0,3795.0,8342.0
+594,Line ACE : Av Americas & WBroadway,2019-09-12 20:00:00,Thursday,20:00:00,12186.0,3855.0,16041.0
+595,Line ACE : Av Americas & WBroadway,2019-09-13 00:00:00,Friday,00:00:00,3367.0,1064.0,4431.0
+596,Line ACE : Av Americas & WBroadway,2019-09-13 04:00:00,Friday,04:00:00,397.0,171.0,568.0
+597,Line ACE : Av Americas & WBroadway,2019-09-13 08:00:00,Friday,08:00:00,591.0,2288.0,2879.0
+598,Line ACE : Av Americas & WBroadway,2019-09-13 12:00:00,Friday,12:00:00,2312.0,8240.0,10552.0
+599,Line ACE : Av Americas & WBroadway,2019-09-13 16:00:00,Friday,16:00:00,4817.0,4235.0,9052.0
+600,Line ACE : Av Americas & WBroadway,2019-09-13 20:00:00,Friday,20:00:00,11007.0,4646.0,15653.0
+601,Line ACE : Av Americas & WBroadway,2019-09-14 04:00:00,Saturday,04:00:00,692.0,277.0,969.0
+602,Line ACE : Av Americas & WBroadway,2019-09-14 08:00:00,Saturday,08:00:00,247.0,511.0,758.0
+603,Line ACE : Av Americas & WBroadway,2019-09-14 12:00:00,Saturday,12:00:00,968.0,2564.0,3532.0
+604,Line ACE : Av Americas & WBroadway,2019-09-14 16:00:00,Saturday,16:00:00,2858.0,4653.0,7511.0
+605,Line ACE : Av Americas & WBroadway,2019-09-14 20:00:00,Saturday,20:00:00,4416.0,3759.0,8175.0
+606,Line ACE : Av Americas & WBroadway,2019-09-15 00:00:00,Sunday,00:00:00,2519.0,1324.0,3843.0
+607,Line ACE : Av Americas & WBroadway,2019-09-15 04:00:00,Sunday,04:00:00,667.0,218.0,885.0
+608,Line ACE : Av Americas & WBroadway,2019-09-15 08:00:00,Sunday,08:00:00,205.0,318.0,523.0
+609,Line ACE : Av Americas & WBroadway,2019-09-15 12:00:00,Sunday,12:00:00,864.0,2112.0,2976.0
+610,Line ACE : Av Americas & WBroadway,2019-09-15 16:00:00,Sunday,16:00:00,2471.0,3551.0,6022.0
+611,Line ACE : Av Americas & WBroadway,2019-09-15 20:00:00,Sunday,20:00:00,3521.0,2647.0,6168.0
+612,Line ACE : Av Americas & WBroadway,2019-09-16 00:00:00,Monday,00:00:00,1704.0,685.0,2389.0
+613,Line ACE : Av Americas & WBroadway,2019-09-16 04:00:00,Monday,04:00:00,178.0,91.0,269.0
+614,Line ACE : Av Americas & WBroadway,2019-09-16 08:00:00,Monday,08:00:00,593.0,2372.0,2965.0
+615,Line ACE : Av Americas & WBroadway,2019-09-16 12:00:00,Monday,12:00:00,2166.0,8744.0,10910.0
+616,Line ACE : Av Americas & WBroadway,2019-09-16 16:00:00,Monday,16:00:00,4083.0,3355.0,7438.0
+617,Line ACE : Av Americas & WBroadway,2019-09-16 20:00:00,Monday,20:00:00,11620.0,3392.0,15012.0
+618,Line ACE : Av Americas & WBroadway,2019-09-17 00:00:00,Tuesday,00:00:00,2783.0,715.0,3498.0
+619,Line ACE : Av Americas & WBroadway,2019-09-17 04:00:00,Tuesday,04:00:00,258.0,172.0,430.0
+620,Line ACE : Av Americas & WBroadway,2019-09-17 08:00:00,Tuesday,08:00:00,612.0,2463.0,3075.0
+621,Line ACE : Av Americas & WBroadway,2019-09-17 12:00:00,Tuesday,12:00:00,2244.0,8988.0,11232.0
+622,Line ACE : Av Americas & WBroadway,2019-09-17 16:00:00,Tuesday,16:00:00,4291.0,3617.0,7908.0
+623,Line ACE : Av Americas & WBroadway,2019-09-17 20:00:00,Tuesday,20:00:00,12030.0,3809.0,15839.0
+624,Line ACE : Av Americas & WBroadway,2019-09-18 00:00:00,Wednesday,00:00:00,3289.0,853.0,4142.0
+625,Line ACE : Av Americas & WBroadway,2019-09-18 04:00:00,Wednesday,04:00:00,289.0,100.0,389.0
+626,Line ACE : Av Americas & WBroadway,2019-09-18 08:00:00,Wednesday,08:00:00,613.0,2446.0,3059.0
+627,Line ACE : Av Americas & WBroadway,2019-09-18 12:00:00,Wednesday,12:00:00,2161.0,8846.0,11007.0
+628,Line ACE : Av Americas & WBroadway,2019-09-18 16:00:00,Wednesday,16:00:00,4397.0,3557.0,7954.0
+629,Line ACE : Av Americas & WBroadway,2019-09-18 20:00:00,Wednesday,20:00:00,12019.0,3972.0,15991.0
+630,Line ACE : Av Americas & WBroadway,2019-09-19 00:00:00,Thursday,00:00:00,3372.0,923.0,4295.0
+631,Line ACE : Av Americas & WBroadway,2019-09-19 04:00:00,Thursday,04:00:00,292.0,96.0,388.0
+632,Line ACE : Av Americas & WBroadway,2019-09-19 08:00:00,Thursday,08:00:00,609.0,2468.0,3077.0
+633,Line ACE : Av Americas & WBroadway,2019-09-19 12:00:00,Thursday,12:00:00,2217.0,8779.0,10996.0
+634,Line ACE : Av Americas & WBroadway,2019-09-19 16:00:00,Thursday,16:00:00,4534.0,3952.0,8486.0
+635,Line ACE : Av Americas & WBroadway,2019-09-19 20:00:00,Thursday,20:00:00,12108.0,4409.0,16517.0
+636,Line ACE : Av Americas & WBroadway,2019-09-20 00:00:00,Friday,00:00:00,3627.0,1138.0,4765.0
+637,Line ACE : Av Americas & WBroadway,2019-09-20 04:00:00,Friday,04:00:00,396.0,109.0,505.0
+638,Line ACE : Av Americas & WBroadway,2019-09-20 08:00:00,Friday,08:00:00,578.0,2208.0,2786.0
+639,Line ACE : Av Americas & WBroadway,2019-09-20 12:00:00,Friday,12:00:00,2278.0,8168.0,10446.0
+640,Line ACE : Av Americas & WBroadway,2019-09-20 16:00:00,Friday,16:00:00,5273.0,4517.0,9790.0
+641,Line ACE : Av Americas & WBroadway,2019-09-20 20:00:00,Friday,20:00:00,10716.0,4495.0,15211.0
+642,Line ACE : Av Americas & WBroadway,2019-09-21 04:00:00,Saturday,04:00:00,637.0,285.0,922.0
+643,Line ACE : Av Americas & WBroadway,2019-09-21 08:00:00,Saturday,08:00:00,246.0,633.0,879.0
+644,Line ACE : Av Americas & WBroadway,2019-09-21 12:00:00,Saturday,12:00:00,1120.0,3064.0,4184.0
+645,Line ACE : Av Americas & WBroadway,2019-09-21 16:00:00,Saturday,16:00:00,3415.0,5267.0,8682.0
+646,Line ACE : Av Americas & WBroadway,2019-09-21 20:00:00,Saturday,20:00:00,4880.0,4673.0,9553.0
+647,Line ACE : Av Americas & WBroadway,2019-09-22 00:00:00,Sunday,00:00:00,2889.0,1833.0,4722.0
+648,Line ACE : Av Americas & WBroadway,2019-09-22 04:00:00,Sunday,04:00:00,697.0,232.0,929.0
+649,Line ACE : Av Americas & WBroadway,2019-09-22 08:00:00,Sunday,08:00:00,179.0,347.0,526.0
+650,Line ACE : Av Americas & WBroadway,2019-09-22 12:00:00,Sunday,12:00:00,848.0,2461.0,3309.0
+651,Line ACE : Av Americas & WBroadway,2019-09-22 16:00:00,Sunday,16:00:00,2726.0,3947.0,6673.0
+652,Line ACE : Av Americas & WBroadway,2019-09-22 20:00:00,Sunday,20:00:00,3612.0,3322.0,6934.0
+653,Line ACE : Av Americas & WBroadway,2019-09-23 00:00:00,Monday,00:00:00,1803.0,733.0,2536.0
+654,Line ACE : Av Americas & WBroadway,2019-09-23 04:00:00,Monday,04:00:00,187.0,83.0,270.0
+655,Line ACE : Av Americas & WBroadway,2019-09-23 08:00:00,Monday,08:00:00,638.0,2476.0,3114.0
+656,Line ACE : Av Americas & WBroadway,2019-09-23 12:00:00,Monday,12:00:00,2285.0,8488.0,10773.0
+657,Line ACE : Av Americas & WBroadway,2019-09-23 16:00:00,Monday,16:00:00,4185.0,3354.0,7539.0
+658,Line ACE : Av Americas & WBroadway,2019-09-23 20:00:00,Monday,20:00:00,11709.0,3306.0,15015.0
+659,Line ACE : Av Americas & WBroadway,2019-09-24 00:00:00,Tuesday,00:00:00,2630.0,719.0,3349.0
+660,Line ACE : Av Americas & WBroadway,2019-09-24 04:00:00,Tuesday,04:00:00,241.0,79.0,320.0
+661,Line ACE : Av Americas & WBroadway,2019-09-24 08:00:00,Tuesday,08:00:00,626.0,2435.0,3061.0
+662,Line ACE : Av Americas & WBroadway,2019-09-24 12:00:00,Tuesday,12:00:00,2406.0,9020.0,11426.0
+663,Line ACE : Av Americas & WBroadway,2019-09-24 16:00:00,Tuesday,16:00:00,4310.0,3563.0,7873.0
+664,Line ACE : Av Americas & WBroadway,2019-09-24 20:00:00,Tuesday,20:00:00,11992.0,3461.0,15453.0
+665,Line ACE : Av Americas & WBroadway,2019-09-25 00:00:00,Wednesday,00:00:00,2927.0,857.0,3784.0
+666,Line ACE : Av Americas & WBroadway,2019-09-25 04:00:00,Wednesday,04:00:00,275.0,118.0,393.0
+667,Line ACE : Av Americas & WBroadway,2019-09-25 08:00:00,Wednesday,08:00:00,686.0,2552.0,3238.0
+668,Line ACE : Av Americas & WBroadway,2019-09-25 12:00:00,Wednesday,12:00:00,2404.0,8588.0,10992.0
+669,Line ACE : Av Americas & WBroadway,2019-09-25 16:00:00,Wednesday,16:00:00,4382.0,3590.0,7972.0
+670,Line ACE : Av Americas & WBroadway,2019-09-25 20:00:00,Wednesday,20:00:00,11666.0,3737.0,15403.0
+671,Line ACE : Av Americas & WBroadway,2019-09-26 00:00:00,Thursday,00:00:00,3112.0,939.0,4051.0
+672,Line ACE : Av Americas & WBroadway,2019-09-26 04:00:00,Thursday,04:00:00,338.0,137.0,475.0
+673,Line ACE : Av Americas & WBroadway,2019-09-26 08:00:00,Thursday,08:00:00,607.0,2431.0,3038.0
+674,Line ACE : Av Americas & WBroadway,2019-09-26 12:00:00,Thursday,12:00:00,2374.0,8823.0,11197.0
+675,Line ACE : Av Americas & WBroadway,2019-09-26 16:00:00,Thursday,16:00:00,4544.0,3798.0,8342.0
+676,Line ACE : Av Americas & WBroadway,2019-09-26 20:00:00,Thursday,20:00:00,11869.0,4189.0,16058.0
+677,Line ACE : Av Americas & WBroadway,2019-09-27 00:00:00,Friday,00:00:00,3293.0,958.0,4251.0
+678,Line ACE : Av Americas & WBroadway,2019-09-27 04:00:00,Friday,04:00:00,407.0,160.0,567.0
+679,Line ACE : Av Americas & WBroadway,2019-09-27 08:00:00,Friday,08:00:00,589.0,2242.0,2831.0
+680,Line ACE : Av Americas & WBroadway,2019-09-27 12:00:00,Friday,12:00:00,2388.0,7901.0,10289.0
+681,Line ACE : Av Americas & WBroadway,2019-09-27 16:00:00,Friday,16:00:00,4820.0,4103.0,8923.0
+682,Line ACE : Av Americas & WBroadway,2019-09-27 20:00:00,Friday,20:00:00,10719.0,4072.0,14791.0
+683,Line ACE : Av Americas & WBroadway,2019-09-28 04:00:00,Saturday,04:00:00,657.0,305.0,962.0
+684,Line ACE : Av Americas & WBroadway,2019-09-28 08:00:00,Saturday,08:00:00,224.0,610.0,834.0
+685,Line ACE : Av Americas & WBroadway,2019-09-28 12:00:00,Saturday,12:00:00,1135.0,2987.0,4122.0
+686,Line ACE : Av Americas & WBroadway,2019-09-28 16:00:00,Saturday,16:00:00,2895.0,4258.0,7153.0
+687,Line ACE : Av Americas & WBroadway,2019-09-28 20:00:00,Saturday,20:00:00,3912.0,3576.0,7488.0
+688,Line ACE : Av Americas & WBroadway,2019-09-29 00:00:00,Sunday,00:00:00,1920.0,1335.0,3255.0
+689,Line ACE : Av Americas & WBroadway,2019-09-29 04:00:00,Sunday,04:00:00,502.0,235.0,737.0
+690,Line ACE : Av Americas & WBroadway,2019-09-29 08:00:00,Sunday,08:00:00,192.0,321.0,513.0
+691,Line ACE : Av Americas & WBroadway,2019-09-29 12:00:00,Sunday,12:00:00,891.0,2185.0,3076.0
+692,Line ACE : Av Americas & WBroadway,2019-09-29 16:00:00,Sunday,16:00:00,2269.0,3297.0,5566.0
+693,Line ACE : Av Americas & WBroadway,2019-09-29 20:00:00,Sunday,20:00:00,2954.0,2603.0,5557.0
+694,Line ACE : Av Americas & WBroadway,2019-09-30 00:00:00,Monday,00:00:00,1518.0,708.0,2226.0
+695,Line ACE : Av Americas & WBroadway,2019-09-30 04:00:00,Monday,04:00:00,189.0,86.0,275.0
+696,Line ACE : Av Americas & WBroadway,2019-09-30 08:00:00,Monday,08:00:00,449.0,2223.0,2672.0
+697,Line ACE : Av Americas & WBroadway,2019-09-30 12:00:00,Monday,12:00:00,2051.0,7904.0,9955.0
+698,Line ACE : Av Americas & WBroadway,2019-09-30 16:00:00,Monday,16:00:00,3807.0,3354.0,7161.0
+699,Line ACE : Av Americas & WBroadway,2019-09-30 20:00:00,Monday,20:00:00,10680.0,2709.0,13389.0
+700,Line ACE : Av Americas & WBroadway,2019-10-01 00:00:00,Tuesday,00:00:00,2424.0,608.0,3032.0
+701,Line ACE : Av Americas & WBroadway,2019-10-01 04:00:00,Tuesday,04:00:00,243.0,93.0,336.0
+702,Line ACE : Av Americas & WBroadway,2019-10-01 08:00:00,Tuesday,08:00:00,518.0,2463.0,2981.0
+703,Line ACE : Av Americas & WBroadway,2019-10-01 12:00:00,Tuesday,12:00:00,2163.0,8598.0,10761.0
+704,Line ACE : Av Americas & WBroadway,2019-10-01 16:00:00,Tuesday,16:00:00,4043.0,3472.0,7515.0
+705,Line ACE : Av Americas & WBroadway,2019-10-01 20:00:00,Tuesday,20:00:00,11535.0,3320.0,14855.0
+706,Line ACE : Av Americas & WBroadway,2019-10-02 00:00:00,Wednesday,00:00:00,2823.0,725.0,3548.0
+707,Line ACE : Av Americas & WBroadway,2019-10-02 04:00:00,Wednesday,04:00:00,333.0,102.0,435.0
+708,Line ACE : Av Americas & WBroadway,2019-10-02 08:00:00,Wednesday,08:00:00,629.0,2529.0,3158.0
+709,Line ACE : Av Americas & WBroadway,2019-10-02 12:00:00,Wednesday,12:00:00,2325.0,8836.0,11161.0
+710,Line ACE : Av Americas & WBroadway,2019-10-02 16:00:00,Wednesday,16:00:00,4241.0,3380.0,7621.0
+711,Line ACE : Av Americas & WBroadway,2019-10-02 20:00:00,Wednesday,20:00:00,12392.0,3639.0,16031.0
+712,Line ACE : Av Americas & WBroadway,2019-10-03 00:00:00,Thursday,00:00:00,3079.0,747.0,3826.0
+713,Line ACE : Av Americas & WBroadway,2019-10-03 04:00:00,Thursday,04:00:00,361.0,119.0,480.0
+714,Line ACE : Av Americas & WBroadway,2019-10-03 08:00:00,Thursday,08:00:00,600.0,2522.0,3122.0
+715,Line ACE : Av Americas & WBroadway,2019-10-03 12:00:00,Thursday,12:00:00,2379.0,8825.0,11204.0
+716,Line ACE : Av Americas & WBroadway,2019-10-03 16:00:00,Thursday,16:00:00,4339.0,3741.0,8080.0
+717,Line ACE : Av Americas & WBroadway,2019-10-03 20:00:00,Thursday,20:00:00,12424.0,3877.0,16301.0
+718,Line ACE : Av Americas & WBroadway,2019-10-04 00:00:00,Friday,00:00:00,3481.0,995.0,4476.0
+719,Line ACE : Av Americas & WBroadway,2019-10-04 04:00:00,Friday,04:00:00,442.0,146.0,588.0
+720,Line ACE : Av Americas & WBroadway,2019-10-04 08:00:00,Friday,08:00:00,583.0,2129.0,2712.0
+721,Line ACE : Av Americas & WBroadway,2019-10-04 12:00:00,Friday,12:00:00,2379.0,8002.0,10381.0
+722,Line ACE : Av Americas & WBroadway,2019-10-04 16:00:00,Friday,16:00:00,4829.0,3949.0,8778.0
+723,Line ACE : Av Americas & WBroadway,2019-10-04 20:00:00,Friday,20:00:00,11335.0,5378.0,16713.0
+724,Line ACE : Av Americas & WBroadway,2019-10-05 04:00:00,Saturday,04:00:00,576.0,204.0,780.0
+725,Line ACE : Av Americas & WBroadway,2019-10-05 08:00:00,Saturday,08:00:00,214.0,519.0,733.0
+726,Line ACE : Av Americas & WBroadway,2019-10-05 12:00:00,Saturday,12:00:00,1030.0,2551.0,3581.0
+727,Line ACE : Av Americas & WBroadway,2019-10-05 16:00:00,Saturday,16:00:00,2882.0,3709.0,6591.0
+728,Line ACE : Av Americas & WBroadway,2019-10-05 20:00:00,Saturday,20:00:00,3857.0,3208.0,7065.0
+729,Line ACE : Av Americas & WBroadway,2019-10-06 00:00:00,Sunday,00:00:00,1884.0,1084.0,2968.0
+730,Line ACE : Av Americas & WBroadway,2019-10-06 04:00:00,Sunday,04:00:00,526.0,224.0,750.0
+731,Line ACE : Av Americas & WBroadway,2019-10-06 08:00:00,Sunday,08:00:00,167.0,311.0,478.0
+732,Line ACE : Av Americas & WBroadway,2019-10-06 12:00:00,Sunday,12:00:00,893.0,1822.0,2715.0
+733,Line ACE : Av Americas & WBroadway,2019-10-06 16:00:00,Sunday,16:00:00,2199.0,2924.0,5123.0
+734,Line ACE : Av Americas & WBroadway,2019-10-06 20:00:00,Sunday,20:00:00,2923.0,2165.0,5088.0
+735,Line ACE : Av Americas & WBroadway,2019-10-07 00:00:00,Monday,00:00:00,1346.0,532.0,1878.0
+736,Line ACE : Av Americas & WBroadway,2019-10-07 04:00:00,Monday,04:00:00,173.0,96.0,269.0
+737,Line ACE : Av Americas & WBroadway,2019-10-07 08:00:00,Monday,08:00:00,577.0,2305.0,2882.0
+738,Line ACE : Av Americas & WBroadway,2019-10-07 12:00:00,Monday,12:00:00,2265.0,8767.0,11032.0
+739,Line ACE : Av Americas & WBroadway,2019-10-07 16:00:00,Monday,16:00:00,4177.0,3402.0,7579.0
+740,Line ACE : Av Americas & WBroadway,2019-10-07 20:00:00,Monday,20:00:00,11963.0,3288.0,15251.0
+741,Line ACE : Av Americas & WBroadway,2019-10-08 00:00:00,Tuesday,00:00:00,2714.0,767.0,3481.0
+742,Line ACE : Av Americas & WBroadway,2019-10-08 04:00:00,Tuesday,04:00:00,254.0,139.0,393.0
+743,Line ACE : Av Americas & WBroadway,2019-10-08 08:00:00,Tuesday,08:00:00,630.0,2370.0,3000.0
+744,Line ACE : Av Americas & WBroadway,2019-10-08 12:00:00,Tuesday,12:00:00,2363.0,9032.0,11395.0
+745,Line ACE : Av Americas & WBroadway,2019-10-08 16:00:00,Tuesday,16:00:00,4391.0,3500.0,7891.0
+746,Line ACE : Av Americas & WBroadway,2019-10-08 20:00:00,Tuesday,20:00:00,11891.0,3290.0,15181.0
+747,Line ACE : Av Americas & WBroadway,2019-10-09 00:00:00,Wednesday,00:00:00,3031.0,905.0,3936.0
+748,Line ACE : Av Americas & WBroadway,2019-10-09 04:00:00,Wednesday,04:00:00,343.0,176.0,519.0
+749,Line ACE : Av Americas & WBroadway,2019-10-09 08:00:00,Wednesday,08:00:00,469.0,2212.0,2681.0
+750,Line ACE : Av Americas & WBroadway,2019-10-09 12:00:00,Wednesday,12:00:00,2151.0,8205.0,10356.0
+751,Line ACE : Av Americas & WBroadway,2019-10-09 16:00:00,Wednesday,16:00:00,3650.0,3099.0,6749.0
+752,Line ACE : Av Americas & WBroadway,2019-10-09 20:00:00,Wednesday,20:00:00,10888.0,3203.0,14091.0
+753,Line ACE : Av Americas & WBroadway,2019-10-10 00:00:00,Thursday,00:00:00,2863.0,841.0,3704.0
+754,Line ACE : Av Americas & WBroadway,2019-10-10 04:00:00,Thursday,04:00:00,322.0,156.0,478.0
+755,Line ACE : Av Americas & WBroadway,2019-10-10 08:00:00,Thursday,08:00:00,623.0,2560.0,3183.0
+756,Line ACE : Av Americas & WBroadway,2019-10-10 12:00:00,Thursday,12:00:00,2419.0,8880.0,11299.0
+757,Line ACE : Av Americas & WBroadway,2019-10-10 16:00:00,Thursday,16:00:00,4602.0,3861.0,8463.0
+758,Line ACE : Av Americas & WBroadway,2019-10-10 20:00:00,Thursday,20:00:00,12265.0,4188.0,16453.0
+759,Line ACE : Av Americas & WBroadway,2019-10-11 00:00:00,Friday,00:00:00,3616.0,1158.0,4774.0
+760,Line ACE : Av Americas & WBroadway,2019-10-11 04:00:00,Friday,04:00:00,483.0,219.0,702.0
+761,Line ACE : Av Americas & WBroadway,2019-10-11 08:00:00,Friday,08:00:00,571.0,2221.0,2792.0
+762,Line ACE : Av Americas & WBroadway,2019-10-11 12:00:00,Friday,12:00:00,2387.0,8161.0,10548.0
+763,Line ACE : Av Americas & WBroadway,2019-10-11 16:00:00,Friday,16:00:00,4969.0,4052.0,9021.0
+764,Line ACE : Av Americas & WBroadway,2019-10-11 20:00:00,Friday,20:00:00,10990.0,4025.0,15015.0
+765,Line ACE : Av Americas & WBroadway,2019-10-12 04:00:00,Saturday,04:00:00,618.0,267.0,885.0
+766,Line ACE : Av Americas & WBroadway,2019-10-12 08:00:00,Saturday,08:00:00,224.0,590.0,814.0
+767,Line ACE : Av Americas & WBroadway,2019-10-12 12:00:00,Saturday,12:00:00,1050.0,3094.0,4144.0
+768,Line ACE : Av Americas & WBroadway,2019-10-12 16:00:00,Saturday,16:00:00,3107.0,4696.0,7803.0
+769,Line ACE : Av Americas & WBroadway,2019-10-12 20:00:00,Saturday,20:00:00,4525.0,4103.0,8628.0
+770,Line ACE : Av Americas & WBroadway,2019-10-13 00:00:00,Sunday,00:00:00,2243.0,1394.0,3637.0
+771,Line ACE : Av Americas & WBroadway,2019-10-13 04:00:00,Sunday,04:00:00,607.0,254.0,861.0
+772,Line ACE : Av Americas & WBroadway,2019-10-13 08:00:00,Sunday,08:00:00,191.0,353.0,544.0
+773,Line ACE : Av Americas & WBroadway,2019-10-13 12:00:00,Sunday,12:00:00,1040.0,2507.0,3547.0
+774,Line ACE : Av Americas & WBroadway,2019-10-13 16:00:00,Sunday,16:00:00,2543.0,3859.0,6402.0
+775,Line ACE : Av Americas & WBroadway,2019-10-13 20:00:00,Sunday,20:00:00,3444.0,2982.0,6426.0
+776,Line ACE : Av Americas & WBroadway,2019-10-14 00:00:00,Monday,00:00:00,1625.0,901.0,2526.0
+777,Line ACE : Av Americas & WBroadway,2019-10-14 04:00:00,Monday,04:00:00,238.0,119.0,357.0
+778,Line ACE : Av Americas & WBroadway,2019-10-14 08:00:00,Monday,08:00:00,338.0,1536.0,1874.0
+779,Line ACE : Av Americas & WBroadway,2019-10-14 12:00:00,Monday,12:00:00,1682.0,6383.0,8065.0
+780,Line ACE : Av Americas & WBroadway,2019-10-14 16:00:00,Monday,16:00:00,3484.0,3398.0,6882.0
+781,Line ACE : Av Americas & WBroadway,2019-10-14 20:00:00,Monday,20:00:00,8627.0,2979.0,11606.0
+782,Line ACE : Av Americas & WBroadway,2019-10-15 00:00:00,Tuesday,00:00:00,2170.0,726.0,2896.0
+783,Line ACE : Av Americas & WBroadway,2019-10-15 04:00:00,Tuesday,04:00:00,203.0,96.0,299.0
+784,Line ACE : Av Americas & WBroadway,2019-10-15 08:00:00,Tuesday,08:00:00,600.0,2374.0,2974.0
+785,Line ACE : Av Americas & WBroadway,2019-10-15 12:00:00,Tuesday,12:00:00,2440.0,8865.0,11305.0
+786,Line ACE : Av Americas & WBroadway,2019-10-15 16:00:00,Tuesday,16:00:00,4445.0,3759.0,8204.0
+787,Line ACE : Av Americas & WBroadway,2019-10-15 20:00:00,Tuesday,20:00:00,11928.0,3512.0,15440.0
+788,Line ACE : Av Americas & WBroadway,2019-10-16 00:00:00,Wednesday,00:00:00,2921.0,736.0,3657.0
+789,Line ACE : Av Americas & WBroadway,2019-10-16 04:00:00,Wednesday,04:00:00,319.0,152.0,471.0
+790,Line ACE : Av Americas & WBroadway,2019-10-16 08:00:00,Wednesday,08:00:00,613.0,2491.0,3104.0
+791,Line ACE : Av Americas & WBroadway,2019-10-16 12:00:00,Wednesday,12:00:00,2444.0,8931.0,11375.0
+792,Line ACE : Av Americas & WBroadway,2019-10-16 16:00:00,Wednesday,16:00:00,4482.0,3530.0,8012.0
+793,Line ACE : Av Americas & WBroadway,2019-10-16 20:00:00,Wednesday,20:00:00,12392.0,3868.0,16260.0
+794,Line ACE : Av Americas & WBroadway,2019-10-17 00:00:00,Thursday,00:00:00,2920.0,814.0,3734.0
+795,Line ACE : Av Americas & WBroadway,2019-10-17 04:00:00,Thursday,04:00:00,321.0,99.0,420.0
+796,Line ACE : Av Americas & WBroadway,2019-10-17 08:00:00,Thursday,08:00:00,634.0,2358.0,2992.0
+797,Line ACE : Av Americas & WBroadway,2019-10-17 12:00:00,Thursday,12:00:00,2457.0,8981.0,11438.0
+798,Line ACE : Av Americas & WBroadway,2019-10-17 16:00:00,Thursday,16:00:00,4740.0,3879.0,8619.0
+799,Line ACE : Av Americas & WBroadway,2019-10-17 20:00:00,Thursday,20:00:00,12226.0,3897.0,16123.0
+800,Line ACE : Av Americas & WBroadway,2019-10-18 00:00:00,Friday,00:00:00,3423.0,1147.0,4570.0
+801,Line ACE : Av Americas & WBroadway,2019-10-18 04:00:00,Friday,04:00:00,448.0,172.0,620.0
+802,Line ACE : Av Americas & WBroadway,2019-10-18 08:00:00,Friday,08:00:00,576.0,2190.0,2766.0
+803,Line ACE : Av Americas & WBroadway,2019-10-18 12:00:00,Friday,12:00:00,2296.0,8214.0,10510.0
+804,Line ACE : Av Americas & WBroadway,2019-10-18 16:00:00,Friday,16:00:00,5008.0,4161.0,9169.0
+805,Line ACE : Av Americas & WBroadway,2019-10-18 20:00:00,Friday,20:00:00,11517.0,4242.0,15759.0
+806,Line ACE : Av Americas & WBroadway,2019-10-19 04:00:00,Saturday,04:00:00,590.0,226.0,816.0
+807,Line ACE : Av Americas & WBroadway,2019-10-19 08:00:00,Saturday,08:00:00,232.0,557.0,789.0
+808,Line ACE : Av Americas & WBroadway,2019-10-19 12:00:00,Saturday,12:00:00,1219.0,3168.0,4387.0
+809,Line ACE : Av Americas & WBroadway,2019-10-19 16:00:00,Saturday,16:00:00,3270.0,4559.0,7829.0
+810,Line ACE : Av Americas & WBroadway,2019-10-19 20:00:00,Saturday,20:00:00,4248.0,3713.0,7961.0
+811,Line ACE : Av Americas & WBroadway,2019-10-20 00:00:00,Sunday,00:00:00,2116.0,1176.0,3292.0
+812,Line ACE : Av Americas & WBroadway,2019-10-20 04:00:00,Sunday,04:00:00,656.0,228.0,884.0
+813,Line ACE : Av Americas & WBroadway,2019-10-20 08:00:00,Sunday,08:00:00,195.0,306.0,501.0
+814,Line ACE : Av Americas & WBroadway,2019-10-20 12:00:00,Sunday,12:00:00,911.0,2113.0,3024.0
+815,Line ACE : Av Americas & WBroadway,2019-10-20 16:00:00,Sunday,16:00:00,2429.0,3088.0,5517.0
+816,Line ACE : Av Americas & WBroadway,2019-10-20 20:00:00,Sunday,20:00:00,2786.0,2060.0,4846.0
+817,Line ACE : Av Americas & WBroadway,2019-10-21 00:00:00,Monday,00:00:00,1239.0,633.0,1872.0
+818,Line ACE : Av Americas & WBroadway,2019-10-21 04:00:00,Monday,04:00:00,162.0,87.0,249.0
+819,Line ACE : Av Americas & WBroadway,2019-10-21 08:00:00,Monday,08:00:00,594.0,2336.0,2930.0
+820,Line ACE : Av Americas & WBroadway,2019-10-21 12:00:00,Monday,12:00:00,2376.0,8624.0,11000.0
+821,Line ACE : Av Americas & WBroadway,2019-10-21 16:00:00,Monday,16:00:00,4076.0,3460.0,7536.0
+822,Line ACE : Av Americas & WBroadway,2019-10-21 20:00:00,Monday,20:00:00,11583.0,3487.0,15070.0
+823,Line ACE : Av Americas & WBroadway,2019-10-22 00:00:00,Tuesday,00:00:00,3090.0,774.0,3864.0
+824,Line ACE : Av Americas & WBroadway,2019-10-22 04:00:00,Tuesday,04:00:00,347.0,127.0,474.0
+825,Line ACE : Av Americas & WBroadway,2019-10-22 08:00:00,Tuesday,08:00:00,606.0,2388.0,2994.0
+826,Line ACE : Av Americas & WBroadway,2019-10-22 12:00:00,Tuesday,12:00:00,2467.0,8739.0,11206.0
+827,Line ACE : Av Americas & WBroadway,2019-10-22 16:00:00,Tuesday,16:00:00,4377.0,3679.0,8056.0
+828,Line ACE : Av Americas & WBroadway,2019-10-22 20:00:00,Tuesday,20:00:00,12250.0,3347.0,15597.0
+829,Line ACE : Av Americas & WBroadway,2019-10-23 00:00:00,Wednesday,00:00:00,3176.0,928.0,4104.0
+830,Line ACE : Av Americas & WBroadway,2019-10-23 04:00:00,Wednesday,04:00:00,370.0,116.0,486.0
+831,Line ACE : Av Americas & WBroadway,2019-10-23 08:00:00,Wednesday,08:00:00,644.0,2417.0,3061.0
+832,Line ACE : Av Americas & WBroadway,2019-10-23 12:00:00,Wednesday,12:00:00,2374.0,8779.0,11153.0
+833,Line ACE : Av Americas & WBroadway,2019-10-23 16:00:00,Wednesday,16:00:00,4342.0,3611.0,7953.0
+834,Line ACE : Av Americas & WBroadway,2019-10-23 20:00:00,Wednesday,20:00:00,11981.0,3745.0,15726.0
+835,Line ACE : Av Americas & WBroadway,2019-10-24 00:00:00,Thursday,00:00:00,3427.0,923.0,4350.0
+836,Line ACE : Av Americas & WBroadway,2019-10-24 04:00:00,Thursday,04:00:00,438.0,135.0,573.0
+837,Line ACE : Av Americas & WBroadway,2019-10-24 08:00:00,Thursday,08:00:00,615.0,2419.0,3034.0
+838,Line ACE : Av Americas & WBroadway,2019-10-24 12:00:00,Thursday,12:00:00,2376.0,8978.0,11354.0
+839,Line ACE : Av Americas & WBroadway,2019-10-24 16:00:00,Thursday,16:00:00,4635.0,3890.0,8525.0
+840,Line ACE : Av Americas & WBroadway,2019-10-24 20:00:00,Thursday,20:00:00,12256.0,4404.0,16660.0
+841,Line ACE : Av Americas & WBroadway,2019-10-25 00:00:00,Friday,00:00:00,3885.0,1129.0,5014.0
+842,Line ACE : Av Americas & WBroadway,2019-10-25 04:00:00,Friday,04:00:00,571.0,191.0,762.0
+843,Line ACE : Av Americas & WBroadway,2019-10-25 08:00:00,Friday,08:00:00,580.0,2185.0,2765.0
+844,Line ACE : Av Americas & WBroadway,2019-10-25 12:00:00,Friday,12:00:00,2337.0,8158.0,10495.0
+845,Line ACE : Av Americas & WBroadway,2019-10-25 16:00:00,Friday,16:00:00,4864.0,3941.0,8805.0
+846,Line ACE : Av Americas & WBroadway,2019-10-25 20:00:00,Friday,20:00:00,10914.0,4339.0,15253.0
+847,Line ACE : Av Americas & WBroadway,2019-10-26 04:00:00,Saturday,04:00:00,749.0,243.0,992.0
+848,Line ACE : Av Americas & WBroadway,2019-10-26 08:00:00,Saturday,08:00:00,231.0,599.0,830.0
+849,Line ACE : Av Americas & WBroadway,2019-10-26 12:00:00,Saturday,12:00:00,1079.0,3110.0,4189.0
+850,Line ACE : Av Americas & WBroadway,2019-10-26 16:00:00,Saturday,16:00:00,2935.0,4543.0,7478.0
+851,Line ACE : Av Americas & WBroadway,2019-10-26 20:00:00,Saturday,20:00:00,4248.0,3918.0,8166.0
+852,Line ACE : Av Americas & WBroadway,2019-10-27 00:00:00,Sunday,00:00:00,2181.0,1328.0,3509.0
+853,Line ACE : Av Americas & WBroadway,2019-10-27 04:00:00,Sunday,04:00:00,639.0,233.0,872.0
+854,Line ACE : Av Americas & WBroadway,2019-10-27 08:00:00,Sunday,08:00:00,190.0,338.0,528.0
+855,Line ACE : Av Americas & WBroadway,2019-10-27 12:00:00,Sunday,12:00:00,782.0,1899.0,2681.0
+856,Line ACE : Av Americas & WBroadway,2019-10-27 16:00:00,Sunday,16:00:00,1789.0,2335.0,4124.0
+857,Line ACE : Av Americas & WBroadway,2019-10-27 20:00:00,Sunday,20:00:00,2555.0,2108.0,4663.0
+858,Line ACE : Av Americas & WBroadway,2019-10-28 00:00:00,Monday,00:00:00,1350.0,680.0,2030.0
+859,Line ACE : Av Americas & WBroadway,2019-10-28 04:00:00,Monday,04:00:00,194.0,80.0,274.0
+860,Line ACE : Av Americas & WBroadway,2019-10-28 08:00:00,Monday,08:00:00,542.0,2310.0,2852.0
+861,Line ACE : Av Americas & WBroadway,2019-10-28 12:00:00,Monday,12:00:00,2357.0,8737.0,11094.0
+862,Line ACE : Av Americas & WBroadway,2019-10-28 16:00:00,Monday,16:00:00,4363.0,3624.0,7987.0
+863,Line ACE : Av Americas & WBroadway,2019-10-28 20:00:00,Monday,20:00:00,11966.0,3212.0,15178.0
+864,Line ACE : Av Americas & WBroadway,2019-10-29 00:00:00,Tuesday,00:00:00,2591.0,684.0,3275.0
+865,Line ACE : Av Americas & WBroadway,2019-10-29 04:00:00,Tuesday,04:00:00,217.0,79.0,296.0
+866,Line ACE : Av Americas & WBroadway,2019-10-29 08:00:00,Tuesday,08:00:00,627.0,2504.0,3131.0
+867,Line ACE : Av Americas & WBroadway,2019-10-29 12:00:00,Tuesday,12:00:00,2474.0,9021.0,11495.0
+868,Line ACE : Av Americas & WBroadway,2019-10-29 16:00:00,Tuesday,16:00:00,4443.0,3614.0,8057.0
+869,Line ACE : Av Americas & WBroadway,2019-10-29 20:00:00,Tuesday,20:00:00,12604.0,3574.0,16178.0
+870,Line ACE : Av Americas & WBroadway,2019-10-30 00:00:00,Wednesday,00:00:00,3088.0,894.0,3982.0
+871,Line ACE : Av Americas & WBroadway,2019-10-30 04:00:00,Wednesday,04:00:00,293.0,124.0,417.0
+872,Line ACE : Av Americas & WBroadway,2019-10-30 08:00:00,Wednesday,08:00:00,615.0,2455.0,3070.0
+873,Line ACE : Av Americas & WBroadway,2019-10-30 12:00:00,Wednesday,12:00:00,2448.0,9016.0,11464.0
+874,Line ACE : Av Americas & WBroadway,2019-10-30 16:00:00,Wednesday,16:00:00,4340.0,3761.0,8101.0
+875,Line ACE : Av Americas & WBroadway,2019-10-30 20:00:00,Wednesday,20:00:00,12238.0,3937.0,16175.0
+876,Line ACE : Av Americas & WBroadway,2019-10-31 00:00:00,Thursday,00:00:00,3286.0,925.0,4211.0
+877,Line ACE : Av Americas & WBroadway,2019-10-31 04:00:00,Thursday,04:00:00,334.0,190.0,524.0
+878,Line ACE : Av Americas & WBroadway,2019-10-31 08:00:00,Thursday,08:00:00,585.0,2254.0,2839.0
+879,Line ACE : Av Americas & WBroadway,2019-10-31 12:00:00,Thursday,12:00:00,2340.0,8568.0,10908.0
+880,Line ACE : Av Americas & WBroadway,2019-10-31 16:00:00,Thursday,16:00:00,4590.0,3396.0,7986.0
+881,Line ACE : Av Americas & WBroadway,2019-10-31 20:00:00,Thursday,20:00:00,12901.0,7805.0,20706.0
+882,Line ACE : Av Americas & WBroadway,2019-11-01 00:00:00,Friday,00:00:00,5136.0,2408.0,7544.0
+883,Line ACE : Av Americas & WBroadway,2019-11-01 04:00:00,Friday,04:00:00,513.0,370.0,883.0
+884,Line ACE : Av Americas & WBroadway,2019-11-01 08:00:00,Friday,08:00:00,576.0,2092.0,2668.0
+885,Line ACE : Av Americas & WBroadway,2019-11-01 12:00:00,Friday,12:00:00,2488.0,8231.0,10719.0
+886,Line ACE : Av Americas & WBroadway,2019-11-01 16:00:00,Friday,16:00:00,4788.0,3973.0,8761.0
+887,Line ACE : Av Americas & WBroadway,2019-11-01 20:00:00,Friday,20:00:00,11072.0,4205.0,15277.0
+888,Line ACE : Av Americas & WBroadway,2019-11-02 04:00:00,Saturday,04:00:00,587.0,211.0,798.0
+889,Line ACE : Av Americas & WBroadway,2019-11-02 08:00:00,Saturday,08:00:00,216.0,554.0,770.0
+890,Line ACE : Av Americas & WBroadway,2019-11-02 12:00:00,Saturday,12:00:00,1117.0,2803.0,3920.0
+891,Line ACE : Av Americas & WBroadway,2019-11-02 16:00:00,Saturday,16:00:00,3129.0,4111.0,7240.0
+892,Line ACE : Av Americas & WBroadway,2019-11-02 20:00:00,Saturday,20:00:00,4079.0,3615.0,7694.0
+893,Line ACE : Av Americas & WBroadway,2019-11-03 00:00:00,Sunday,00:00:00,2197.0,1435.0,3632.0
+894,Line ACE : Av Americas & WBroadway,2019-11-03 04:00:00,Sunday,04:00:00,642.0,283.0,925.0
+895,Line ACE : Av Americas & WBroadway,2019-11-03 08:00:00,Sunday,08:00:00,138.0,183.0,321.0
+896,Line ACE : Av Americas & WBroadway,2019-11-03 12:00:00,Sunday,12:00:00,763.0,1725.0,2488.0
+897,Line ACE : Av Americas & WBroadway,2019-11-03 16:00:00,Sunday,16:00:00,2148.0,3242.0,5390.0
+898,Line ACE : Av Americas & WBroadway,2019-11-03 20:00:00,Sunday,20:00:00,4995.0,3704.0,8699.0
+899,Line ACE : Av Americas & WBroadway,2019-11-04 04:00:00,Monday,04:00:00,370.0,144.0,514.0
+900,Line ACE : Av Americas & WBroadway,2019-11-04 08:00:00,Monday,08:00:00,210.0,990.0,1200.0
+901,Line ACE : Av Americas & WBroadway,2019-11-04 12:00:00,Monday,12:00:00,2234.0,9190.0,11424.0
+902,Line ACE : Av Americas & WBroadway,2019-11-04 16:00:00,Monday,16:00:00,3439.0,3567.0,7006.0
+903,Line ACE : Av Americas & WBroadway,2019-11-04 20:00:00,Monday,20:00:00,15758.0,4912.0,20670.0
+904,Line ACE : Av Americas & WBroadway,2019-11-05 04:00:00,Tuesday,04:00:00,564.0,200.0,764.0
+905,Line ACE : Av Americas & WBroadway,2019-11-05 08:00:00,Tuesday,08:00:00,231.0,1094.0,1325.0
+906,Line ACE : Av Americas & WBroadway,2019-11-05 12:00:00,Tuesday,12:00:00,2101.0,8416.0,10517.0
+907,Line ACE : Av Americas & WBroadway,2019-11-05 16:00:00,Tuesday,16:00:00,3209.0,3461.0,6670.0
+908,Line ACE : Av Americas & WBroadway,2019-11-05 20:00:00,Tuesday,20:00:00,14796.0,5033.0,19829.0
+909,Line ACE : Av Americas & WBroadway,2019-11-06 04:00:00,Wednesday,04:00:00,589.0,188.0,777.0
+910,Line ACE : Av Americas & WBroadway,2019-11-06 08:00:00,Wednesday,08:00:00,231.0,1093.0,1324.0
+911,Line ACE : Av Americas & WBroadway,2019-11-06 12:00:00,Wednesday,12:00:00,2216.0,9426.0,11642.0
+912,Line ACE : Av Americas & WBroadway,2019-11-06 16:00:00,Wednesday,16:00:00,3238.0,3434.0,6672.0
+913,Line ACE : Av Americas & WBroadway,2019-11-06 20:00:00,Wednesday,20:00:00,16596.0,5600.0,22196.0
+914,Line ACE : Av Americas & WBroadway,2019-11-07 04:00:00,Thursday,04:00:00,652.0,202.0,854.0
+915,Line ACE : Av Americas & WBroadway,2019-11-07 08:00:00,Thursday,08:00:00,220.0,1082.0,1302.0
+916,Line ACE : Av Americas & WBroadway,2019-11-07 12:00:00,Thursday,12:00:00,2210.0,9400.0,11610.0
+917,Line ACE : Av Americas & WBroadway,2019-11-07 16:00:00,Thursday,16:00:00,3453.0,3683.0,7136.0
+918,Line ACE : Av Americas & WBroadway,2019-11-07 20:00:00,Thursday,20:00:00,16852.0,5635.0,22487.0
+919,Line ACE : Av Americas & WBroadway,2019-11-08 04:00:00,Friday,04:00:00,662.0,484.0,1146.0
+920,Line ACE : Av Americas & WBroadway,2019-11-08 08:00:00,Friday,08:00:00,231.0,936.0,1167.0
+921,Line ACE : Av Americas & WBroadway,2019-11-08 12:00:00,Friday,12:00:00,2064.0,8440.0,10504.0
+922,Line ACE : Av Americas & WBroadway,2019-11-08 16:00:00,Friday,16:00:00,3810.0,3989.0,7799.0
+923,Line ACE : Av Americas & WBroadway,2019-11-08 20:00:00,Friday,20:00:00,14915.0,5890.0,20805.0
+924,Line ACE : Av Americas & WBroadway,2019-11-09 08:00:00,Saturday,08:00:00,151.0,331.0,482.0
+925,Line ACE : Av Americas & WBroadway,2019-11-09 12:00:00,Saturday,12:00:00,880.0,2415.0,3295.0
+926,Line ACE : Av Americas & WBroadway,2019-11-09 16:00:00,Saturday,16:00:00,2788.0,4669.0,7457.0
+927,Line ACE : Av Americas & WBroadway,2019-11-09 20:00:00,Saturday,20:00:00,7192.0,6112.0,13304.0
+928,Line ACE : Av Americas & WBroadway,2019-11-10 04:00:00,Sunday,04:00:00,949.0,422.0,1371.0
+929,Line ACE : Av Americas & WBroadway,2019-11-10 08:00:00,Sunday,08:00:00,176.0,209.0,385.0
+930,Line ACE : Av Americas & WBroadway,2019-11-10 12:00:00,Sunday,12:00:00,674.0,1831.0,2505.0
+931,Line ACE : Av Americas & WBroadway,2019-11-10 16:00:00,Sunday,16:00:00,2299.0,3639.0,5938.0
+932,Line ACE : Av Americas & WBroadway,2019-11-10 20:00:00,Sunday,20:00:00,5360.0,4045.0,9405.0
+933,Line ACE : Av Americas & WBroadway,2019-11-11 04:00:00,Monday,04:00:00,400.0,189.0,589.0
+934,Line ACE : Av Americas & WBroadway,2019-11-11 08:00:00,Monday,08:00:00,164.0,706.0,870.0
+935,Line ACE : Av Americas & WBroadway,2019-11-11 12:00:00,Monday,12:00:00,1777.0,7198.0,8975.0
+936,Line ACE : Av Americas & WBroadway,2019-11-11 16:00:00,Monday,16:00:00,2731.0,3059.0,5790.0
+937,Line ACE : Av Americas & WBroadway,2019-11-11 20:00:00,Monday,20:00:00,12501.0,4209.0,16710.0
+938,Line ACE : Av Americas & WBroadway,2019-11-12 04:00:00,Tuesday,04:00:00,505.0,142.0,647.0
+939,Line ACE : Av Americas & WBroadway,2019-11-12 08:00:00,Tuesday,08:00:00,211.0,1081.0,1292.0
+940,Line ACE : Av Americas & WBroadway,2019-11-12 12:00:00,Tuesday,12:00:00,2093.0,9546.0,11639.0
+941,Line ACE : Av Americas & WBroadway,2019-11-12 16:00:00,Tuesday,16:00:00,3255.0,3350.0,6605.0
+942,Line ACE : Av Americas & WBroadway,2019-11-12 20:00:00,Tuesday,20:00:00,16083.0,4731.0,20814.0
+943,Line ACE : Av Americas & WBroadway,2019-11-13 04:00:00,Wednesday,04:00:00,530.0,144.0,674.0
+944,Line ACE : Av Americas & WBroadway,2019-11-13 08:00:00,Wednesday,08:00:00,219.0,1055.0,1274.0
+945,Line ACE : Av Americas & WBroadway,2019-11-13 12:00:00,Wednesday,12:00:00,2093.0,9524.0,11617.0
+946,Line ACE : Av Americas & WBroadway,2019-11-13 16:00:00,Wednesday,16:00:00,3213.0,3400.0,6613.0
+947,Line ACE : Av Americas & WBroadway,2019-11-13 20:00:00,Wednesday,20:00:00,16668.0,5376.0,22044.0
+948,Line ACE : Av Americas & WBroadway,2019-11-14 04:00:00,Thursday,04:00:00,609.0,155.0,764.0
+949,Line ACE : Av Americas & WBroadway,2019-11-14 08:00:00,Thursday,08:00:00,216.0,1001.0,1217.0
+950,Line ACE : Av Americas & WBroadway,2019-11-14 12:00:00,Thursday,12:00:00,2197.0,9521.0,11718.0
+951,Line ACE : Av Americas & WBroadway,2019-11-14 16:00:00,Thursday,16:00:00,3489.0,3806.0,7295.0
+952,Line ACE : Av Americas & WBroadway,2019-11-14 20:00:00,Thursday,20:00:00,16756.0,5937.0,22693.0
+953,Line ACE : Av Americas & WBroadway,2019-11-15 04:00:00,Friday,04:00:00,760.0,265.0,1025.0
+954,Line ACE : Av Americas & WBroadway,2019-11-15 08:00:00,Friday,08:00:00,214.0,935.0,1149.0
+955,Line ACE : Av Americas & WBroadway,2019-11-15 12:00:00,Friday,12:00:00,2070.0,8407.0,10477.0
+956,Line ACE : Av Americas & WBroadway,2019-11-15 16:00:00,Friday,16:00:00,3855.0,4084.0,7939.0
+957,Line ACE : Av Americas & WBroadway,2019-11-15 20:00:00,Friday,20:00:00,15067.0,5893.0,20960.0
+958,Line ACE : Av Americas & WBroadway,2019-11-16 08:00:00,Saturday,08:00:00,190.0,325.0,515.0
+959,Line ACE : Av Americas & WBroadway,2019-11-16 12:00:00,Saturday,12:00:00,791.0,2468.0,3259.0
+960,Line ACE : Av Americas & WBroadway,2019-11-16 16:00:00,Saturday,16:00:00,2765.0,4378.0,7143.0
+961,Line ACE : Av Americas & WBroadway,2019-11-16 20:00:00,Saturday,20:00:00,6999.0,6247.0,13246.0
+962,Line ACE : Av Americas & WBroadway,2019-11-17 04:00:00,Sunday,04:00:00,909.0,466.0,1375.0
+963,Line ACE : Av Americas & WBroadway,2019-11-17 08:00:00,Sunday,08:00:00,176.0,249.0,425.0
+964,Line ACE : Av Americas & WBroadway,2019-11-17 12:00:00,Sunday,12:00:00,669.0,1607.0,2276.0
+965,Line ACE : Av Americas & WBroadway,2019-11-17 16:00:00,Sunday,16:00:00,2183.0,3714.0,5897.0
+966,Line ACE : Av Americas & WBroadway,2019-11-17 20:00:00,Sunday,20:00:00,5086.0,4007.0,9093.0
+967,Line ACE : Av Americas & WBroadway,2019-11-18 04:00:00,Monday,04:00:00,367.0,177.0,544.0
+968,Line ACE : Av Americas & WBroadway,2019-11-18 08:00:00,Monday,08:00:00,202.0,1061.0,1263.0
+969,Line ACE : Av Americas & WBroadway,2019-11-18 12:00:00,Monday,12:00:00,2149.0,9200.0,11349.0
+970,Line ACE : Av Americas & WBroadway,2019-11-18 16:00:00,Monday,16:00:00,3206.0,3288.0,6494.0
+971,Line ACE : Av Americas & WBroadway,2019-11-18 20:00:00,Monday,20:00:00,15583.0,4703.0,20286.0
+972,Line ACE : Av Americas & WBroadway,2019-11-19 04:00:00,Tuesday,04:00:00,493.0,133.0,626.0
+973,Line ACE : Av Americas & WBroadway,2019-11-19 08:00:00,Tuesday,08:00:00,211.0,1118.0,1329.0
+974,Line ACE : Av Americas & WBroadway,2019-11-19 12:00:00,Tuesday,12:00:00,2263.0,9605.0,11868.0
+975,Line ACE : Av Americas & WBroadway,2019-11-19 16:00:00,Tuesday,16:00:00,3406.0,3371.0,6777.0
+976,Line ACE : Av Americas & WBroadway,2019-11-19 20:00:00,Tuesday,20:00:00,16390.0,4964.0,21354.0
+977,Line ACE : Av Americas & WBroadway,2019-11-20 04:00:00,Wednesday,04:00:00,565.0,171.0,736.0
+978,Line ACE : Av Americas & WBroadway,2019-11-20 08:00:00,Wednesday,08:00:00,185.0,1141.0,1326.0
+979,Line ACE : Av Americas & WBroadway,2019-11-20 12:00:00,Wednesday,12:00:00,2170.0,9514.0,11684.0
+980,Line ACE : Av Americas & WBroadway,2019-11-20 16:00:00,Wednesday,16:00:00,3390.0,3551.0,6941.0
+981,Line ACE : Av Americas & WBroadway,2019-11-20 20:00:00,Wednesday,20:00:00,16764.0,5377.0,22141.0
+982,Line ACE : Av Americas & WBroadway,2019-11-21 04:00:00,Thursday,04:00:00,600.0,191.0,791.0
+983,Line ACE : Av Americas & WBroadway,2019-11-21 08:00:00,Thursday,08:00:00,221.0,1033.0,1254.0
+984,Line ACE : Av Americas & WBroadway,2019-11-21 12:00:00,Thursday,12:00:00,2156.0,9430.0,11586.0
+985,Line ACE : Av Americas & WBroadway,2019-11-21 16:00:00,Thursday,16:00:00,3466.0,3716.0,7182.0
+986,Line ACE : Av Americas & WBroadway,2019-11-21 20:00:00,Thursday,20:00:00,16566.0,5867.0,22433.0
+987,Line ACE : Av Americas & WBroadway,2019-11-22 04:00:00,Friday,04:00:00,830.0,269.0,1099.0
+988,Line ACE : Av Americas & WBroadway,2019-11-22 08:00:00,Friday,08:00:00,223.0,1001.0,1224.0
+989,Line ACE : Av Americas & WBroadway,2019-11-22 12:00:00,Friday,12:00:00,2042.0,8141.0,10183.0
+990,Line ACE : Av Americas & WBroadway,2019-11-22 16:00:00,Friday,16:00:00,3810.0,3731.0,7541.0
+991,Line ACE : Av Americas & WBroadway,2019-11-22 20:00:00,Friday,20:00:00,14901.0,5685.0,20586.0
+992,Line ACE : Av Americas & WBroadway,2019-11-23 08:00:00,Saturday,08:00:00,155.0,300.0,455.0
+993,Line ACE : Av Americas & WBroadway,2019-11-23 12:00:00,Saturday,12:00:00,754.0,2356.0,3110.0
+994,Line ACE : Av Americas & WBroadway,2019-11-23 16:00:00,Saturday,16:00:00,2510.0,4282.0,6792.0
+995,Line ACE : Av Americas & WBroadway,2019-11-23 20:00:00,Saturday,20:00:00,6468.0,5324.0,11792.0
+996,Line ACE : Av Americas & WBroadway,2019-11-24 04:00:00,Sunday,04:00:00,816.0,358.0,1174.0
+997,Line ACE : Av Americas & WBroadway,2019-11-24 08:00:00,Sunday,08:00:00,138.0,181.0,319.0
+998,Line ACE : Av Americas & WBroadway,2019-11-24 12:00:00,Sunday,12:00:00,651.0,1423.0,2074.0
+999,Line ACE : Av Americas & WBroadway,2019-11-24 16:00:00,Sunday,16:00:00,1748.0,2730.0,4478.0
+1000,Line ACE : Av Americas & WBroadway,2019-11-24 20:00:00,Sunday,20:00:00,4232.0,3199.0,7431.0
+1001,Line ACE : Av Americas & WBroadway,2019-11-25 04:00:00,Monday,04:00:00,318.0,144.0,462.0
+1002,Line ACE : Av Americas & WBroadway,2019-11-25 08:00:00,Monday,08:00:00,187.0,1040.0,1227.0
+1003,Line ACE : Av Americas & WBroadway,2019-11-25 12:00:00,Monday,12:00:00,2196.0,9112.0,11308.0
+1004,Line ACE : Av Americas & WBroadway,2019-11-25 16:00:00,Monday,16:00:00,3471.0,3487.0,6958.0
+1005,Line ACE : Av Americas & WBroadway,2019-11-25 20:00:00,Monday,20:00:00,15481.0,5022.0,20503.0
+1006,Line ACE : Av Americas & WBroadway,2019-11-26 04:00:00,Tuesday,04:00:00,547.0,271.0,818.0
+1007,Line ACE : Av Americas & WBroadway,2019-11-26 08:00:00,Tuesday,08:00:00,216.0,1071.0,1287.0
+1008,Line ACE : Av Americas & WBroadway,2019-11-26 12:00:00,Tuesday,12:00:00,2291.0,8693.0,10984.0
+1009,Line ACE : Av Americas & WBroadway,2019-11-26 16:00:00,Tuesday,16:00:00,3499.0,3685.0,7184.0
+1010,Line ACE : Av Americas & WBroadway,2019-11-26 20:00:00,Tuesday,20:00:00,15542.0,5170.0,20712.0
+1011,Line ACE : Av Americas & WBroadway,2019-11-27 04:00:00,Wednesday,04:00:00,710.0,283.0,993.0
+1012,Line ACE : Av Americas & WBroadway,2019-11-27 08:00:00,Wednesday,08:00:00,205.0,1011.0,1216.0
+1013,Line ACE : Av Americas & WBroadway,2019-11-27 12:00:00,Wednesday,12:00:00,1762.0,6475.0,8237.0
+1014,Line ACE : Av Americas & WBroadway,2019-11-27 16:00:00,Wednesday,16:00:00,4838.0,3433.0,8271.0
+1015,Line ACE : Av Americas & WBroadway,2019-11-27 20:00:00,Wednesday,20:00:00,10539.0,4528.0,15067.0
+1016,Line ACE : Av Americas & WBroadway,2019-11-28 04:00:00,Thursday,04:00:00,633.0,377.0,1010.0
+1017,Line ACE : Av Americas & WBroadway,2019-11-28 08:00:00,Thursday,08:00:00,174.0,171.0,345.0
+1018,Line ACE : Av Americas & WBroadway,2019-11-28 12:00:00,Thursday,12:00:00,965.0,811.0,1776.0
+1019,Line ACE : Av Americas & WBroadway,2019-11-28 16:00:00,Thursday,16:00:00,1395.0,2066.0,3461.0
+1020,Line ACE : Av Americas & WBroadway,2019-11-28 20:00:00,Thursday,20:00:00,2640.0,2174.0,4814.0
+1021,Line ACE : Av Americas & WBroadway,2019-11-29 04:00:00,Friday,04:00:00,286.0,200.0,486.0
+1022,Line ACE : Av Americas & WBroadway,2019-11-29 08:00:00,Friday,08:00:00,125.0,494.0,619.0
+1023,Line ACE : Av Americas & WBroadway,2019-11-29 12:00:00,Friday,12:00:00,842.0,2752.0,3594.0
+1024,Line ACE : Av Americas & WBroadway,2019-11-29 16:00:00,Friday,16:00:00,2642.0,3497.0,6139.0
+1025,Line ACE : Av Americas & WBroadway,2019-11-29 20:00:00,Friday,20:00:00,6173.0,4450.0,10623.0
+1026,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-01 08:00:00,Sunday,08:00:00,637.0,1508.0,2145.0
+1027,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-01 12:00:00,Sunday,12:00:00,4270.0,7983.0,12253.0
+1028,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-01 16:00:00,Sunday,16:00:00,10574.0,8597.0,19171.0
+1029,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-01 20:00:00,Sunday,20:00:00,10536.0,5625.0,16161.0
+1030,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-02 00:00:00,Monday,00:00:00,4106.0,1847.0,5953.0
+1031,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-02 04:00:00,Monday,04:00:00,355.0,343.0,698.0
+1032,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-02 08:00:00,Monday,08:00:00,627.0,1654.0,2281.0
+1033,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-02 12:00:00,Monday,12:00:00,3970.0,6297.0,10267.0
+1034,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-02 16:00:00,Monday,16:00:00,8105.0,6289.0,14394.0
+1035,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-02 20:00:00,Monday,20:00:00,7973.0,4095.0,12068.0
+1036,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-03 00:00:00,Tuesday,00:00:00,2816.0,1059.0,3875.0
+1037,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-03 04:00:00,Tuesday,04:00:00,173.0,203.0,376.0
+1038,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-03 08:00:00,Tuesday,08:00:00,2023.0,6675.0,8698.0
+1039,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-03 12:00:00,Tuesday,12:00:00,6666.0,11886.0,18552.0
+1040,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-03 16:00:00,Tuesday,16:00:00,13654.0,7426.0,21080.0
+1041,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-03 20:00:00,Tuesday,20:00:00,19522.0,6098.0,25620.0
+1042,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-04 00:00:00,Wednesday,00:00:00,3890.0,1237.0,5127.0
+1043,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-04 04:00:00,Wednesday,04:00:00,268.0,235.0,503.0
+1044,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-04 08:00:00,Wednesday,08:00:00,2091.0,7026.0,9117.0
+1045,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-04 12:00:00,Wednesday,12:00:00,6959.0,11605.0,18564.0
+1046,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-04 16:00:00,Wednesday,16:00:00,13407.0,7259.0,20666.0
+1047,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-04 20:00:00,Wednesday,20:00:00,18935.0,5923.0,24858.0
+1048,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-05 00:00:00,Thursday,00:00:00,4319.0,1335.0,5654.0
+1049,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-05 04:00:00,Thursday,04:00:00,322.0,274.0,596.0
+1050,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-05 08:00:00,Thursday,08:00:00,2381.0,6865.0,9246.0
+1051,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-05 12:00:00,Thursday,12:00:00,6931.0,12141.0,19072.0
+1052,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-05 16:00:00,Thursday,16:00:00,13801.0,7861.0,21662.0
+1053,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-05 20:00:00,Thursday,20:00:00,20081.0,6519.0,26600.0
+1054,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-06 00:00:00,Friday,00:00:00,4789.0,1385.0,6174.0
+1055,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-06 04:00:00,Friday,04:00:00,462.0,285.0,747.0
+1056,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-06 08:00:00,Friday,08:00:00,2183.0,6514.0,8697.0
+1057,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-06 12:00:00,Friday,12:00:00,7263.0,11969.0,19232.0
+1058,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-06 16:00:00,Friday,16:00:00,14827.0,8233.0,23060.0
+1059,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-06 20:00:00,Friday,20:00:00,18564.0,7067.0,25631.0
+1060,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-07 04:00:00,Saturday,04:00:00,551.0,326.0,877.0
+1061,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-07 08:00:00,Saturday,08:00:00,840.0,2337.0,3177.0
+1062,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-07 12:00:00,Saturday,12:00:00,5090.0,8757.0,13847.0
+1063,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-07 16:00:00,Saturday,16:00:00,12948.0,8916.0,21864.0
+1064,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-07 20:00:00,Saturday,20:00:00,13541.0,6190.0,19731.0
+1065,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-08 00:00:00,Sunday,00:00:00,5267.0,2121.0,7388.0
+1066,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-08 04:00:00,Sunday,04:00:00,718.0,379.0,1097.0
+1067,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-08 08:00:00,Sunday,08:00:00,585.0,1590.0,2175.0
+1068,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-08 12:00:00,Sunday,12:00:00,4114.0,7602.0,11716.0
+1069,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-08 16:00:00,Sunday,16:00:00,10673.0,7054.0,17727.0
+1070,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-08 20:00:00,Sunday,20:00:00,10320.0,4219.0,14539.0
+1071,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-09 00:00:00,Monday,00:00:00,3255.0,1058.0,4313.0
+1072,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-09 04:00:00,Monday,04:00:00,241.0,177.0,418.0
+1073,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-09 08:00:00,Monday,08:00:00,2450.0,7056.0,9506.0
+1074,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-09 12:00:00,Monday,12:00:00,6796.0,11773.0,18569.0
+1075,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-09 16:00:00,Monday,16:00:00,13754.0,7737.0,21491.0
+1076,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-09 20:00:00,Monday,20:00:00,20327.0,6260.0,26587.0
+1077,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-10 00:00:00,Tuesday,00:00:00,4140.0,1179.0,5319.0
+1078,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-10 04:00:00,Tuesday,04:00:00,271.0,214.0,485.0
+1079,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-10 08:00:00,Tuesday,08:00:00,1825.0,3814.0,5639.0
+1080,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-10 12:00:00,Tuesday,12:00:00,7745.0,15634.0,23379.0
+1081,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-10 16:00:00,Tuesday,16:00:00,14027.0,7600.0,21627.0
+1082,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-10 20:00:00,Tuesday,20:00:00,20391.0,6128.0,26519.0
+1083,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-11 00:00:00,Wednesday,00:00:00,4455.0,1290.0,5745.0
+1084,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-11 04:00:00,Wednesday,04:00:00,355.0,185.0,540.0
+1085,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-11 08:00:00,Wednesday,08:00:00,2609.0,8422.0,11031.0
+1086,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-11 12:00:00,Wednesday,12:00:00,7034.0,12163.0,19197.0
+1087,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-11 16:00:00,Wednesday,16:00:00,13768.0,7953.0,21721.0
+1088,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-11 20:00:00,Wednesday,20:00:00,20291.0,6588.0,26879.0
+1089,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-12 00:00:00,Thursday,00:00:00,4906.0,1504.0,6410.0
+1090,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-12 04:00:00,Thursday,04:00:00,395.0,248.0,643.0
+1091,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-12 08:00:00,Thursday,08:00:00,2517.0,6972.0,9489.0
+1092,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-12 12:00:00,Thursday,12:00:00,7142.0,12348.0,19490.0
+1093,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-12 16:00:00,Thursday,16:00:00,14260.0,8079.0,22339.0
+1094,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-12 20:00:00,Thursday,20:00:00,21120.0,7197.0,28317.0
+1095,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-13 00:00:00,Friday,00:00:00,3746.0,1112.0,4858.0
+1096,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-13 04:00:00,Friday,04:00:00,273.0,156.0,429.0
+1097,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-13 08:00:00,Friday,08:00:00,3734.0,7070.0,10804.0
+1098,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-13 12:00:00,Friday,12:00:00,7547.0,12941.0,20488.0
+1099,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-13 16:00:00,Friday,16:00:00,16665.0,10082.0,26747.0
+1100,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-13 20:00:00,Friday,20:00:00,23258.0,9919.0,33177.0
+1101,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-14 04:00:00,Saturday,04:00:00,816.0,388.0,1204.0
+1102,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-14 08:00:00,Saturday,08:00:00,805.0,2405.0,3210.0
+1103,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-14 12:00:00,Saturday,12:00:00,5151.0,9994.0,15145.0
+1104,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-14 16:00:00,Saturday,16:00:00,15846.0,12278.0,28124.0
+1105,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-14 20:00:00,Saturday,20:00:00,17249.0,8314.0,25563.0
+1106,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-15 00:00:00,Sunday,00:00:00,7319.0,2315.0,9634.0
+1107,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-15 04:00:00,Sunday,04:00:00,821.0,411.0,1232.0
+1108,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-15 08:00:00,Sunday,08:00:00,599.0,1464.0,2063.0
+1109,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-15 12:00:00,Sunday,12:00:00,4282.0,8370.0,12652.0
+1110,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-15 16:00:00,Sunday,16:00:00,13481.0,9746.0,23227.0
+1111,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-15 20:00:00,Sunday,20:00:00,13773.0,5626.0,19399.0
+1112,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-16 00:00:00,Monday,00:00:00,4378.0,1300.0,5678.0
+1113,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-16 04:00:00,Monday,04:00:00,236.0,202.0,438.0
+1114,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-16 08:00:00,Monday,08:00:00,2461.0,6935.0,9396.0
+1115,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-16 12:00:00,Monday,12:00:00,6651.0,11903.0,18554.0
+1116,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-16 16:00:00,Monday,16:00:00,13907.0,7860.0,21767.0
+1117,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-16 20:00:00,Monday,20:00:00,20408.0,6437.0,26845.0
+1118,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-17 00:00:00,Tuesday,00:00:00,4729.0,1084.0,5813.0
+1119,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-17 04:00:00,Tuesday,04:00:00,234.0,249.0,483.0
+1120,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-17 08:00:00,Tuesday,08:00:00,2515.0,7329.0,9844.0
+1121,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-17 12:00:00,Tuesday,12:00:00,7351.0,12544.0,19895.0
+1122,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-17 16:00:00,Tuesday,16:00:00,14115.0,7852.0,21967.0
+1123,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-17 20:00:00,Tuesday,20:00:00,16737.0,6552.0,23289.0
+1124,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-18 00:00:00,Wednesday,00:00:00,10228.0,2113.0,12341.0
+1125,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-18 04:00:00,Wednesday,04:00:00,309.0,249.0,558.0
+1126,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-18 08:00:00,Wednesday,08:00:00,2545.0,6931.0,9476.0
+1127,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-18 12:00:00,Wednesday,12:00:00,6910.0,12398.0,19308.0
+1128,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-18 16:00:00,Wednesday,16:00:00,14468.0,8248.0,22716.0
+1129,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-18 20:00:00,Wednesday,20:00:00,21387.0,7813.0,29200.0
+1130,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-19 00:00:00,Thursday,00:00:00,5595.0,1475.0,7070.0
+1131,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-19 04:00:00,Thursday,04:00:00,303.0,235.0,538.0
+1132,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-19 08:00:00,Thursday,08:00:00,2434.0,7032.0,9466.0
+1133,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-19 12:00:00,Thursday,12:00:00,6953.0,12611.0,19564.0
+1134,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-19 16:00:00,Thursday,16:00:00,14804.0,8657.0,23461.0
+1135,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-19 20:00:00,Thursday,20:00:00,21870.0,8430.0,30300.0
+1136,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-20 00:00:00,Friday,00:00:00,6585.0,1622.0,8207.0
+1137,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-20 04:00:00,Friday,04:00:00,363.0,250.0,613.0
+1138,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-20 08:00:00,Friday,08:00:00,2306.0,6174.0,8480.0
+1139,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-20 12:00:00,Friday,12:00:00,7937.0,16196.0,24133.0
+1140,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-20 16:00:00,Friday,16:00:00,18361.0,12604.0,30965.0
+1141,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-20 20:00:00,Friday,20:00:00,23100.0,12719.0,35819.0
+1142,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-21 04:00:00,Saturday,04:00:00,792.0,412.0,1204.0
+1143,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-21 08:00:00,Saturday,08:00:00,792.0,3094.0,3886.0
+1144,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-21 12:00:00,Saturday,12:00:00,5495.0,9811.0,15306.0
+1145,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-21 16:00:00,Saturday,16:00:00,16006.0,11884.0,27890.0
+1146,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-21 20:00:00,Saturday,20:00:00,17706.0,8992.0,26698.0
+1147,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-22 00:00:00,Sunday,00:00:00,8315.0,2709.0,11024.0
+1148,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-22 04:00:00,Sunday,04:00:00,754.0,427.0,1181.0
+1149,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-22 08:00:00,Sunday,08:00:00,676.0,1678.0,2354.0
+1150,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-22 12:00:00,Sunday,12:00:00,4426.0,7903.0,12329.0
+1151,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-22 16:00:00,Sunday,16:00:00,12808.0,9479.0,22287.0
+1152,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-22 20:00:00,Sunday,20:00:00,13805.0,5526.0,19331.0
+1153,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-23 00:00:00,Monday,00:00:00,4399.0,1186.0,5585.0
+1154,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-23 04:00:00,Monday,04:00:00,267.0,199.0,466.0
+1155,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-23 08:00:00,Monday,08:00:00,2426.0,7017.0,9443.0
+1156,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-23 12:00:00,Monday,12:00:00,6792.0,12074.0,18866.0
+1157,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-23 16:00:00,Monday,16:00:00,13339.0,7234.0,20573.0
+1158,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-23 20:00:00,Monday,20:00:00,19281.0,5890.0,25171.0
+1159,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-24 00:00:00,Tuesday,00:00:00,3675.0,1222.0,4897.0
+1160,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-24 04:00:00,Tuesday,04:00:00,221.0,195.0,416.0
+1161,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-24 08:00:00,Tuesday,08:00:00,2663.0,7300.0,9963.0
+1162,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-24 12:00:00,Tuesday,12:00:00,7067.0,12107.0,19174.0
+1163,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-24 16:00:00,Tuesday,16:00:00,13714.0,7188.0,20902.0
+1164,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-24 20:00:00,Tuesday,20:00:00,20123.0,5980.0,26103.0
+1165,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-25 00:00:00,Wednesday,00:00:00,4029.0,1279.0,5308.0
+1166,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-25 04:00:00,Wednesday,04:00:00,278.0,217.0,495.0
+1167,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-25 08:00:00,Wednesday,08:00:00,2581.0,7190.0,9771.0
+1168,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-25 12:00:00,Wednesday,12:00:00,6961.0,11499.0,18460.0
+1169,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-25 16:00:00,Wednesday,16:00:00,13336.0,7360.0,20696.0
+1170,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-25 20:00:00,Wednesday,20:00:00,19834.0,6228.0,26062.0
+1171,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-26 00:00:00,Thursday,00:00:00,4513.0,1372.0,5885.0
+1172,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-26 04:00:00,Thursday,04:00:00,300.0,258.0,558.0
+1173,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-26 08:00:00,Thursday,08:00:00,2591.0,6588.0,9179.0
+1174,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-26 12:00:00,Thursday,12:00:00,7100.0,12128.0,19228.0
+1175,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-26 16:00:00,Thursday,16:00:00,14598.0,7446.0,22044.0
+1176,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-26 20:00:00,Thursday,20:00:00,19523.0,6493.0,26016.0
+1177,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-27 00:00:00,Friday,00:00:00,4955.0,1524.0,6479.0
+1178,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-27 04:00:00,Friday,04:00:00,394.0,265.0,659.0
+1179,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-27 08:00:00,Friday,08:00:00,2396.0,6371.0,8767.0
+1180,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-27 12:00:00,Friday,12:00:00,7174.0,12158.0,19332.0
+1181,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-27 16:00:00,Friday,16:00:00,15312.0,8656.0,23968.0
+1182,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-27 20:00:00,Friday,20:00:00,20893.0,7520.0,28413.0
+1183,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-28 04:00:00,Saturday,04:00:00,736.0,390.0,1126.0
+1184,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-28 08:00:00,Saturday,08:00:00,851.0,2527.0,3378.0
+1185,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-28 12:00:00,Saturday,12:00:00,5530.0,9825.0,15355.0
+1186,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-28 16:00:00,Saturday,16:00:00,14186.0,9856.0,24042.0
+1187,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-28 20:00:00,Saturday,20:00:00,14135.0,6550.0,20685.0
+1188,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-29 00:00:00,Sunday,00:00:00,5217.0,2028.0,7245.0
+1189,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-29 04:00:00,Sunday,04:00:00,657.0,390.0,1047.0
+1190,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-29 08:00:00,Sunday,08:00:00,714.0,1536.0,2250.0
+1191,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-29 12:00:00,Sunday,12:00:00,4561.0,7702.0,12263.0
+1192,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-29 16:00:00,Sunday,16:00:00,11358.0,8321.0,19679.0
+1193,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-29 20:00:00,Sunday,20:00:00,11422.0,4845.0,16267.0
+1194,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-30 00:00:00,Monday,00:00:00,3438.0,1153.0,4591.0
+1195,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-30 04:00:00,Monday,04:00:00,221.0,245.0,466.0
+1196,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-30 08:00:00,Monday,08:00:00,1833.0,6424.0,8257.0
+1197,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-30 12:00:00,Monday,12:00:00,6143.0,11407.0,17550.0
+1198,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-30 16:00:00,Monday,16:00:00,13718.0,7759.0,21477.0
+1199,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-09-30 20:00:00,Monday,20:00:00,18986.0,5383.0,24369.0
+1200,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-01 00:00:00,Tuesday,00:00:00,3398.0,967.0,4365.0
+1201,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-01 04:00:00,Tuesday,04:00:00,228.0,162.0,390.0
+1202,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-01 08:00:00,Tuesday,08:00:00,1925.0,6665.0,8590.0
+1203,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-01 12:00:00,Tuesday,12:00:00,6611.0,12318.0,18929.0
+1204,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-01 16:00:00,Tuesday,16:00:00,14004.0,7500.0,21504.0
+1205,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-01 20:00:00,Tuesday,20:00:00,19850.0,5590.0,25440.0
+1206,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-02 00:00:00,Wednesday,00:00:00,3972.0,1198.0,5170.0
+1207,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-02 04:00:00,Wednesday,04:00:00,270.0,197.0,467.0
+1208,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-02 08:00:00,Wednesday,08:00:00,2500.0,7048.0,9548.0
+1209,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-02 12:00:00,Wednesday,12:00:00,6897.0,11793.0,18690.0
+1210,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-02 16:00:00,Wednesday,16:00:00,13342.0,7243.0,20585.0
+1211,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-02 20:00:00,Wednesday,20:00:00,19646.0,5946.0,25592.0
+1212,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-03 00:00:00,Thursday,00:00:00,4066.0,1199.0,5265.0
+1213,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-03 04:00:00,Thursday,04:00:00,289.0,207.0,496.0
+1214,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-03 08:00:00,Thursday,08:00:00,2432.0,6725.0,9157.0
+1215,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-03 12:00:00,Thursday,12:00:00,6702.0,11825.0,18527.0
+1216,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-03 16:00:00,Thursday,16:00:00,13053.0,7043.0,20096.0
+1217,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-03 20:00:00,Thursday,20:00:00,19023.0,6313.0,25336.0
+1218,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-04 00:00:00,Friday,00:00:00,4390.0,1442.0,5832.0
+1219,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-04 04:00:00,Friday,04:00:00,323.0,220.0,543.0
+1220,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-04 08:00:00,Friday,08:00:00,2353.0,6422.0,8775.0
+1221,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-04 12:00:00,Friday,12:00:00,7359.0,12100.0,19459.0
+1222,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-04 16:00:00,Friday,16:00:00,15318.0,9027.0,24345.0
+1223,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-04 20:00:00,Friday,20:00:00,21676.0,7879.0,29555.0
+1224,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-05 04:00:00,Saturday,04:00:00,641.0,348.0,989.0
+1225,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-05 08:00:00,Saturday,08:00:00,820.0,1897.0,2717.0
+1226,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-05 12:00:00,Saturday,12:00:00,4985.0,7893.0,12878.0
+1227,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-05 16:00:00,Saturday,16:00:00,12972.0,8109.0,21081.0
+1228,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-05 20:00:00,Saturday,20:00:00,13380.0,5699.0,19079.0
+1229,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-06 00:00:00,Sunday,00:00:00,4877.0,1735.0,6612.0
+1230,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-06 04:00:00,Sunday,04:00:00,592.0,352.0,944.0
+1231,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-06 08:00:00,Sunday,08:00:00,540.0,1251.0,1791.0
+1232,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-06 12:00:00,Sunday,12:00:00,3906.0,6340.0,10246.0
+1233,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-06 16:00:00,Sunday,16:00:00,10278.0,6236.0,16514.0
+1234,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-06 20:00:00,Sunday,20:00:00,10157.0,3724.0,13881.0
+1235,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-07 00:00:00,Monday,00:00:00,2670.0,970.0,3640.0
+1236,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-07 04:00:00,Monday,04:00:00,183.0,201.0,384.0
+1237,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-07 08:00:00,Monday,08:00:00,2466.0,6741.0,9207.0
+1238,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-07 12:00:00,Monday,12:00:00,6579.0,11785.0,18364.0
+1239,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-07 16:00:00,Monday,16:00:00,13727.0,7646.0,21373.0
+1240,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-07 20:00:00,Monday,20:00:00,20171.0,5815.0,25986.0
+1241,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-08 00:00:00,Tuesday,00:00:00,3354.0,1087.0,4441.0
+1242,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-08 04:00:00,Tuesday,04:00:00,208.0,216.0,424.0
+1243,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-08 08:00:00,Tuesday,08:00:00,2478.0,6709.0,9187.0
+1244,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-08 12:00:00,Tuesday,12:00:00,6901.0,12268.0,19169.0
+1245,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-08 16:00:00,Tuesday,16:00:00,14407.0,7679.0,22086.0
+1246,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-08 20:00:00,Tuesday,20:00:00,20295.0,5756.0,26051.0
+1247,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-09 00:00:00,Wednesday,00:00:00,3622.0,1096.0,4718.0
+1248,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-09 04:00:00,Wednesday,04:00:00,214.0,204.0,418.0
+1249,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-09 08:00:00,Wednesday,08:00:00,1828.0,6278.0,8106.0
+1250,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-09 12:00:00,Wednesday,12:00:00,6559.0,10845.0,17404.0
+1251,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-09 16:00:00,Wednesday,16:00:00,11730.0,6595.0,18325.0
+1252,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-09 20:00:00,Wednesday,20:00:00,17872.0,5756.0,23628.0
+1253,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-10 00:00:00,Thursday,00:00:00,3332.0,1067.0,4399.0
+1254,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-10 04:00:00,Thursday,04:00:00,257.0,191.0,448.0
+1255,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-10 08:00:00,Thursday,08:00:00,2454.0,6592.0,9046.0
+1256,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-10 12:00:00,Thursday,12:00:00,6912.0,12447.0,19359.0
+1257,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-10 16:00:00,Thursday,16:00:00,14222.0,8174.0,22396.0
+1258,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-10 20:00:00,Thursday,20:00:00,21096.0,6621.0,27717.0
+1259,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-11 00:00:00,Friday,00:00:00,4191.0,1358.0,5549.0
+1260,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-11 04:00:00,Friday,04:00:00,327.0,206.0,533.0
+1261,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-11 08:00:00,Friday,08:00:00,2232.0,6310.0,8542.0
+1262,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-11 12:00:00,Friday,12:00:00,7098.0,12335.0,19433.0
+1263,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-11 16:00:00,Friday,16:00:00,15967.0,9251.0,25218.0
+1264,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-11 20:00:00,Friday,20:00:00,21440.0,7487.0,28927.0
+1265,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-12 04:00:00,Saturday,04:00:00,675.0,407.0,1082.0
+1266,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-12 08:00:00,Saturday,08:00:00,871.0,2369.0,3240.0
+1267,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-12 12:00:00,Saturday,12:00:00,5248.0,9786.0,15034.0
+1268,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-12 16:00:00,Saturday,16:00:00,13967.0,10220.0,24187.0
+1269,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-12 20:00:00,Saturday,20:00:00,15067.0,7507.0,22574.0
+1270,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-13 00:00:00,Sunday,00:00:00,5122.0,2261.0,7383.0
+1271,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-13 04:00:00,Sunday,04:00:00,652.0,460.0,1112.0
+1272,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-13 08:00:00,Sunday,08:00:00,681.0,1685.0,2366.0
+1273,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-13 12:00:00,Sunday,12:00:00,4660.0,8873.0,13533.0
+1274,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-13 16:00:00,Sunday,16:00:00,12744.0,9263.0,22007.0
+1275,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-13 20:00:00,Sunday,20:00:00,12913.0,5584.0,18497.0
+1276,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-14 00:00:00,Monday,00:00:00,3745.0,1402.0,5147.0
+1277,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-14 04:00:00,Monday,04:00:00,290.0,295.0,585.0
+1278,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-14 08:00:00,Monday,08:00:00,1441.0,4469.0,5910.0
+1279,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-14 12:00:00,Monday,12:00:00,5471.0,10787.0,16258.0
+1280,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-14 16:00:00,Monday,16:00:00,12792.0,8221.0,21013.0
+1281,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-14 20:00:00,Monday,20:00:00,17504.0,5696.0,23200.0
+1282,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-15 00:00:00,Tuesday,00:00:00,3654.0,1086.0,4740.0
+1283,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-15 04:00:00,Tuesday,04:00:00,183.0,196.0,379.0
+1284,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-15 08:00:00,Tuesday,08:00:00,2377.0,6981.0,9358.0
+1285,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-15 12:00:00,Tuesday,12:00:00,7239.0,12955.0,20194.0
+1286,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-15 16:00:00,Tuesday,16:00:00,14344.0,8554.0,22898.0
+1287,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-15 20:00:00,Tuesday,20:00:00,20585.0,6411.0,26996.0
+1288,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-16 00:00:00,Wednesday,00:00:00,3417.0,1184.0,4601.0
+1289,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-16 04:00:00,Wednesday,04:00:00,204.0,187.0,391.0
+1290,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-16 08:00:00,Wednesday,08:00:00,2452.0,6669.0,9121.0
+1291,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-16 12:00:00,Wednesday,12:00:00,7084.0,11979.0,19063.0
+1292,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-16 16:00:00,Wednesday,16:00:00,13523.0,6901.0,20424.0
+1293,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-16 20:00:00,Wednesday,20:00:00,10349.0,3271.0,13620.0
+1294,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-17 00:00:00,Thursday,00:00:00,2269.0,804.0,3073.0
+1295,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-17 04:00:00,Thursday,04:00:00,203.0,160.0,363.0
+1296,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-17 08:00:00,Thursday,08:00:00,9916.0,8963.0,18879.0
+1297,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-17 12:00:00,Thursday,12:00:00,7186.0,12181.0,19367.0
+1298,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-17 16:00:00,Thursday,16:00:00,14226.0,8196.0,22422.0
+1299,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-17 20:00:00,Thursday,20:00:00,20788.0,6773.0,27561.0
+1300,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-18 00:00:00,Friday,00:00:00,3823.0,1290.0,5113.0
+1301,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-18 04:00:00,Friday,04:00:00,284.0,223.0,507.0
+1302,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-18 08:00:00,Friday,08:00:00,2319.0,6209.0,8528.0
+1303,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-18 12:00:00,Friday,12:00:00,7284.0,12478.0,19762.0
+1304,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-18 16:00:00,Friday,16:00:00,16053.0,9235.0,25288.0
+1305,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-18 20:00:00,Friday,20:00:00,22174.0,7735.0,29909.0
+1306,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-19 04:00:00,Saturday,04:00:00,552.0,322.0,874.0
+1307,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-19 08:00:00,Saturday,08:00:00,891.0,2740.0,3631.0
+1308,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-19 12:00:00,Saturday,12:00:00,5136.0,11132.0,16268.0
+1309,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-19 16:00:00,Saturday,16:00:00,13826.0,10951.0,24777.0
+1310,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-19 20:00:00,Saturday,20:00:00,14227.0,5700.0,19927.0
+1311,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-20 00:00:00,Sunday,00:00:00,4754.0,1671.0,6425.0
+1312,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-20 04:00:00,Sunday,04:00:00,631.0,339.0,970.0
+1313,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-20 08:00:00,Sunday,08:00:00,591.0,1451.0,2042.0
+1314,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-20 12:00:00,Sunday,12:00:00,4301.0,9418.0,13719.0
+1315,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-20 16:00:00,Sunday,16:00:00,11288.0,7690.0,18978.0
+1316,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-20 20:00:00,Sunday,20:00:00,8772.0,3953.0,12725.0
+1317,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-21 00:00:00,Monday,00:00:00,2735.0,888.0,3623.0
+1318,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-21 04:00:00,Monday,04:00:00,165.0,164.0,329.0
+1319,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-21 08:00:00,Monday,08:00:00,2442.0,6590.0,9032.0
+1320,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-21 12:00:00,Monday,12:00:00,6685.0,11763.0,18448.0
+1321,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-21 16:00:00,Monday,16:00:00,14185.0,7866.0,22051.0
+1322,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-21 20:00:00,Monday,20:00:00,20428.0,6131.0,26559.0
+1323,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-22 00:00:00,Tuesday,00:00:00,3450.0,1022.0,4472.0
+1324,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-22 04:00:00,Tuesday,04:00:00,184.0,175.0,359.0
+1325,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-22 08:00:00,Tuesday,08:00:00,2368.0,6910.0,9278.0
+1326,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-22 12:00:00,Tuesday,12:00:00,6932.0,11735.0,18667.0
+1327,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-22 16:00:00,Tuesday,16:00:00,13653.0,7104.0,20757.0
+1328,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-22 20:00:00,Tuesday,20:00:00,19428.0,5465.0,24893.0
+1329,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-23 00:00:00,Wednesday,00:00:00,2784.0,964.0,3748.0
+1330,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-23 04:00:00,Wednesday,04:00:00,197.0,164.0,361.0
+1331,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-23 08:00:00,Wednesday,08:00:00,2436.0,6669.0,9105.0
+1332,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-23 12:00:00,Wednesday,12:00:00,6854.0,12024.0,18878.0
+1333,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-23 16:00:00,Wednesday,16:00:00,13568.0,7747.0,21315.0
+1334,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-23 20:00:00,Wednesday,20:00:00,20751.0,6258.0,27009.0
+1335,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-24 00:00:00,Thursday,00:00:00,3347.0,1052.0,4399.0
+1336,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-24 04:00:00,Thursday,04:00:00,214.0,183.0,397.0
+1337,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-24 08:00:00,Thursday,08:00:00,2532.0,6873.0,9405.0
+1338,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-24 12:00:00,Thursday,12:00:00,7045.0,12128.0,19173.0
+1339,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-24 16:00:00,Thursday,16:00:00,13387.0,7608.0,20995.0
+1340,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-24 20:00:00,Thursday,20:00:00,21529.0,6880.0,28409.0
+1341,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-25 00:00:00,Friday,00:00:00,3790.0,1216.0,5006.0
+1342,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-25 04:00:00,Friday,04:00:00,272.0,199.0,471.0
+1343,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-25 08:00:00,Friday,08:00:00,2249.0,5995.0,8244.0
+1344,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-25 12:00:00,Friday,12:00:00,7169.0,12109.0,19278.0
+1345,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-25 16:00:00,Friday,16:00:00,15520.0,8676.0,24196.0
+1346,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-25 20:00:00,Friday,20:00:00,20889.0,7373.0,28262.0
+1347,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-26 04:00:00,Saturday,04:00:00,662.0,399.0,1061.0
+1348,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-26 08:00:00,Saturday,08:00:00,742.0,1659.0,2401.0
+1349,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-26 12:00:00,Saturday,12:00:00,4708.0,6895.0,11603.0
+1350,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-26 16:00:00,Saturday,16:00:00,12649.0,7501.0,20150.0
+1351,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-26 20:00:00,Saturday,20:00:00,12798.0,5007.0,17805.0
+1352,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-27 00:00:00,Sunday,00:00:00,4214.0,1548.0,5762.0
+1353,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-27 04:00:00,Sunday,04:00:00,570.0,410.0,980.0
+1354,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-27 08:00:00,Sunday,08:00:00,504.0,1142.0,1646.0
+1355,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-27 12:00:00,Sunday,12:00:00,3447.0,4691.0,8138.0
+1356,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-27 16:00:00,Sunday,16:00:00,6461.0,3955.0,10416.0
+1357,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-27 20:00:00,Sunday,20:00:00,7657.0,3486.0,11143.0
+1358,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-28 00:00:00,Monday,00:00:00,2346.0,799.0,3145.0
+1359,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-28 04:00:00,Monday,04:00:00,151.0,168.0,319.0
+1360,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-28 08:00:00,Monday,08:00:00,2379.0,6201.0,8580.0
+1361,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-28 12:00:00,Monday,12:00:00,6895.0,11885.0,18780.0
+1362,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-28 16:00:00,Monday,16:00:00,14046.0,7179.0,21225.0
+1363,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-28 20:00:00,Monday,20:00:00,20213.0,5623.0,25836.0
+1364,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-29 00:00:00,Tuesday,00:00:00,3665.0,1001.0,4666.0
+1365,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-29 04:00:00,Tuesday,04:00:00,204.0,199.0,403.0
+1366,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-29 08:00:00,Tuesday,08:00:00,2413.0,6347.0,8760.0
+1367,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-29 12:00:00,Tuesday,12:00:00,7214.0,12011.0,19225.0
+1368,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-29 16:00:00,Tuesday,16:00:00,13736.0,7354.0,21090.0
+1369,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-29 20:00:00,Tuesday,20:00:00,20564.0,5804.0,26368.0
+1370,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-30 00:00:00,Wednesday,00:00:00,3905.0,1187.0,5092.0
+1371,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-30 04:00:00,Wednesday,04:00:00,260.0,193.0,453.0
+1372,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-30 08:00:00,Wednesday,08:00:00,2450.0,6467.0,8917.0
+1373,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-30 12:00:00,Wednesday,12:00:00,6836.0,12346.0,19182.0
+1374,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-30 16:00:00,Wednesday,16:00:00,13586.0,7464.0,21050.0
+1375,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-30 20:00:00,Wednesday,20:00:00,20072.0,5988.0,26060.0
+1376,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-31 00:00:00,Thursday,00:00:00,4360.0,1403.0,5763.0
+1377,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-31 04:00:00,Thursday,04:00:00,280.0,176.0,456.0
+1378,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-31 08:00:00,Thursday,08:00:00,2324.0,6316.0,8640.0
+1379,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-31 12:00:00,Thursday,12:00:00,6522.0,11535.0,18057.0
+1380,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-31 16:00:00,Thursday,16:00:00,12654.0,6830.0,19484.0
+1381,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-10-31 20:00:00,Thursday,20:00:00,17718.0,7626.0,25344.0
+1382,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-01 00:00:00,Friday,00:00:00,4698.0,1952.0,6650.0
+1383,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-01 04:00:00,Friday,04:00:00,554.0,327.0,881.0
+1384,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-01 08:00:00,Friday,08:00:00,2297.0,5892.0,8189.0
+1385,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-01 12:00:00,Friday,12:00:00,7126.0,11909.0,19035.0
+1386,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-01 16:00:00,Friday,16:00:00,14933.0,8873.0,23806.0
+1387,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-01 20:00:00,Friday,20:00:00,21258.0,7770.0,29028.0
+1388,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-02 04:00:00,Saturday,04:00:00,535.0,228.0,763.0
+1389,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-02 08:00:00,Saturday,08:00:00,773.0,2225.0,2998.0
+1390,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-02 12:00:00,Saturday,12:00:00,6358.0,10532.0,16890.0
+1391,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-02 16:00:00,Saturday,16:00:00,16900.0,10269.0,27169.0
+1392,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-02 20:00:00,Saturday,20:00:00,17590.0,7078.0,24668.0
+1393,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-03 00:00:00,Sunday,00:00:00,6293.0,2042.0,8335.0
+1394,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-03 04:00:00,Sunday,04:00:00,752.0,411.0,1163.0
+1395,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-03 08:00:00,Sunday,08:00:00,655.0,1031.0,1686.0
+1396,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-03 12:00:00,Sunday,12:00:00,4596.0,8042.0,12638.0
+1397,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-03 16:00:00,Sunday,16:00:00,12642.0,8574.0,21216.0
+1398,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-03 20:00:00,Sunday,20:00:00,14463.0,5136.0,19599.0
+1399,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-04 00:00:00,Monday,00:00:00,5301.0,1513.0,6814.0
+1400,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-04 04:00:00,Monday,04:00:00,424.0,261.0,685.0
+1401,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-04 08:00:00,Monday,08:00:00,1124.0,2734.0,3858.0
+1402,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-04 12:00:00,Monday,12:00:00,6162.0,14242.0,20404.0
+1403,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-04 16:00:00,Monday,16:00:00,12188.0,7934.0,20122.0
+1404,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-04 20:00:00,Monday,20:00:00,21933.0,6630.0,28563.0
+1405,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-05 00:00:00,Tuesday,00:00:00,5837.0,1626.0,7463.0
+1406,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-05 04:00:00,Tuesday,04:00:00,455.0,202.0,657.0
+1407,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-05 08:00:00,Tuesday,08:00:00,874.0,2623.0,3497.0
+1408,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-05 12:00:00,Tuesday,12:00:00,5516.0,13424.0,18940.0
+1409,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-05 16:00:00,Tuesday,16:00:00,10898.0,7783.0,18681.0
+1410,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-05 20:00:00,Tuesday,20:00:00,20094.0,6931.0,27025.0
+1411,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-06 00:00:00,Wednesday,00:00:00,5931.0,1650.0,7581.0
+1412,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-06 04:00:00,Wednesday,04:00:00,399.0,194.0,593.0
+1413,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-06 08:00:00,Wednesday,08:00:00,1124.0,2896.0,4020.0
+1414,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-06 12:00:00,Wednesday,12:00:00,6235.0,14410.0,20645.0
+1415,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-06 16:00:00,Wednesday,16:00:00,10560.0,6574.0,17134.0
+1416,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-06 20:00:00,Wednesday,20:00:00,22779.0,7879.0,30658.0
+1417,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-07 00:00:00,Thursday,00:00:00,6566.0,1808.0,8374.0
+1418,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-07 04:00:00,Thursday,04:00:00,523.0,250.0,773.0
+1419,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-07 08:00:00,Thursday,08:00:00,1082.0,2842.0,3924.0
+1420,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-07 12:00:00,Thursday,12:00:00,6067.0,14306.0,20373.0
+1421,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-07 16:00:00,Thursday,16:00:00,11592.0,7867.0,19459.0
+1422,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-07 20:00:00,Thursday,20:00:00,21493.0,7150.0,28643.0
+1423,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-08 00:00:00,Friday,00:00:00,6559.0,1988.0,8547.0
+1424,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-08 04:00:00,Friday,04:00:00,558.0,243.0,801.0
+1425,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-08 08:00:00,Friday,08:00:00,1005.0,2566.0,3571.0
+1426,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-08 12:00:00,Friday,12:00:00,6158.0,13132.0,19290.0
+1427,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-08 16:00:00,Friday,16:00:00,12740.0,8802.0,21542.0
+1428,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-08 20:00:00,Friday,20:00:00,22143.0,8256.0,30399.0
+1429,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-09 04:00:00,Saturday,04:00:00,900.0,462.0,1362.0
+1430,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-09 08:00:00,Saturday,08:00:00,453.0,891.0,1344.0
+1431,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-09 12:00:00,Saturday,12:00:00,3271.0,6558.0,9829.0
+1432,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-09 16:00:00,Saturday,16:00:00,11467.0,8169.0,19636.0
+1433,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-09 20:00:00,Saturday,20:00:00,13816.0,6261.0,20077.0
+1434,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-10 00:00:00,Sunday,00:00:00,5887.0,2283.0,8170.0
+1435,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-10 04:00:00,Sunday,04:00:00,848.0,478.0,1326.0
+1436,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-10 08:00:00,Sunday,08:00:00,313.0,601.0,914.0
+1437,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-10 12:00:00,Sunday,12:00:00,2643.0,5220.0,7863.0
+1438,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-10 16:00:00,Sunday,16:00:00,9249.0,6791.0,16040.0
+1439,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-10 20:00:00,Sunday,20:00:00,11072.0,4400.0,15472.0
+1440,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-11 00:00:00,Monday,00:00:00,4002.0,1361.0,5363.0
+1441,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-11 04:00:00,Monday,04:00:00,288.0,162.0,450.0
+1442,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-11 08:00:00,Monday,08:00:00,757.0,2166.0,2923.0
+1443,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-11 12:00:00,Monday,12:00:00,4760.0,11812.0,16572.0
+1444,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-11 16:00:00,Monday,16:00:00,10702.0,7800.0,18502.0
+1445,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-11 20:00:00,Monday,20:00:00,18044.0,6034.0,24078.0
+1446,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-12 00:00:00,Tuesday,00:00:00,5237.0,1474.0,6711.0
+1447,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-12 04:00:00,Tuesday,04:00:00,391.0,231.0,622.0
+1448,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-12 08:00:00,Tuesday,08:00:00,1078.0,2613.0,3691.0
+1449,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-12 12:00:00,Tuesday,12:00:00,5987.0,13824.0,19811.0
+1450,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-12 16:00:00,Tuesday,16:00:00,10543.0,6777.0,17320.0
+1451,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-12 20:00:00,Tuesday,20:00:00,20553.0,6286.0,26839.0
+1452,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-13 00:00:00,Wednesday,00:00:00,5567.0,1580.0,7147.0
+1453,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-13 04:00:00,Wednesday,04:00:00,454.0,227.0,681.0
+1454,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-13 08:00:00,Wednesday,08:00:00,1004.0,2589.0,3593.0
+1455,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-13 12:00:00,Wednesday,12:00:00,5724.0,13681.0,19405.0
+1456,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-13 16:00:00,Wednesday,16:00:00,10501.0,6702.0,17203.0
+1457,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-13 20:00:00,Wednesday,20:00:00,20640.0,6607.0,27247.0
+1458,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-14 00:00:00,Thursday,00:00:00,5949.0,1752.0,7701.0
+1459,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-14 04:00:00,Thursday,04:00:00,504.0,256.0,760.0
+1460,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-14 08:00:00,Thursday,08:00:00,1046.0,2603.0,3649.0
+1461,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-14 12:00:00,Thursday,12:00:00,5959.0,13811.0,19770.0
+1462,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-14 16:00:00,Thursday,16:00:00,11283.0,7286.0,18569.0
+1463,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-14 20:00:00,Thursday,20:00:00,21051.0,7256.0,28307.0
+1464,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-15 00:00:00,Friday,00:00:00,7218.0,1894.0,9112.0
+1465,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-15 04:00:00,Friday,04:00:00,589.0,276.0,865.0
+1466,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-15 08:00:00,Friday,08:00:00,955.0,2450.0,3405.0
+1467,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-15 12:00:00,Friday,12:00:00,5949.0,14651.0,20600.0
+1468,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-15 16:00:00,Friday,16:00:00,12567.0,8486.0,21053.0
+1469,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-15 20:00:00,Friday,20:00:00,21891.0,8463.0,30354.0
+1470,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-16 04:00:00,Saturday,04:00:00,961.0,505.0,1466.0
+1471,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-16 08:00:00,Saturday,08:00:00,458.0,943.0,1401.0
+1472,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-16 12:00:00,Saturday,12:00:00,3312.0,6286.0,9598.0
+1473,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-16 16:00:00,Saturday,16:00:00,10854.0,7355.0,18209.0
+1474,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-16 20:00:00,Saturday,20:00:00,13607.0,5412.0,19019.0
+1475,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-17 00:00:00,Sunday,00:00:00,5514.0,2204.0,7718.0
+1476,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-17 04:00:00,Sunday,04:00:00,927.0,444.0,1371.0
+1477,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-17 08:00:00,Sunday,08:00:00,325.0,623.0,948.0
+1478,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-17 12:00:00,Sunday,12:00:00,2587.0,4884.0,7471.0
+1479,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-17 16:00:00,Sunday,16:00:00,8723.0,6152.0,14875.0
+1480,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-17 20:00:00,Sunday,20:00:00,10187.0,4022.0,14209.0
+1481,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-18 00:00:00,Monday,00:00:00,3404.0,1075.0,4479.0
+1482,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-18 04:00:00,Monday,04:00:00,278.0,180.0,458.0
+1483,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-18 08:00:00,Monday,08:00:00,964.0,2399.0,3363.0
+1484,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-18 12:00:00,Monday,12:00:00,5703.0,13666.0,19369.0
+1485,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-18 16:00:00,Monday,16:00:00,10642.0,6823.0,17465.0
+1486,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-18 20:00:00,Monday,20:00:00,20009.0,5812.0,25821.0
+1487,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-19 00:00:00,Tuesday,00:00:00,5239.0,1337.0,6576.0
+1488,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-19 04:00:00,Tuesday,04:00:00,375.0,193.0,568.0
+1489,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-19 08:00:00,Tuesday,08:00:00,1041.0,2451.0,3492.0
+1490,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-19 12:00:00,Tuesday,12:00:00,6094.0,14491.0,20585.0
+1491,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-19 16:00:00,Tuesday,16:00:00,11463.0,7512.0,18975.0
+1492,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-19 20:00:00,Tuesday,20:00:00,21240.0,6597.0,27837.0
+1493,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-20 00:00:00,Wednesday,00:00:00,6102.0,1663.0,7765.0
+1494,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-20 04:00:00,Wednesday,04:00:00,464.0,261.0,725.0
+1495,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-20 08:00:00,Wednesday,08:00:00,1040.0,2797.0,3837.0
+1496,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-20 12:00:00,Wednesday,12:00:00,5902.0,13991.0,19893.0
+1497,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-20 16:00:00,Wednesday,16:00:00,11163.0,7101.0,18264.0
+1498,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-20 20:00:00,Wednesday,20:00:00,21257.0,6861.0,28118.0
+1499,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-21 00:00:00,Thursday,00:00:00,6257.0,1719.0,7976.0
+1500,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-21 04:00:00,Thursday,04:00:00,501.0,250.0,751.0
+1501,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-21 08:00:00,Thursday,08:00:00,1049.0,2781.0,3830.0
+1502,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-21 12:00:00,Thursday,12:00:00,6008.0,14128.0,20136.0
+1503,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-21 16:00:00,Thursday,16:00:00,11400.0,7752.0,19152.0
+1504,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-21 20:00:00,Thursday,20:00:00,21147.0,7496.0,28643.0
+1505,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-22 00:00:00,Friday,00:00:00,7274.0,2043.0,9317.0
+1506,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-22 04:00:00,Friday,04:00:00,642.0,300.0,942.0
+1507,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-22 08:00:00,Friday,08:00:00,1005.0,2636.0,3641.0
+1508,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-22 12:00:00,Friday,12:00:00,6026.0,14239.0,20265.0
+1509,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-22 16:00:00,Friday,16:00:00,12556.0,8621.0,21177.0
+1510,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-22 20:00:00,Friday,20:00:00,21147.0,8114.0,29261.0
+1511,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-23 04:00:00,Saturday,04:00:00,934.0,553.0,1487.0
+1512,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-23 08:00:00,Saturday,08:00:00,459.0,951.0,1410.0
+1513,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-23 12:00:00,Saturday,12:00:00,3295.0,6296.0,9591.0
+1514,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-23 16:00:00,Saturday,16:00:00,11138.0,7567.0,18705.0
+1515,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-23 20:00:00,Saturday,20:00:00,13636.0,5517.0,19153.0
+1516,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-24 00:00:00,Sunday,00:00:00,5546.0,1950.0,7496.0
+1517,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-24 04:00:00,Sunday,04:00:00,854.0,479.0,1333.0
+1518,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-24 08:00:00,Sunday,08:00:00,335.0,594.0,929.0
+1519,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-24 12:00:00,Sunday,12:00:00,2475.0,4379.0,6854.0
+1520,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-24 16:00:00,Sunday,16:00:00,7565.0,5308.0,12873.0
+1521,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-24 20:00:00,Sunday,20:00:00,8351.0,3585.0,11936.0
+1522,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-25 00:00:00,Monday,00:00:00,3230.0,1102.0,4332.0
+1523,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-25 04:00:00,Monday,04:00:00,151.0,187.0,338.0
+1524,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-25 08:00:00,Monday,08:00:00,989.0,2602.0,3591.0
+1525,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-25 12:00:00,Monday,12:00:00,5714.0,13947.0,19661.0
+1526,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-25 16:00:00,Monday,16:00:00,11986.0,7962.0,19948.0
+1527,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-25 20:00:00,Monday,20:00:00,21758.0,6926.0,28684.0
+1528,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-26 00:00:00,Tuesday,00:00:00,6040.0,1653.0,7693.0
+1529,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-26 04:00:00,Tuesday,04:00:00,402.0,277.0,679.0
+1530,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-26 08:00:00,Tuesday,08:00:00,1008.0,2594.0,3602.0
+1531,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-26 12:00:00,Tuesday,12:00:00,5953.0,14066.0,20019.0
+1532,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-26 16:00:00,Tuesday,16:00:00,12746.0,8399.0,21145.0
+1533,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-26 20:00:00,Tuesday,20:00:00,22191.0,7462.0,29653.0
+1534,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-27 00:00:00,Wednesday,00:00:00,6641.0,1884.0,8525.0
+1535,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-27 04:00:00,Wednesday,04:00:00,528.0,291.0,819.0
+1536,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-27 08:00:00,Wednesday,08:00:00,890.0,2504.0,3394.0
+1537,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-27 12:00:00,Wednesday,12:00:00,5502.0,11986.0,17488.0
+1538,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-27 16:00:00,Wednesday,16:00:00,15200.0,9084.0,24284.0
+1539,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-27 20:00:00,Wednesday,20:00:00,17971.0,7054.0,25025.0
+1540,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-28 00:00:00,Thursday,00:00:00,5576.0,1837.0,7413.0
+1541,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-28 04:00:00,Thursday,04:00:00,616.0,338.0,954.0
+1542,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-28 08:00:00,Thursday,08:00:00,519.0,723.0,1242.0
+1543,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-28 12:00:00,Thursday,12:00:00,2516.0,4074.0,6590.0
+1544,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-28 16:00:00,Thursday,16:00:00,7933.0,6203.0,14136.0
+1545,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-28 20:00:00,Thursday,20:00:00,7041.0,3952.0,10993.0
+1546,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-29 00:00:00,Friday,00:00:00,3013.0,1386.0,4399.0
+1547,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-29 04:00:00,Friday,04:00:00,271.0,291.0,562.0
+1548,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-29 08:00:00,Friday,08:00:00,458.0,1494.0,1952.0
+1549,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-29 12:00:00,Friday,12:00:00,3835.0,8679.0,12514.0
+1550,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-29 16:00:00,Friday,16:00:00,13082.0,11244.0,24326.0
+1551,Line JNQRZ6W : Canal & Broadway/Lafayette,2019-11-29 20:00:00,Friday,20:00:00,16853.0,7520.0,24373.0

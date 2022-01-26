@@ -1,0 +1,1505 @@
+,Line Name and Location,Date and Time,Day,4hr Time Interval Ending at,Net Entries,Net Exits,Total Entries & Exits
+0,Line 1 : Canal & Varick St,2021-09-01 08:00:00,Wednesday,08:00:00,104.0,501.0,605.0
+1,Line 1 : Canal & Varick St,2021-09-01 12:00:00,Wednesday,12:00:00,196.0,501.0,697.0
+2,Line 1 : Canal & Varick St,2021-09-01 16:00:00,Wednesday,16:00:00,460.0,399.0,859.0
+3,Line 1 : Canal & Varick St,2021-09-01 20:00:00,Wednesday,20:00:00,460.0,287.0,747.0
+4,Line 1 : Canal & Varick St,2021-09-02 00:00:00,Thursday,00:00:00,28.0,53.0,81.0
+5,Line 1 : Canal & Varick St,2021-09-02 04:00:00,Thursday,04:00:00,4.0,10.0,14.0
+6,Line 1 : Canal & Varick St,2021-09-02 08:00:00,Thursday,08:00:00,7.0,15.0,22.0
+7,Line 1 : Canal & Varick St,2021-09-02 12:00:00,Thursday,12:00:00,2.0,0.0,2.0
+8,Line 1 : Canal & Varick St,2021-09-02 16:00:00,Thursday,16:00:00,15.0,44.0,59.0
+9,Line 1 : Canal & Varick St,2021-09-02 20:00:00,Thursday,20:00:00,398.0,327.0,725.0
+10,Line 1 : Canal & Varick St,2021-09-03 00:00:00,Friday,00:00:00,177.0,111.0,288.0
+11,Line 1 : Canal & Varick St,2021-09-03 04:00:00,Friday,04:00:00,36.0,39.0,75.0
+12,Line 1 : Canal & Varick St,2021-09-03 08:00:00,Friday,08:00:00,61.0,471.0,532.0
+13,Line 1 : Canal & Varick St,2021-09-03 12:00:00,Friday,12:00:00,208.0,515.0,723.0
+14,Line 1 : Canal & Varick St,2021-09-03 16:00:00,Friday,16:00:00,487.0,625.0,1112.0
+15,Line 1 : Canal & Varick St,2021-09-03 20:00:00,Friday,20:00:00,461.0,527.0,988.0
+16,Line 1 : Canal & Varick St,2021-09-04 04:00:00,Saturday,04:00:00,61.0,55.0,116.0
+17,Line 1 : Canal & Varick St,2021-09-04 08:00:00,Saturday,08:00:00,33.0,137.0,170.0
+18,Line 1 : Canal & Varick St,2021-09-04 12:00:00,Saturday,12:00:00,135.0,508.0,643.0
+19,Line 1 : Canal & Varick St,2021-09-04 16:00:00,Saturday,16:00:00,387.0,736.0,1123.0
+20,Line 1 : Canal & Varick St,2021-09-04 20:00:00,Saturday,20:00:00,341.0,503.0,844.0
+21,Line 1 : Canal & Varick St,2021-09-05 00:00:00,Sunday,00:00:00,223.0,277.0,500.0
+22,Line 1 : Canal & Varick St,2021-09-05 04:00:00,Sunday,04:00:00,83.0,59.0,142.0
+23,Line 1 : Canal & Varick St,2021-09-05 08:00:00,Sunday,08:00:00,28.0,98.0,126.0
+24,Line 1 : Canal & Varick St,2021-09-05 12:00:00,Sunday,12:00:00,156.0,396.0,552.0
+25,Line 1 : Canal & Varick St,2021-09-05 16:00:00,Sunday,16:00:00,283.0,683.0,966.0
+26,Line 1 : Canal & Varick St,2021-09-05 20:00:00,Sunday,20:00:00,289.0,424.0,713.0
+27,Line 1 : Canal & Varick St,2021-09-06 00:00:00,Monday,00:00:00,159.0,112.0,271.0
+28,Line 1 : Canal & Varick St,2021-09-06 04:00:00,Monday,04:00:00,32.0,24.0,56.0
+29,Line 1 : Canal & Varick St,2021-09-06 08:00:00,Monday,08:00:00,33.0,131.0,164.0
+30,Line 1 : Canal & Varick St,2021-09-06 12:00:00,Monday,12:00:00,148.0,374.0,522.0
+31,Line 1 : Canal & Varick St,2021-09-06 16:00:00,Monday,16:00:00,274.0,566.0,840.0
+32,Line 1 : Canal & Varick St,2021-09-06 20:00:00,Monday,20:00:00,283.0,319.0,602.0
+33,Line 1 : Canal & Varick St,2021-09-07 00:00:00,Tuesday,00:00:00,122.0,84.0,206.0
+34,Line 1 : Canal & Varick St,2021-09-07 04:00:00,Tuesday,04:00:00,13.0,19.0,32.0
+35,Line 1 : Canal & Varick St,2021-09-07 08:00:00,Tuesday,08:00:00,87.0,593.0,680.0
+36,Line 1 : Canal & Varick St,2021-09-07 12:00:00,Tuesday,12:00:00,217.0,653.0,870.0
+37,Line 1 : Canal & Varick St,2021-09-07 16:00:00,Tuesday,16:00:00,470.0,578.0,1048.0
+38,Line 1 : Canal & Varick St,2021-09-07 20:00:00,Tuesday,20:00:00,516.0,402.0,918.0
+39,Line 1 : Canal & Varick St,2021-09-08 00:00:00,Wednesday,00:00:00,130.0,126.0,256.0
+40,Line 1 : Canal & Varick St,2021-09-08 04:00:00,Wednesday,04:00:00,28.0,16.0,44.0
+41,Line 1 : Canal & Varick St,2021-09-08 08:00:00,Wednesday,08:00:00,95.0,667.0,762.0
+42,Line 1 : Canal & Varick St,2021-09-08 12:00:00,Wednesday,12:00:00,220.0,708.0,928.0
+43,Line 1 : Canal & Varick St,2021-09-08 16:00:00,Wednesday,16:00:00,565.0,543.0,1108.0
+44,Line 1 : Canal & Varick St,2021-09-08 20:00:00,Wednesday,20:00:00,603.0,490.0,1093.0
+45,Line 1 : Canal & Varick St,2021-09-09 00:00:00,Thursday,00:00:00,181.0,141.0,322.0
+46,Line 1 : Canal & Varick St,2021-09-09 04:00:00,Thursday,04:00:00,29.0,51.0,80.0
+47,Line 1 : Canal & Varick St,2021-09-09 08:00:00,Thursday,08:00:00,122.0,643.0,765.0
+48,Line 1 : Canal & Varick St,2021-09-09 12:00:00,Thursday,12:00:00,249.0,735.0,984.0
+49,Line 1 : Canal & Varick St,2021-09-09 16:00:00,Thursday,16:00:00,499.0,572.0,1071.0
+50,Line 1 : Canal & Varick St,2021-09-09 20:00:00,Thursday,20:00:00,652.0,552.0,1204.0
+51,Line 1 : Canal & Varick St,2021-09-10 00:00:00,Friday,00:00:00,173.0,174.0,347.0
+52,Line 1 : Canal & Varick St,2021-09-10 04:00:00,Friday,04:00:00,49.0,40.0,89.0
+53,Line 1 : Canal & Varick St,2021-09-10 08:00:00,Friday,08:00:00,95.0,593.0,688.0
+54,Line 1 : Canal & Varick St,2021-09-10 12:00:00,Friday,12:00:00,270.0,673.0,943.0
+55,Line 1 : Canal & Varick St,2021-09-10 16:00:00,Friday,16:00:00,568.0,762.0,1330.0
+56,Line 1 : Canal & Varick St,2021-09-10 20:00:00,Friday,20:00:00,607.0,705.0,1312.0
+57,Line 1 : Canal & Varick St,2021-09-11 04:00:00,Saturday,04:00:00,110.0,77.0,187.0
+58,Line 1 : Canal & Varick St,2021-09-11 08:00:00,Saturday,08:00:00,45.0,141.0,186.0
+59,Line 1 : Canal & Varick St,2021-09-11 12:00:00,Saturday,12:00:00,167.0,560.0,727.0
+60,Line 1 : Canal & Varick St,2021-09-11 16:00:00,Saturday,16:00:00,356.0,745.0,1101.0
+61,Line 1 : Canal & Varick St,2021-09-11 20:00:00,Saturday,20:00:00,417.0,574.0,991.0
+62,Line 1 : Canal & Varick St,2021-09-12 00:00:00,Sunday,00:00:00,250.0,342.0,592.0
+63,Line 1 : Canal & Varick St,2021-09-12 04:00:00,Sunday,04:00:00,84.0,81.0,165.0
+64,Line 1 : Canal & Varick St,2021-09-12 08:00:00,Sunday,08:00:00,31.0,112.0,143.0
+65,Line 1 : Canal & Varick St,2021-09-12 12:00:00,Sunday,12:00:00,129.0,447.0,576.0
+66,Line 1 : Canal & Varick St,2021-09-12 16:00:00,Sunday,16:00:00,318.0,654.0,972.0
+67,Line 1 : Canal & Varick St,2021-09-12 20:00:00,Sunday,20:00:00,311.0,343.0,654.0
+68,Line 1 : Canal & Varick St,2021-09-13 00:00:00,Monday,00:00:00,136.0,123.0,259.0
+69,Line 1 : Canal & Varick St,2021-09-13 04:00:00,Monday,04:00:00,17.0,21.0,38.0
+70,Line 1 : Canal & Varick St,2021-09-13 08:00:00,Monday,08:00:00,155.0,731.0,886.0
+71,Line 1 : Canal & Varick St,2021-09-13 12:00:00,Monday,12:00:00,254.0,623.0,877.0
+72,Line 1 : Canal & Varick St,2021-09-13 16:00:00,Monday,16:00:00,594.0,583.0,1177.0
+73,Line 1 : Canal & Varick St,2021-09-13 20:00:00,Monday,20:00:00,522.0,412.0,934.0
+74,Line 1 : Canal & Varick St,2021-09-14 00:00:00,Tuesday,00:00:00,150.0,109.0,259.0
+75,Line 1 : Canal & Varick St,2021-09-14 04:00:00,Tuesday,04:00:00,14.0,36.0,50.0
+76,Line 1 : Canal & Varick St,2021-09-14 08:00:00,Tuesday,08:00:00,149.0,651.0,800.0
+77,Line 1 : Canal & Varick St,2021-09-14 12:00:00,Tuesday,12:00:00,220.0,820.0,1040.0
+78,Line 1 : Canal & Varick St,2021-09-14 16:00:00,Tuesday,16:00:00,615.0,566.0,1181.0
+79,Line 1 : Canal & Varick St,2021-09-14 20:00:00,Tuesday,20:00:00,598.0,491.0,1089.0
+80,Line 1 : Canal & Varick St,2021-09-15 00:00:00,Wednesday,00:00:00,168.0,125.0,293.0
+81,Line 1 : Canal & Varick St,2021-09-15 04:00:00,Wednesday,04:00:00,23.0,43.0,66.0
+82,Line 1 : Canal & Varick St,2021-09-15 08:00:00,Wednesday,08:00:00,174.0,701.0,875.0
+83,Line 1 : Canal & Varick St,2021-09-15 12:00:00,Wednesday,12:00:00,232.0,732.0,964.0
+84,Line 1 : Canal & Varick St,2021-09-15 16:00:00,Wednesday,16:00:00,617.0,609.0,1226.0
+85,Line 1 : Canal & Varick St,2021-09-15 20:00:00,Wednesday,20:00:00,650.0,547.0,1197.0
+86,Line 1 : Canal & Varick St,2021-09-16 00:00:00,Thursday,00:00:00,172.0,137.0,309.0
+87,Line 1 : Canal & Varick St,2021-09-16 04:00:00,Thursday,04:00:00,28.0,38.0,66.0
+88,Line 1 : Canal & Varick St,2021-09-16 08:00:00,Thursday,08:00:00,88.0,616.0,704.0
+89,Line 1 : Canal & Varick St,2021-09-16 12:00:00,Thursday,12:00:00,218.0,651.0,869.0
+90,Line 1 : Canal & Varick St,2021-09-16 16:00:00,Thursday,16:00:00,548.0,609.0,1157.0
+91,Line 1 : Canal & Varick St,2021-09-16 20:00:00,Thursday,20:00:00,583.0,599.0,1182.0
+92,Line 1 : Canal & Varick St,2021-09-17 00:00:00,Friday,00:00:00,238.0,182.0,420.0
+93,Line 1 : Canal & Varick St,2021-09-17 04:00:00,Friday,04:00:00,50.0,41.0,91.0
+94,Line 1 : Canal & Varick St,2021-09-17 08:00:00,Friday,08:00:00,134.0,666.0,800.0
+95,Line 1 : Canal & Varick St,2021-09-17 12:00:00,Friday,12:00:00,262.0,689.0,951.0
+96,Line 1 : Canal & Varick St,2021-09-17 16:00:00,Friday,16:00:00,663.0,675.0,1338.0
+97,Line 1 : Canal & Varick St,2021-09-17 20:00:00,Friday,20:00:00,582.0,764.0,1346.0
+98,Line 1 : Canal & Varick St,2021-09-18 04:00:00,Saturday,04:00:00,83.0,36.0,119.0
+99,Line 1 : Canal & Varick St,2021-09-18 08:00:00,Saturday,08:00:00,50.0,154.0,204.0
+100,Line 1 : Canal & Varick St,2021-09-18 12:00:00,Saturday,12:00:00,182.0,491.0,673.0
+101,Line 1 : Canal & Varick St,2021-09-18 16:00:00,Saturday,16:00:00,382.0,800.0,1182.0
+102,Line 1 : Canal & Varick St,2021-09-18 20:00:00,Saturday,20:00:00,463.0,680.0,1143.0
+103,Line 1 : Canal & Varick St,2021-09-19 00:00:00,Sunday,00:00:00,273.0,235.0,508.0
+104,Line 1 : Canal & Varick St,2021-09-19 04:00:00,Sunday,04:00:00,74.0,57.0,131.0
+105,Line 1 : Canal & Varick St,2021-09-19 08:00:00,Sunday,08:00:00,43.0,99.0,142.0
+106,Line 1 : Canal & Varick St,2021-09-19 12:00:00,Sunday,12:00:00,130.0,422.0,552.0
+107,Line 1 : Canal & Varick St,2021-09-19 16:00:00,Sunday,16:00:00,306.0,624.0,930.0
+108,Line 1 : Canal & Varick St,2021-09-19 20:00:00,Sunday,20:00:00,367.0,404.0,771.0
+109,Line 1 : Canal & Varick St,2021-09-20 00:00:00,Monday,00:00:00,196.0,122.0,318.0
+110,Line 1 : Canal & Varick St,2021-09-20 04:00:00,Monday,04:00:00,17.0,24.0,41.0
+111,Line 1 : Canal & Varick St,2021-09-20 08:00:00,Monday,08:00:00,147.0,709.0,856.0
+112,Line 1 : Canal & Varick St,2021-09-20 12:00:00,Monday,12:00:00,213.0,593.0,806.0
+113,Line 1 : Canal & Varick St,2021-09-20 16:00:00,Monday,16:00:00,573.0,554.0,1127.0
+114,Line 1 : Canal & Varick St,2021-09-20 20:00:00,Monday,20:00:00,567.0,489.0,1056.0
+115,Line 1 : Canal & Varick St,2021-09-21 00:00:00,Tuesday,00:00:00,176.0,100.0,276.0
+116,Line 1 : Canal & Varick St,2021-09-21 04:00:00,Tuesday,04:00:00,22.0,24.0,46.0
+117,Line 1 : Canal & Varick St,2021-09-21 08:00:00,Tuesday,08:00:00,157.0,755.0,912.0
+118,Line 1 : Canal & Varick St,2021-09-21 12:00:00,Tuesday,12:00:00,242.0,686.0,928.0
+119,Line 1 : Canal & Varick St,2021-09-21 16:00:00,Tuesday,16:00:00,616.0,631.0,1247.0
+120,Line 1 : Canal & Varick St,2021-09-21 20:00:00,Tuesday,20:00:00,658.0,566.0,1224.0
+121,Line 1 : Canal & Varick St,2021-09-22 00:00:00,Wednesday,00:00:00,182.0,119.0,301.0
+122,Line 1 : Canal & Varick St,2021-09-22 04:00:00,Wednesday,04:00:00,30.0,49.0,79.0
+123,Line 1 : Canal & Varick St,2021-09-22 08:00:00,Wednesday,08:00:00,154.0,759.0,913.0
+124,Line 1 : Canal & Varick St,2021-09-22 12:00:00,Wednesday,12:00:00,248.0,714.0,962.0
+125,Line 1 : Canal & Varick St,2021-09-22 16:00:00,Wednesday,16:00:00,611.0,591.0,1202.0
+126,Line 1 : Canal & Varick St,2021-09-22 20:00:00,Wednesday,20:00:00,686.0,594.0,1280.0
+127,Line 1 : Canal & Varick St,2021-09-23 00:00:00,Thursday,00:00:00,173.0,115.0,288.0
+128,Line 1 : Canal & Varick St,2021-09-23 04:00:00,Thursday,04:00:00,32.0,31.0,63.0
+129,Line 1 : Canal & Varick St,2021-09-23 08:00:00,Thursday,08:00:00,139.0,774.0,913.0
+130,Line 1 : Canal & Varick St,2021-09-23 12:00:00,Thursday,12:00:00,248.0,683.0,931.0
+131,Line 1 : Canal & Varick St,2021-09-23 16:00:00,Thursday,16:00:00,677.0,643.0,1320.0
+132,Line 1 : Canal & Varick St,2021-09-23 20:00:00,Thursday,20:00:00,623.0,628.0,1251.0
+133,Line 1 : Canal & Varick St,2021-09-24 00:00:00,Friday,00:00:00,150.0,119.0,269.0
+134,Line 1 : Canal & Varick St,2021-09-24 04:00:00,Friday,04:00:00,34.0,31.0,65.0
+135,Line 1 : Canal & Varick St,2021-09-24 08:00:00,Friday,08:00:00,129.0,659.0,788.0
+136,Line 1 : Canal & Varick St,2021-09-24 12:00:00,Friday,12:00:00,263.0,682.0,945.0
+137,Line 1 : Canal & Varick St,2021-09-24 16:00:00,Friday,16:00:00,621.0,746.0,1367.0
+138,Line 1 : Canal & Varick St,2021-09-24 20:00:00,Friday,20:00:00,705.0,804.0,1509.0
+139,Line 1 : Canal & Varick St,2021-09-25 04:00:00,Saturday,04:00:00,76.0,53.0,129.0
+140,Line 1 : Canal & Varick St,2021-09-25 08:00:00,Saturday,08:00:00,38.0,149.0,187.0
+141,Line 1 : Canal & Varick St,2021-09-25 12:00:00,Saturday,12:00:00,200.0,526.0,726.0
+142,Line 1 : Canal & Varick St,2021-09-25 16:00:00,Saturday,16:00:00,402.0,893.0,1295.0
+143,Line 1 : Canal & Varick St,2021-09-25 20:00:00,Saturday,20:00:00,504.0,754.0,1258.0
+144,Line 1 : Canal & Varick St,2021-09-26 00:00:00,Sunday,00:00:00,283.0,302.0,585.0
+145,Line 1 : Canal & Varick St,2021-09-26 04:00:00,Sunday,04:00:00,102.0,62.0,164.0
+146,Line 1 : Canal & Varick St,2021-09-26 08:00:00,Sunday,08:00:00,60.0,105.0,165.0
+147,Line 1 : Canal & Varick St,2021-09-26 12:00:00,Sunday,12:00:00,126.0,461.0,587.0
+148,Line 1 : Canal & Varick St,2021-09-26 16:00:00,Sunday,16:00:00,356.0,658.0,1014.0
+149,Line 1 : Canal & Varick St,2021-09-26 20:00:00,Sunday,20:00:00,379.0,370.0,749.0
+150,Line 1 : Canal & Varick St,2021-09-27 00:00:00,Monday,00:00:00,129.0,106.0,235.0
+151,Line 1 : Canal & Varick St,2021-09-27 04:00:00,Monday,04:00:00,27.0,26.0,53.0
+152,Line 1 : Canal & Varick St,2021-09-27 08:00:00,Monday,08:00:00,144.0,697.0,841.0
+153,Line 1 : Canal & Varick St,2021-09-27 12:00:00,Monday,12:00:00,246.0,659.0,905.0
+154,Line 1 : Canal & Varick St,2021-09-27 16:00:00,Monday,16:00:00,624.0,554.0,1178.0
+155,Line 1 : Canal & Varick St,2021-09-27 20:00:00,Monday,20:00:00,548.0,395.0,943.0
+156,Line 1 : Canal & Varick St,2021-09-28 00:00:00,Tuesday,00:00:00,133.0,94.0,227.0
+157,Line 1 : Canal & Varick St,2021-09-28 04:00:00,Tuesday,04:00:00,16.0,28.0,44.0
+158,Line 1 : Canal & Varick St,2021-09-28 08:00:00,Tuesday,08:00:00,178.0,770.0,948.0
+159,Line 1 : Canal & Varick St,2021-09-28 12:00:00,Tuesday,12:00:00,271.0,755.0,1026.0
+160,Line 1 : Canal & Varick St,2021-09-28 16:00:00,Tuesday,16:00:00,625.0,500.0,1125.0
+161,Line 1 : Canal & Varick St,2021-09-28 20:00:00,Tuesday,20:00:00,613.0,463.0,1076.0
+162,Line 1 : Canal & Varick St,2021-09-29 00:00:00,Wednesday,00:00:00,135.0,104.0,239.0
+163,Line 1 : Canal & Varick St,2021-09-29 04:00:00,Wednesday,04:00:00,24.0,31.0,55.0
+164,Line 1 : Canal & Varick St,2021-09-29 08:00:00,Wednesday,08:00:00,162.0,718.0,880.0
+165,Line 1 : Canal & Varick St,2021-09-29 12:00:00,Wednesday,12:00:00,243.0,720.0,963.0
+166,Line 1 : Canal & Varick St,2021-09-29 16:00:00,Wednesday,16:00:00,669.0,690.0,1359.0
+167,Line 1 : Canal & Varick St,2021-09-29 20:00:00,Wednesday,20:00:00,647.0,609.0,1256.0
+168,Line 1 : Canal & Varick St,2021-09-30 00:00:00,Thursday,00:00:00,182.0,139.0,321.0
+169,Line 1 : Canal & Varick St,2021-09-30 04:00:00,Thursday,04:00:00,37.0,35.0,72.0
+170,Line 1 : Canal & Varick St,2021-09-30 08:00:00,Thursday,08:00:00,163.0,771.0,934.0
+171,Line 1 : Canal & Varick St,2021-09-30 12:00:00,Thursday,12:00:00,266.0,826.0,1092.0
+172,Line 1 : Canal & Varick St,2021-09-30 16:00:00,Thursday,16:00:00,665.0,680.0,1345.0
+173,Line 1 : Canal & Varick St,2021-09-30 20:00:00,Thursday,20:00:00,604.0,613.0,1217.0
+174,Line 1 : Canal & Varick St,2021-10-01 00:00:00,Friday,00:00:00,187.0,167.0,354.0
+175,Line 1 : Canal & Varick St,2021-10-01 04:00:00,Friday,04:00:00,35.0,22.0,57.0
+176,Line 1 : Canal & Varick St,2021-10-01 08:00:00,Friday,08:00:00,124.0,676.0,800.0
+177,Line 1 : Canal & Varick St,2021-10-01 12:00:00,Friday,12:00:00,250.0,666.0,916.0
+178,Line 1 : Canal & Varick St,2021-10-01 16:00:00,Friday,16:00:00,632.0,766.0,1398.0
+179,Line 1 : Canal & Varick St,2021-10-01 20:00:00,Friday,20:00:00,523.0,662.0,1185.0
+180,Line 1 : Canal & Varick St,2021-10-02 04:00:00,Saturday,04:00:00,72.0,48.0,120.0
+181,Line 1 : Canal & Varick St,2021-10-02 08:00:00,Saturday,08:00:00,49.0,192.0,241.0
+182,Line 1 : Canal & Varick St,2021-10-02 12:00:00,Saturday,12:00:00,168.0,599.0,767.0
+183,Line 1 : Canal & Varick St,2021-10-02 16:00:00,Saturday,16:00:00,431.0,856.0,1287.0
+184,Line 1 : Canal & Varick St,2021-10-02 20:00:00,Saturday,20:00:00,383.0,591.0,974.0
+185,Line 1 : Canal & Varick St,2021-10-03 00:00:00,Sunday,00:00:00,248.0,291.0,539.0
+186,Line 1 : Canal & Varick St,2021-10-03 04:00:00,Sunday,04:00:00,72.0,58.0,130.0
+187,Line 1 : Canal & Varick St,2021-10-03 08:00:00,Sunday,08:00:00,31.0,99.0,130.0
+188,Line 1 : Canal & Varick St,2021-10-03 12:00:00,Sunday,12:00:00,145.0,532.0,677.0
+189,Line 1 : Canal & Varick St,2021-10-03 16:00:00,Sunday,16:00:00,267.0,658.0,925.0
+190,Line 1 : Canal & Varick St,2021-10-03 20:00:00,Sunday,20:00:00,287.0,349.0,636.0
+191,Line 1 : Canal & Varick St,2021-10-04 00:00:00,Monday,00:00:00,138.0,133.0,271.0
+192,Line 1 : Canal & Varick St,2021-10-04 04:00:00,Monday,04:00:00,17.0,27.0,44.0
+193,Line 1 : Canal & Varick St,2021-10-04 08:00:00,Monday,08:00:00,140.0,679.0,819.0
+194,Line 1 : Canal & Varick St,2021-10-04 12:00:00,Monday,12:00:00,295.0,695.0,990.0
+195,Line 1 : Canal & Varick St,2021-10-04 16:00:00,Monday,16:00:00,661.0,552.0,1213.0
+196,Line 1 : Canal & Varick St,2021-10-04 20:00:00,Monday,20:00:00,603.0,427.0,1030.0
+197,Line 1 : Canal & Varick St,2021-10-05 00:00:00,Tuesday,00:00:00,142.0,95.0,237.0
+198,Line 1 : Canal & Varick St,2021-10-05 04:00:00,Tuesday,04:00:00,15.0,27.0,42.0
+199,Line 1 : Canal & Varick St,2021-10-05 08:00:00,Tuesday,08:00:00,173.0,772.0,945.0
+200,Line 1 : Canal & Varick St,2021-10-05 12:00:00,Tuesday,12:00:00,277.0,810.0,1087.0
+201,Line 1 : Canal & Varick St,2021-10-05 16:00:00,Tuesday,16:00:00,701.0,649.0,1350.0
+202,Line 1 : Canal & Varick St,2021-10-05 20:00:00,Tuesday,20:00:00,657.0,569.0,1226.0
+203,Line 1 : Canal & Varick St,2021-10-06 00:00:00,Wednesday,00:00:00,198.0,130.0,328.0
+204,Line 1 : Canal & Varick St,2021-10-06 04:00:00,Wednesday,04:00:00,20.0,28.0,48.0
+205,Line 1 : Canal & Varick St,2021-10-06 08:00:00,Wednesday,08:00:00,139.0,803.0,942.0
+206,Line 1 : Canal & Varick St,2021-10-06 12:00:00,Wednesday,12:00:00,251.0,671.0,922.0
+207,Line 1 : Canal & Varick St,2021-10-06 16:00:00,Wednesday,16:00:00,700.0,685.0,1385.0
+208,Line 1 : Canal & Varick St,2021-10-06 20:00:00,Wednesday,20:00:00,725.0,545.0,1270.0
+209,Line 1 : Canal & Varick St,2021-10-07 00:00:00,Thursday,00:00:00,172.0,132.0,304.0
+210,Line 1 : Canal & Varick St,2021-10-07 04:00:00,Thursday,04:00:00,34.0,33.0,67.0
+211,Line 1 : Canal & Varick St,2021-10-07 08:00:00,Thursday,08:00:00,156.0,816.0,972.0
+212,Line 1 : Canal & Varick St,2021-10-07 12:00:00,Thursday,12:00:00,269.0,738.0,1007.0
+213,Line 1 : Canal & Varick St,2021-10-07 16:00:00,Thursday,16:00:00,658.0,663.0,1321.0
+214,Line 1 : Canal & Varick St,2021-10-07 20:00:00,Thursday,20:00:00,692.0,576.0,1268.0
+215,Line 1 : Canal & Varick St,2021-10-08 00:00:00,Friday,00:00:00,225.0,178.0,403.0
+216,Line 1 : Canal & Varick St,2021-10-08 04:00:00,Friday,04:00:00,41.0,44.0,85.0
+217,Line 1 : Canal & Varick St,2021-10-08 08:00:00,Friday,08:00:00,130.0,630.0,760.0
+218,Line 1 : Canal & Varick St,2021-10-08 12:00:00,Friday,12:00:00,317.0,770.0,1087.0
+219,Line 1 : Canal & Varick St,2021-10-08 16:00:00,Friday,16:00:00,661.0,787.0,1448.0
+220,Line 1 : Canal & Varick St,2021-10-08 20:00:00,Friday,20:00:00,619.0,737.0,1356.0
+221,Line 1 : Canal & Varick St,2021-10-09 04:00:00,Saturday,04:00:00,69.0,33.0,102.0
+222,Line 1 : Canal & Varick St,2021-10-09 08:00:00,Saturday,08:00:00,52.0,106.0,158.0
+223,Line 1 : Canal & Varick St,2021-10-09 12:00:00,Saturday,12:00:00,161.0,326.0,487.0
+224,Line 1 : Canal & Varick St,2021-10-09 16:00:00,Saturday,16:00:00,437.0,523.0,960.0
+225,Line 1 : Canal & Varick St,2021-10-09 20:00:00,Saturday,20:00:00,370.0,298.0,668.0
+226,Line 1 : Canal & Varick St,2021-10-10 00:00:00,Sunday,00:00:00,175.0,120.0,295.0
+227,Line 1 : Canal & Varick St,2021-10-10 04:00:00,Sunday,04:00:00,64.0,25.0,89.0
+228,Line 1 : Canal & Varick St,2021-10-10 08:00:00,Sunday,08:00:00,39.0,73.0,112.0
+229,Line 1 : Canal & Varick St,2021-10-10 12:00:00,Sunday,12:00:00,149.0,230.0,379.0
+230,Line 1 : Canal & Varick St,2021-10-10 16:00:00,Sunday,16:00:00,286.0,339.0,625.0
+231,Line 1 : Canal & Varick St,2021-10-10 20:00:00,Sunday,20:00:00,289.0,167.0,456.0
+232,Line 1 : Canal & Varick St,2021-10-11 00:00:00,Monday,00:00:00,126.0,54.0,180.0
+233,Line 1 : Canal & Varick St,2021-10-11 04:00:00,Monday,04:00:00,15.0,11.0,26.0
+234,Line 1 : Canal & Varick St,2021-10-11 08:00:00,Monday,08:00:00,82.0,437.0,519.0
+235,Line 1 : Canal & Varick St,2021-10-11 12:00:00,Monday,12:00:00,206.0,631.0,837.0
+236,Line 1 : Canal & Varick St,2021-10-11 16:00:00,Monday,16:00:00,450.0,546.0,996.0
+237,Line 1 : Canal & Varick St,2021-10-11 20:00:00,Monday,20:00:00,525.0,372.0,897.0
+238,Line 1 : Canal & Varick St,2021-10-12 00:00:00,Tuesday,00:00:00,143.0,93.0,236.0
+239,Line 1 : Canal & Varick St,2021-10-12 04:00:00,Tuesday,04:00:00,15.0,27.0,42.0
+240,Line 1 : Canal & Varick St,2021-10-12 08:00:00,Tuesday,08:00:00,153.0,789.0,942.0
+241,Line 1 : Canal & Varick St,2021-10-12 12:00:00,Tuesday,12:00:00,263.0,762.0,1025.0
+242,Line 1 : Canal & Varick St,2021-10-12 16:00:00,Tuesday,16:00:00,682.0,606.0,1288.0
+243,Line 1 : Canal & Varick St,2021-10-12 20:00:00,Tuesday,20:00:00,630.0,481.0,1111.0
+244,Line 1 : Canal & Varick St,2021-10-13 00:00:00,Wednesday,00:00:00,160.0,119.0,279.0
+245,Line 1 : Canal & Varick St,2021-10-13 04:00:00,Wednesday,04:00:00,25.0,22.0,47.0
+246,Line 1 : Canal & Varick St,2021-10-13 08:00:00,Wednesday,08:00:00,170.0,743.0,913.0
+247,Line 1 : Canal & Varick St,2021-10-13 12:00:00,Wednesday,12:00:00,158.0,677.0,835.0
+248,Line 1 : Canal & Varick St,2021-10-13 16:00:00,Wednesday,16:00:00,732.0,745.0,1477.0
+249,Line 1 : Canal & Varick St,2021-10-13 20:00:00,Wednesday,20:00:00,670.0,542.0,1212.0
+250,Line 1 : Canal & Varick St,2021-10-14 00:00:00,Thursday,00:00:00,208.0,136.0,344.0
+251,Line 1 : Canal & Varick St,2021-10-14 04:00:00,Thursday,04:00:00,25.0,26.0,51.0
+252,Line 1 : Canal & Varick St,2021-10-14 08:00:00,Thursday,08:00:00,140.0,794.0,934.0
+253,Line 1 : Canal & Varick St,2021-10-14 12:00:00,Thursday,12:00:00,272.0,759.0,1031.0
+254,Line 1 : Canal & Varick St,2021-10-14 16:00:00,Thursday,16:00:00,725.0,770.0,1495.0
+255,Line 1 : Canal & Varick St,2021-10-14 20:00:00,Thursday,20:00:00,711.0,671.0,1382.0
+256,Line 1 : Canal & Varick St,2021-10-15 00:00:00,Friday,00:00:00,225.0,176.0,401.0
+257,Line 1 : Canal & Varick St,2021-10-15 04:00:00,Friday,04:00:00,43.0,37.0,80.0
+258,Line 1 : Canal & Varick St,2021-10-15 08:00:00,Friday,08:00:00,126.0,647.0,773.0
+259,Line 1 : Canal & Varick St,2021-10-15 12:00:00,Friday,12:00:00,269.0,785.0,1054.0
+260,Line 1 : Canal & Varick St,2021-10-15 16:00:00,Friday,16:00:00,689.0,798.0,1487.0
+261,Line 1 : Canal & Varick St,2021-10-15 20:00:00,Friday,20:00:00,607.0,769.0,1376.0
+262,Line 1 : Canal & Varick St,2021-10-16 04:00:00,Saturday,04:00:00,101.0,53.0,154.0
+263,Line 1 : Canal & Varick St,2021-10-16 08:00:00,Saturday,08:00:00,48.0,164.0,212.0
+264,Line 1 : Canal & Varick St,2021-10-16 12:00:00,Saturday,12:00:00,215.0,663.0,878.0
+265,Line 1 : Canal & Varick St,2021-10-16 16:00:00,Saturday,16:00:00,424.0,870.0,1294.0
+266,Line 1 : Canal & Varick St,2021-10-16 20:00:00,Saturday,20:00:00,515.0,628.0,1143.0
+267,Line 1 : Canal & Varick St,2021-10-17 00:00:00,Sunday,00:00:00,184.0,276.0,460.0
+268,Line 1 : Canal & Varick St,2021-10-17 04:00:00,Sunday,04:00:00,74.0,80.0,154.0
+269,Line 1 : Canal & Varick St,2021-10-17 08:00:00,Sunday,08:00:00,43.0,89.0,132.0
+270,Line 1 : Canal & Varick St,2021-10-17 12:00:00,Sunday,12:00:00,185.0,575.0,760.0
+271,Line 1 : Canal & Varick St,2021-10-17 16:00:00,Sunday,16:00:00,375.0,807.0,1182.0
+272,Line 1 : Canal & Varick St,2021-10-17 20:00:00,Sunday,20:00:00,372.0,423.0,795.0
+273,Line 1 : Canal & Varick St,2021-10-18 00:00:00,Monday,00:00:00,140.0,134.0,274.0
+274,Line 1 : Canal & Varick St,2021-10-18 04:00:00,Monday,04:00:00,8.0,21.0,29.0
+275,Line 1 : Canal & Varick St,2021-10-18 08:00:00,Monday,08:00:00,135.0,576.0,711.0
+276,Line 1 : Canal & Varick St,2021-10-18 12:00:00,Monday,12:00:00,303.0,759.0,1062.0
+277,Line 1 : Canal & Varick St,2021-10-18 16:00:00,Monday,16:00:00,651.0,653.0,1304.0
+278,Line 1 : Canal & Varick St,2021-10-18 20:00:00,Monday,20:00:00,531.0,408.0,939.0
+279,Line 1 : Canal & Varick St,2021-10-19 00:00:00,Tuesday,00:00:00,122.0,103.0,225.0
+280,Line 1 : Canal & Varick St,2021-10-19 04:00:00,Tuesday,04:00:00,20.0,31.0,51.0
+281,Line 1 : Canal & Varick St,2021-10-19 08:00:00,Tuesday,08:00:00,163.0,740.0,903.0
+282,Line 1 : Canal & Varick St,2021-10-19 12:00:00,Tuesday,12:00:00,305.0,741.0,1046.0
+283,Line 1 : Canal & Varick St,2021-10-19 16:00:00,Tuesday,16:00:00,665.0,637.0,1302.0
+284,Line 1 : Canal & Varick St,2021-10-19 20:00:00,Tuesday,20:00:00,703.0,531.0,1234.0
+285,Line 1 : Canal & Varick St,2021-10-20 00:00:00,Wednesday,00:00:00,178.0,140.0,318.0
+286,Line 1 : Canal & Varick St,2021-10-20 04:00:00,Wednesday,04:00:00,16.0,30.0,46.0
+287,Line 1 : Canal & Varick St,2021-10-20 08:00:00,Wednesday,08:00:00,148.0,802.0,950.0
+288,Line 1 : Canal & Varick St,2021-10-20 12:00:00,Wednesday,12:00:00,272.0,898.0,1170.0
+289,Line 1 : Canal & Varick St,2021-10-20 16:00:00,Wednesday,16:00:00,658.0,630.0,1288.0
+290,Line 1 : Canal & Varick St,2021-10-20 20:00:00,Wednesday,20:00:00,747.0,591.0,1338.0
+291,Line 1 : Canal & Varick St,2021-10-21 00:00:00,Thursday,00:00:00,179.0,148.0,327.0
+292,Line 1 : Canal & Varick St,2021-10-21 04:00:00,Thursday,04:00:00,33.0,32.0,65.0
+293,Line 1 : Canal & Varick St,2021-10-21 08:00:00,Thursday,08:00:00,156.0,767.0,923.0
+294,Line 1 : Canal & Varick St,2021-10-21 12:00:00,Thursday,12:00:00,265.0,817.0,1082.0
+295,Line 1 : Canal & Varick St,2021-10-21 16:00:00,Thursday,16:00:00,670.0,697.0,1367.0
+296,Line 1 : Canal & Varick St,2021-10-21 20:00:00,Thursday,20:00:00,676.0,621.0,1297.0
+297,Line 1 : Canal & Varick St,2021-10-22 00:00:00,Friday,00:00:00,201.0,170.0,371.0
+298,Line 1 : Canal & Varick St,2021-10-22 04:00:00,Friday,04:00:00,45.0,31.0,76.0
+299,Line 1 : Canal & Varick St,2021-10-22 08:00:00,Friday,08:00:00,135.0,652.0,787.0
+300,Line 1 : Canal & Varick St,2021-10-22 12:00:00,Friday,12:00:00,304.0,692.0,996.0
+301,Line 1 : Canal & Varick St,2021-10-22 16:00:00,Friday,16:00:00,665.0,817.0,1482.0
+302,Line 1 : Canal & Varick St,2021-10-22 20:00:00,Friday,20:00:00,619.0,684.0,1303.0
+303,Line 1 : Canal & Varick St,2021-10-23 04:00:00,Saturday,04:00:00,82.0,46.0,128.0
+304,Line 1 : Canal & Varick St,2021-10-23 08:00:00,Saturday,08:00:00,41.0,142.0,183.0
+305,Line 1 : Canal & Varick St,2021-10-23 12:00:00,Saturday,12:00:00,164.0,602.0,766.0
+306,Line 1 : Canal & Varick St,2021-10-23 16:00:00,Saturday,16:00:00,385.0,922.0,1307.0
+307,Line 1 : Canal & Varick St,2021-10-23 20:00:00,Saturday,20:00:00,385.0,601.0,986.0
+308,Line 1 : Canal & Varick St,2021-10-24 00:00:00,Sunday,00:00:00,187.0,257.0,444.0
+309,Line 1 : Canal & Varick St,2021-10-24 04:00:00,Sunday,04:00:00,86.0,131.0,217.0
+310,Line 1 : Canal & Varick St,2021-10-24 08:00:00,Sunday,08:00:00,44.0,86.0,130.0
+311,Line 1 : Canal & Varick St,2021-10-24 12:00:00,Sunday,12:00:00,162.0,445.0,607.0
+312,Line 1 : Canal & Varick St,2021-10-24 16:00:00,Sunday,16:00:00,290.0,686.0,976.0
+313,Line 1 : Canal & Varick St,2021-10-24 20:00:00,Sunday,20:00:00,242.0,359.0,601.0
+314,Line 1 : Canal & Varick St,2021-10-25 00:00:00,Monday,00:00:00,127.0,128.0,255.0
+315,Line 1 : Canal & Varick St,2021-10-25 04:00:00,Monday,04:00:00,17.0,33.0,50.0
+316,Line 1 : Canal & Varick St,2021-10-25 08:00:00,Monday,08:00:00,151.0,566.0,717.0
+317,Line 1 : Canal & Varick St,2021-10-25 12:00:00,Monday,12:00:00,235.0,697.0,932.0
+318,Line 1 : Canal & Varick St,2021-10-25 16:00:00,Monday,16:00:00,606.0,504.0,1110.0
+319,Line 1 : Canal & Varick St,2021-10-25 20:00:00,Monday,20:00:00,537.0,373.0,910.0
+320,Line 1 : Canal & Varick St,2021-10-26 00:00:00,Tuesday,00:00:00,115.0,110.0,225.0
+321,Line 1 : Canal & Varick St,2021-10-26 04:00:00,Tuesday,04:00:00,15.0,32.0,47.0
+322,Line 1 : Canal & Varick St,2021-10-26 08:00:00,Tuesday,08:00:00,135.0,714.0,849.0
+323,Line 1 : Canal & Varick St,2021-10-26 12:00:00,Tuesday,12:00:00,222.0,690.0,912.0
+324,Line 1 : Canal & Varick St,2021-10-26 16:00:00,Tuesday,16:00:00,565.0,502.0,1067.0
+325,Line 1 : Canal & Varick St,2021-10-26 20:00:00,Tuesday,20:00:00,551.0,379.0,930.0
+326,Line 1 : Canal & Varick St,2021-10-27 00:00:00,Wednesday,00:00:00,133.0,157.0,290.0
+327,Line 1 : Canal & Varick St,2021-10-27 04:00:00,Wednesday,04:00:00,20.0,17.0,37.0
+328,Line 1 : Canal & Varick St,2021-10-27 08:00:00,Wednesday,08:00:00,149.0,772.0,921.0
+329,Line 1 : Canal & Varick St,2021-10-27 12:00:00,Wednesday,12:00:00,261.0,897.0,1158.0
+330,Line 1 : Canal & Varick St,2021-10-27 16:00:00,Wednesday,16:00:00,698.0,643.0,1341.0
+331,Line 1 : Canal & Varick St,2021-10-27 20:00:00,Wednesday,20:00:00,749.0,593.0,1342.0
+332,Line 1 : Canal & Varick St,2021-10-28 00:00:00,Thursday,00:00:00,190.0,154.0,344.0
+333,Line 1 : Canal & Varick St,2021-10-28 04:00:00,Thursday,04:00:00,43.0,28.0,71.0
+334,Line 1 : Canal & Varick St,2021-10-28 08:00:00,Thursday,08:00:00,163.0,839.0,1002.0
+335,Line 1 : Canal & Varick St,2021-10-28 12:00:00,Thursday,12:00:00,330.0,977.0,1307.0
+336,Line 1 : Canal & Varick St,2021-10-28 16:00:00,Thursday,16:00:00,716.0,784.0,1500.0
+337,Line 1 : Canal & Varick St,2021-10-28 20:00:00,Thursday,20:00:00,727.0,682.0,1409.0
+338,Line 1 : Canal & Varick St,2021-10-29 00:00:00,Friday,00:00:00,215.0,162.0,377.0
+339,Line 1 : Canal & Varick St,2021-10-29 04:00:00,Friday,04:00:00,46.0,47.0,93.0
+340,Line 1 : Canal & Varick St,2021-10-29 08:00:00,Friday,08:00:00,121.0,634.0,755.0
+341,Line 1 : Canal & Varick St,2021-10-29 12:00:00,Friday,12:00:00,265.0,746.0,1011.0
+342,Line 1 : Canal & Varick St,2021-10-29 16:00:00,Friday,16:00:00,696.0,782.0,1478.0
+343,Line 1 : Canal & Varick St,2021-10-29 20:00:00,Friday,20:00:00,527.0,603.0,1130.0
+344,Line 1 : Canal & Varick St,2021-10-30 04:00:00,Saturday,04:00:00,75.0,71.0,146.0
+345,Line 1 : Canal & Varick St,2021-10-30 08:00:00,Saturday,08:00:00,32.0,136.0,168.0
+346,Line 1 : Canal & Varick St,2021-10-30 12:00:00,Saturday,12:00:00,155.0,448.0,603.0
+347,Line 1 : Canal & Varick St,2021-10-30 16:00:00,Saturday,16:00:00,350.0,683.0,1033.0
+348,Line 1 : Canal & Varick St,2021-10-30 20:00:00,Saturday,20:00:00,339.0,488.0,827.0
+349,Line 1 : Canal & Varick St,2021-10-31 00:00:00,Sunday,00:00:00,164.0,300.0,464.0
+350,Line 1 : Canal & Varick St,2021-10-31 04:00:00,Sunday,04:00:00,84.0,116.0,200.0
+351,Line 1 : Canal & Varick St,2021-10-31 08:00:00,Sunday,08:00:00,31.0,98.0,129.0
+352,Line 1 : Canal & Varick St,2021-10-31 12:00:00,Sunday,12:00:00,114.0,364.0,478.0
+353,Line 1 : Canal & Varick St,2021-10-31 16:00:00,Sunday,16:00:00,281.0,602.0,883.0
+354,Line 1 : Canal & Varick St,2021-10-31 20:00:00,Sunday,20:00:00,543.0,1373.0,1916.0
+355,Line 1 : Canal & Varick St,2021-11-01 00:00:00,Monday,00:00:00,377.0,244.0,621.0
+356,Line 1 : Canal & Varick St,2021-11-01 04:00:00,Monday,04:00:00,40.0,64.0,104.0
+357,Line 1 : Canal & Varick St,2021-11-01 08:00:00,Monday,08:00:00,136.0,719.0,855.0
+358,Line 1 : Canal & Varick St,2021-11-01 12:00:00,Monday,12:00:00,270.0,782.0,1052.0
+359,Line 1 : Canal & Varick St,2021-11-01 16:00:00,Monday,16:00:00,650.0,589.0,1239.0
+360,Line 1 : Canal & Varick St,2021-11-01 20:00:00,Monday,20:00:00,626.0,403.0,1029.0
+361,Line 1 : Canal & Varick St,2021-11-02 00:00:00,Tuesday,00:00:00,122.0,96.0,218.0
+362,Line 1 : Canal & Varick St,2021-11-02 04:00:00,Tuesday,04:00:00,16.0,25.0,41.0
+363,Line 1 : Canal & Varick St,2021-11-02 08:00:00,Tuesday,08:00:00,118.0,651.0,769.0
+364,Line 1 : Canal & Varick St,2021-11-02 12:00:00,Tuesday,12:00:00,239.0,925.0,1164.0
+365,Line 1 : Canal & Varick St,2021-11-02 16:00:00,Tuesday,16:00:00,619.0,565.0,1184.0
+366,Line 1 : Canal & Varick St,2021-11-02 20:00:00,Tuesday,20:00:00,735.0,412.0,1147.0
+367,Line 1 : Canal & Varick St,2021-11-03 00:00:00,Wednesday,00:00:00,147.0,114.0,261.0
+368,Line 1 : Canal & Varick St,2021-11-03 04:00:00,Wednesday,04:00:00,27.0,41.0,68.0
+369,Line 1 : Canal & Varick St,2021-11-03 08:00:00,Wednesday,08:00:00,149.0,790.0,939.0
+370,Line 1 : Canal & Varick St,2021-11-03 12:00:00,Wednesday,12:00:00,251.0,920.0,1171.0
+371,Line 1 : Canal & Varick St,2021-11-03 16:00:00,Wednesday,16:00:00,698.0,675.0,1373.0
+372,Line 1 : Canal & Varick St,2021-11-03 20:00:00,Wednesday,20:00:00,774.0,498.0,1272.0
+373,Line 1 : Canal & Varick St,2021-11-04 00:00:00,Thursday,00:00:00,144.0,130.0,274.0
+374,Line 1 : Canal & Varick St,2021-11-04 04:00:00,Thursday,04:00:00,31.0,39.0,70.0
+375,Line 1 : Canal & Varick St,2021-11-04 08:00:00,Thursday,08:00:00,145.0,789.0,934.0
+376,Line 1 : Canal & Varick St,2021-11-04 12:00:00,Thursday,12:00:00,306.0,936.0,1242.0
+377,Line 1 : Canal & Varick St,2021-11-04 16:00:00,Thursday,16:00:00,750.0,686.0,1436.0
+378,Line 1 : Canal & Varick St,2021-11-04 20:00:00,Thursday,20:00:00,800.0,576.0,1376.0
+379,Line 1 : Canal & Varick St,2021-11-05 00:00:00,Friday,00:00:00,162.0,178.0,340.0
+380,Line 1 : Canal & Varick St,2021-11-05 04:00:00,Friday,04:00:00,37.0,25.0,62.0
+381,Line 1 : Canal & Varick St,2021-11-05 08:00:00,Friday,08:00:00,120.0,545.0,665.0
+382,Line 1 : Canal & Varick St,2021-11-05 12:00:00,Friday,12:00:00,274.0,797.0,1071.0
+383,Line 1 : Canal & Varick St,2021-11-05 16:00:00,Friday,16:00:00,724.0,864.0,1588.0
+384,Line 1 : Canal & Varick St,2021-11-05 20:00:00,Friday,20:00:00,615.0,638.0,1253.0
+385,Line 1 : Canal & Varick St,2021-11-06 04:00:00,Saturday,04:00:00,68.0,54.0,122.0
+386,Line 1 : Canal & Varick St,2021-11-06 08:00:00,Saturday,08:00:00,56.0,171.0,227.0
+387,Line 1 : Canal & Varick St,2021-11-06 12:00:00,Saturday,12:00:00,192.0,524.0,716.0
+388,Line 1 : Canal & Varick St,2021-11-06 16:00:00,Saturday,16:00:00,384.0,734.0,1118.0
+389,Line 1 : Canal & Varick St,2021-11-06 20:00:00,Saturday,20:00:00,340.0,542.0,882.0
+390,Line 1 : Canal & Varick St,2021-11-07 00:00:00,Sunday,00:00:00,165.0,237.0,402.0
+391,Line 1 : Canal & Varick St,2021-11-07 04:00:00,Sunday,04:00:00,70.0,53.0,123.0
+392,Line 1 : Canal & Varick St,2021-11-07 08:00:00,Sunday,08:00:00,36.0,70.0,106.0
+393,Line 1 : Canal & Varick St,2021-11-07 12:00:00,Sunday,12:00:00,126.0,374.0,500.0
+394,Line 1 : Canal & Varick St,2021-11-07 16:00:00,Sunday,16:00:00,304.0,647.0,951.0
+395,Line 1 : Canal & Varick St,2021-11-07 20:00:00,Sunday,20:00:00,313.0,443.0,756.0
+396,Line 1 : Canal & Varick St,2021-11-08 00:00:00,Monday,00:00:00,102.0,154.0,256.0
+397,Line 1 : Canal & Varick St,2021-11-08 04:00:00,Monday,04:00:00,19.0,25.0,44.0
+398,Line 1 : Canal & Varick St,2021-11-08 08:00:00,Monday,08:00:00,76.0,369.0,445.0
+399,Line 1 : Canal & Varick St,2021-11-08 12:00:00,Monday,12:00:00,268.0,1018.0,1286.0
+400,Line 1 : Canal & Varick St,2021-11-08 16:00:00,Monday,16:00:00,533.0,546.0,1079.0
+401,Line 1 : Canal & Varick St,2021-11-08 20:00:00,Monday,20:00:00,805.0,478.0,1283.0
+402,Line 1 : Canal & Varick St,2021-11-09 00:00:00,Tuesday,00:00:00,152.0,131.0,283.0
+403,Line 1 : Canal & Varick St,2021-11-09 04:00:00,Tuesday,04:00:00,36.0,27.0,63.0
+404,Line 1 : Canal & Varick St,2021-11-09 08:00:00,Tuesday,08:00:00,89.0,362.0,451.0
+405,Line 1 : Canal & Varick St,2021-11-09 12:00:00,Tuesday,12:00:00,303.0,1354.0,1657.0
+406,Line 1 : Canal & Varick St,2021-11-09 16:00:00,Tuesday,16:00:00,502.0,647.0,1149.0
+407,Line 1 : Canal & Varick St,2021-11-09 20:00:00,Tuesday,20:00:00,1035.0,646.0,1681.0
+408,Line 1 : Canal & Varick St,2021-11-10 00:00:00,Wednesday,00:00:00,215.0,156.0,371.0
+409,Line 1 : Canal & Varick St,2021-11-10 04:00:00,Wednesday,04:00:00,47.0,44.0,91.0
+410,Line 1 : Canal & Varick St,2021-11-10 08:00:00,Wednesday,08:00:00,84.0,411.0,495.0
+411,Line 1 : Canal & Varick St,2021-11-10 12:00:00,Wednesday,12:00:00,282.0,1262.0,1544.0
+412,Line 1 : Canal & Varick St,2021-11-10 16:00:00,Wednesday,16:00:00,528.0,700.0,1228.0
+413,Line 1 : Canal & Varick St,2021-11-10 20:00:00,Wednesday,20:00:00,957.0,763.0,1720.0
+414,Line 1 : Canal & Varick St,2021-11-11 00:00:00,Thursday,00:00:00,231.0,200.0,431.0
+415,Line 1 : Canal & Varick St,2021-11-11 04:00:00,Thursday,04:00:00,63.0,33.0,96.0
+416,Line 1 : Canal & Varick St,2021-11-11 08:00:00,Thursday,08:00:00,62.0,317.0,379.0
+417,Line 1 : Canal & Varick St,2021-11-11 12:00:00,Thursday,12:00:00,226.0,1149.0,1375.0
+418,Line 1 : Canal & Varick St,2021-11-11 16:00:00,Thursday,16:00:00,532.0,775.0,1307.0
+419,Line 1 : Canal & Varick St,2021-11-11 20:00:00,Thursday,20:00:00,891.0,762.0,1653.0
+420,Line 1 : Canal & Varick St,2021-11-12 00:00:00,Friday,00:00:00,249.0,251.0,500.0
+421,Line 1 : Canal & Varick St,2021-11-12 04:00:00,Friday,04:00:00,72.0,59.0,131.0
+422,Line 1 : Canal & Varick St,2021-11-12 08:00:00,Friday,08:00:00,62.0,297.0,359.0
+423,Line 1 : Canal & Varick St,2021-11-12 12:00:00,Friday,12:00:00,307.0,972.0,1279.0
+424,Line 1 : Canal & Varick St,2021-11-12 16:00:00,Friday,16:00:00,507.0,745.0,1252.0
+425,Line 1 : Canal & Varick St,2021-11-12 20:00:00,Friday,20:00:00,681.0,729.0,1410.0
+426,Line 1 : Canal & Varick St,2021-11-13 04:00:00,Saturday,04:00:00,116.0,72.0,188.0
+427,Line 1 : Canal & Varick St,2021-11-13 08:00:00,Saturday,08:00:00,30.0,90.0,120.0
+428,Line 1 : Canal & Varick St,2021-11-13 12:00:00,Saturday,12:00:00,143.0,483.0,626.0
+429,Line 1 : Canal & Varick St,2021-11-13 16:00:00,Saturday,16:00:00,381.0,857.0,1238.0
+430,Line 1 : Canal & Varick St,2021-11-13 20:00:00,Saturday,20:00:00,477.0,740.0,1217.0
+431,Line 1 : Canal & Varick St,2021-11-14 00:00:00,Sunday,00:00:00,196.0,385.0,581.0
+432,Line 1 : Canal & Varick St,2021-11-14 04:00:00,Sunday,04:00:00,125.0,82.0,207.0
+433,Line 1 : Canal & Varick St,2021-11-14 08:00:00,Sunday,08:00:00,27.0,64.0,91.0
+434,Line 1 : Canal & Varick St,2021-11-14 12:00:00,Sunday,12:00:00,131.0,361.0,492.0
+435,Line 1 : Canal & Varick St,2021-11-14 16:00:00,Sunday,16:00:00,306.0,676.0,982.0
+436,Line 1 : Canal & Varick St,2021-11-14 20:00:00,Sunday,20:00:00,313.0,505.0,818.0
+437,Line 1 : Canal & Varick St,2021-11-15 00:00:00,Monday,00:00:00,106.0,184.0,290.0
+438,Line 1 : Canal & Varick St,2021-11-15 04:00:00,Monday,04:00:00,31.0,42.0,73.0
+439,Line 1 : Canal & Varick St,2021-11-15 08:00:00,Monday,08:00:00,75.0,344.0,419.0
+440,Line 1 : Canal & Varick St,2021-11-15 12:00:00,Monday,12:00:00,273.0,1092.0,1365.0
+441,Line 1 : Canal & Varick St,2021-11-15 16:00:00,Monday,16:00:00,545.0,629.0,1174.0
+442,Line 1 : Canal & Varick St,2021-11-15 20:00:00,Monday,20:00:00,847.0,557.0,1404.0
+443,Line 1 : Canal & Varick St,2021-11-16 00:00:00,Tuesday,00:00:00,160.0,162.0,322.0
+444,Line 1 : Canal & Varick St,2021-11-16 04:00:00,Tuesday,04:00:00,48.0,48.0,96.0
+445,Line 1 : Canal & Varick St,2021-11-16 08:00:00,Tuesday,08:00:00,86.0,372.0,458.0
+446,Line 1 : Canal & Varick St,2021-11-16 12:00:00,Tuesday,12:00:00,317.0,1263.0,1580.0
+447,Line 1 : Canal & Varick St,2021-11-16 16:00:00,Tuesday,16:00:00,522.0,649.0,1171.0
+448,Line 1 : Canal & Varick St,2021-11-16 20:00:00,Tuesday,20:00:00,1028.0,680.0,1708.0
+449,Line 1 : Canal & Varick St,2021-11-17 00:00:00,Wednesday,00:00:00,205.0,188.0,393.0
+450,Line 1 : Canal & Varick St,2021-11-17 04:00:00,Wednesday,04:00:00,56.0,35.0,91.0
+451,Line 1 : Canal & Varick St,2021-11-17 08:00:00,Wednesday,08:00:00,82.0,362.0,444.0
+452,Line 1 : Canal & Varick St,2021-11-17 12:00:00,Wednesday,12:00:00,300.0,1294.0,1594.0
+453,Line 1 : Canal & Varick St,2021-11-17 16:00:00,Wednesday,16:00:00,547.0,641.0,1188.0
+454,Line 1 : Canal & Varick St,2021-11-17 20:00:00,Wednesday,20:00:00,1011.0,661.0,1672.0
+455,Line 1 : Canal & Varick St,2021-11-18 00:00:00,Thursday,00:00:00,184.0,189.0,373.0
+456,Line 1 : Canal & Varick St,2021-11-18 04:00:00,Thursday,04:00:00,65.0,48.0,113.0
+457,Line 1 : Canal & Varick St,2021-11-18 08:00:00,Thursday,08:00:00,86.0,393.0,479.0
+458,Line 1 : Canal & Varick St,2021-11-18 12:00:00,Thursday,12:00:00,279.0,1255.0,1534.0
+459,Line 1 : Canal & Varick St,2021-11-18 16:00:00,Thursday,16:00:00,574.0,677.0,1251.0
+460,Line 1 : Canal & Varick St,2021-11-18 20:00:00,Thursday,20:00:00,1004.0,828.0,1832.0
+461,Line 1 : Canal & Varick St,2021-11-19 00:00:00,Friday,00:00:00,268.0,251.0,519.0
+462,Line 1 : Canal & Varick St,2021-11-19 04:00:00,Friday,04:00:00,80.0,49.0,129.0
+463,Line 1 : Canal & Varick St,2021-11-19 08:00:00,Friday,08:00:00,78.0,320.0,398.0
+464,Line 1 : Canal & Varick St,2021-11-19 12:00:00,Friday,12:00:00,288.0,987.0,1275.0
+465,Line 1 : Canal & Varick St,2021-11-19 16:00:00,Friday,16:00:00,578.0,756.0,1334.0
+466,Line 1 : Canal & Varick St,2021-11-19 20:00:00,Friday,20:00:00,731.0,766.0,1497.0
+467,Line 1 : Canal & Varick St,2021-11-20 04:00:00,Saturday,04:00:00,117.0,100.0,217.0
+468,Line 1 : Canal & Varick St,2021-11-20 08:00:00,Saturday,08:00:00,35.0,113.0,148.0
+469,Line 1 : Canal & Varick St,2021-11-20 12:00:00,Saturday,12:00:00,185.0,494.0,679.0
+470,Line 1 : Canal & Varick St,2021-11-20 16:00:00,Saturday,16:00:00,406.0,847.0,1253.0
+471,Line 1 : Canal & Varick St,2021-11-20 20:00:00,Saturday,20:00:00,437.0,576.0,1013.0
+472,Line 1 : Canal & Varick St,2021-11-21 00:00:00,Sunday,00:00:00,189.0,370.0,559.0
+473,Line 1 : Canal & Varick St,2021-11-21 04:00:00,Sunday,04:00:00,103.0,73.0,176.0
+474,Line 1 : Canal & Varick St,2021-11-21 08:00:00,Sunday,08:00:00,39.0,67.0,106.0
+475,Line 1 : Canal & Varick St,2021-11-21 12:00:00,Sunday,12:00:00,152.0,356.0,508.0
+476,Line 1 : Canal & Varick St,2021-11-21 16:00:00,Sunday,16:00:00,332.0,680.0,1012.0
+477,Line 1 : Canal & Varick St,2021-11-21 20:00:00,Sunday,20:00:00,332.0,419.0,751.0
+478,Line 1 : Canal & Varick St,2021-11-22 00:00:00,Monday,00:00:00,116.0,191.0,307.0
+479,Line 1 : Canal & Varick St,2021-11-22 04:00:00,Monday,04:00:00,29.0,28.0,57.0
+480,Line 1 : Canal & Varick St,2021-11-22 08:00:00,Monday,08:00:00,82.0,343.0,425.0
+481,Line 1 : Canal & Varick St,2021-11-22 12:00:00,Monday,12:00:00,303.0,976.0,1279.0
+482,Line 1 : Canal & Varick St,2021-11-22 16:00:00,Monday,16:00:00,507.0,658.0,1165.0
+483,Line 1 : Canal & Varick St,2021-11-22 20:00:00,Monday,20:00:00,745.0,569.0,1314.0
+484,Line 1 : Canal & Varick St,2021-11-23 00:00:00,Tuesday,00:00:00,153.0,183.0,336.0
+485,Line 1 : Canal & Varick St,2021-11-23 04:00:00,Tuesday,04:00:00,35.0,41.0,76.0
+486,Line 1 : Canal & Varick St,2021-11-23 08:00:00,Tuesday,08:00:00,81.0,358.0,439.0
+487,Line 1 : Canal & Varick St,2021-11-23 12:00:00,Tuesday,12:00:00,281.0,1018.0,1299.0
+488,Line 1 : Canal & Varick St,2021-11-23 16:00:00,Tuesday,16:00:00,567.0,742.0,1309.0
+489,Line 1 : Canal & Varick St,2021-11-23 20:00:00,Tuesday,20:00:00,835.0,691.0,1526.0
+490,Line 1 : Canal & Varick St,2021-11-24 00:00:00,Wednesday,00:00:00,194.0,255.0,449.0
+491,Line 1 : Canal & Varick St,2021-11-24 04:00:00,Wednesday,04:00:00,40.0,37.0,77.0
+492,Line 1 : Canal & Varick St,2021-11-24 08:00:00,Wednesday,08:00:00,46.0,298.0,344.0
+493,Line 1 : Canal & Varick St,2021-11-24 12:00:00,Wednesday,12:00:00,246.0,718.0,964.0
+494,Line 1 : Canal & Varick St,2021-11-24 16:00:00,Wednesday,16:00:00,664.0,765.0,1429.0
+495,Line 1 : Canal & Varick St,2021-11-24 20:00:00,Wednesday,20:00:00,609.0,653.0,1262.0
+496,Line 1 : Canal & Varick St,2021-11-25 00:00:00,Thursday,00:00:00,167.0,241.0,408.0
+497,Line 1 : Canal & Varick St,2021-11-25 04:00:00,Thursday,04:00:00,51.0,52.0,103.0
+498,Line 1 : Canal & Varick St,2021-11-25 08:00:00,Thursday,08:00:00,54.0,63.0,117.0
+499,Line 1 : Canal & Varick St,2021-11-25 12:00:00,Thursday,12:00:00,159.0,279.0,438.0
+500,Line 1 : Canal & Varick St,2021-11-25 16:00:00,Thursday,16:00:00,220.0,453.0,673.0
+501,Line 1 : Canal & Varick St,2021-11-25 20:00:00,Thursday,20:00:00,240.0,337.0,577.0
+502,Line 1 : Canal & Varick St,2021-11-26 00:00:00,Friday,00:00:00,118.0,168.0,286.0
+503,Line 1 : Canal & Varick St,2021-11-26 04:00:00,Friday,04:00:00,27.0,57.0,84.0
+504,Line 1 : Canal & Varick St,2021-11-26 08:00:00,Friday,08:00:00,29.0,120.0,149.0
+505,Line 1 : Canal & Varick St,2021-11-26 12:00:00,Friday,12:00:00,143.0,502.0,645.0
+506,Line 1 : Canal & Varick St,2021-11-26 16:00:00,Friday,16:00:00,309.0,817.0,1126.0
+507,Line 1 : Canal & Varick St,2021-11-26 20:00:00,Friday,20:00:00,413.0,554.0,967.0
+508,Line ACE : Av Americas & WBroadway,2021-09-01 08:00:00,Wednesday,08:00:00,155.0,1196.0,1351.0
+509,Line ACE : Av Americas & WBroadway,2021-09-01 12:00:00,Wednesday,12:00:00,501.0,2865.0,3366.0
+510,Line ACE : Av Americas & WBroadway,2021-09-01 16:00:00,Wednesday,16:00:00,1265.0,1503.0,2768.0
+511,Line ACE : Av Americas & WBroadway,2021-09-01 20:00:00,Wednesday,20:00:00,2495.0,1289.0,3784.0
+512,Line ACE : Av Americas & WBroadway,2021-09-02 00:00:00,Thursday,00:00:00,542.0,578.0,1120.0
+513,Line ACE : Av Americas & WBroadway,2021-09-02 04:00:00,Thursday,04:00:00,110.0,170.0,280.0
+514,Line ACE : Av Americas & WBroadway,2021-09-02 08:00:00,Thursday,08:00:00,180.0,678.0,858.0
+515,Line ACE : Av Americas & WBroadway,2021-09-02 12:00:00,Thursday,12:00:00,508.0,2365.0,2873.0
+516,Line ACE : Av Americas & WBroadway,2021-09-02 16:00:00,Thursday,16:00:00,1073.0,1536.0,2609.0
+517,Line ACE : Av Americas & WBroadway,2021-09-02 20:00:00,Thursday,20:00:00,1826.0,2015.0,3841.0
+518,Line ACE : Av Americas & WBroadway,2021-09-03 00:00:00,Friday,00:00:00,563.0,430.0,993.0
+519,Line ACE : Av Americas & WBroadway,2021-09-03 04:00:00,Friday,04:00:00,139.0,74.0,213.0
+520,Line ACE : Av Americas & WBroadway,2021-09-03 08:00:00,Friday,08:00:00,110.0,854.0,964.0
+521,Line ACE : Av Americas & WBroadway,2021-09-03 12:00:00,Friday,12:00:00,498.0,2400.0,2898.0
+522,Line ACE : Av Americas & WBroadway,2021-09-03 16:00:00,Friday,16:00:00,1468.0,1958.0,3426.0
+523,Line ACE : Av Americas & WBroadway,2021-09-03 20:00:00,Friday,20:00:00,2123.0,1829.0,3952.0
+524,Line ACE : Av Americas & WBroadway,2021-09-04 04:00:00,Saturday,04:00:00,255.0,204.0,459.0
+525,Line ACE : Av Americas & WBroadway,2021-09-04 08:00:00,Saturday,08:00:00,80.0,336.0,416.0
+526,Line ACE : Av Americas & WBroadway,2021-09-04 12:00:00,Saturday,12:00:00,372.0,1596.0,1968.0
+527,Line ACE : Av Americas & WBroadway,2021-09-04 16:00:00,Saturday,16:00:00,889.0,2640.0,3529.0
+528,Line ACE : Av Americas & WBroadway,2021-09-04 20:00:00,Saturday,20:00:00,1350.0,2164.0,3514.0
+529,Line ACE : Av Americas & WBroadway,2021-09-05 00:00:00,Sunday,00:00:00,824.0,1029.0,1853.0
+530,Line ACE : Av Americas & WBroadway,2021-09-05 04:00:00,Sunday,04:00:00,260.0,166.0,426.0
+531,Line ACE : Av Americas & WBroadway,2021-09-05 08:00:00,Sunday,08:00:00,70.0,223.0,293.0
+532,Line ACE : Av Americas & WBroadway,2021-09-05 12:00:00,Sunday,12:00:00,308.0,1248.0,1556.0
+533,Line ACE : Av Americas & WBroadway,2021-09-05 16:00:00,Sunday,16:00:00,778.0,2182.0,2960.0
+534,Line ACE : Av Americas & WBroadway,2021-09-05 20:00:00,Sunday,20:00:00,1121.0,1562.0,2683.0
+535,Line ACE : Av Americas & WBroadway,2021-09-06 00:00:00,Monday,00:00:00,473.0,508.0,981.0
+536,Line ACE : Av Americas & WBroadway,2021-09-06 04:00:00,Monday,04:00:00,134.0,136.0,270.0
+537,Line ACE : Av Americas & WBroadway,2021-09-06 08:00:00,Monday,08:00:00,77.0,336.0,413.0
+538,Line ACE : Av Americas & WBroadway,2021-09-06 12:00:00,Monday,12:00:00,324.0,1370.0,1694.0
+539,Line ACE : Av Americas & WBroadway,2021-09-06 16:00:00,Monday,16:00:00,840.0,2201.0,3041.0
+540,Line ACE : Av Americas & WBroadway,2021-09-06 20:00:00,Monday,20:00:00,1164.0,1508.0,2672.0
+541,Line ACE : Av Americas & WBroadway,2021-09-07 00:00:00,Tuesday,00:00:00,521.0,463.0,984.0
+542,Line ACE : Av Americas & WBroadway,2021-09-07 04:00:00,Tuesday,04:00:00,78.0,83.0,161.0
+543,Line ACE : Av Americas & WBroadway,2021-09-07 08:00:00,Tuesday,08:00:00,151.0,1243.0,1394.0
+544,Line ACE : Av Americas & WBroadway,2021-09-07 12:00:00,Tuesday,12:00:00,580.0,2908.0,3488.0
+545,Line ACE : Av Americas & WBroadway,2021-09-07 16:00:00,Tuesday,16:00:00,1334.0,1805.0,3139.0
+546,Line ACE : Av Americas & WBroadway,2021-09-07 20:00:00,Tuesday,20:00:00,2629.0,1605.0,4234.0
+547,Line ACE : Av Americas & WBroadway,2021-09-08 00:00:00,Wednesday,00:00:00,773.0,488.0,1261.0
+548,Line ACE : Av Americas & WBroadway,2021-09-08 04:00:00,Wednesday,04:00:00,111.0,55.0,166.0
+549,Line ACE : Av Americas & WBroadway,2021-09-08 08:00:00,Wednesday,08:00:00,158.0,1420.0,1578.0
+550,Line ACE : Av Americas & WBroadway,2021-09-08 12:00:00,Wednesday,12:00:00,667.0,3358.0,4025.0
+551,Line ACE : Av Americas & WBroadway,2021-09-08 16:00:00,Wednesday,16:00:00,1549.0,2094.0,3643.0
+552,Line ACE : Av Americas & WBroadway,2021-09-08 20:00:00,Wednesday,20:00:00,2925.0,1766.0,4691.0
+553,Line ACE : Av Americas & WBroadway,2021-09-09 00:00:00,Thursday,00:00:00,927.0,599.0,1526.0
+554,Line ACE : Av Americas & WBroadway,2021-09-09 04:00:00,Thursday,04:00:00,174.0,128.0,302.0
+555,Line ACE : Av Americas & WBroadway,2021-09-09 08:00:00,Thursday,08:00:00,190.0,1379.0,1569.0
+556,Line ACE : Av Americas & WBroadway,2021-09-09 12:00:00,Thursday,12:00:00,633.0,3402.0,4035.0
+557,Line ACE : Av Americas & WBroadway,2021-09-09 16:00:00,Thursday,16:00:00,1498.0,1967.0,3465.0
+558,Line ACE : Av Americas & WBroadway,2021-09-09 20:00:00,Thursday,20:00:00,2837.0,1948.0,4785.0
+559,Line ACE : Av Americas & WBroadway,2021-09-10 00:00:00,Friday,00:00:00,1007.0,656.0,1663.0
+560,Line ACE : Av Americas & WBroadway,2021-09-10 04:00:00,Friday,04:00:00,187.0,135.0,322.0
+561,Line ACE : Av Americas & WBroadway,2021-09-10 08:00:00,Friday,08:00:00,174.0,1240.0,1414.0
+562,Line ACE : Av Americas & WBroadway,2021-09-10 12:00:00,Friday,12:00:00,660.0,3270.0,3930.0
+563,Line ACE : Av Americas & WBroadway,2021-09-10 16:00:00,Friday,16:00:00,1791.0,2441.0,4232.0
+564,Line ACE : Av Americas & WBroadway,2021-09-10 20:00:00,Friday,20:00:00,2885.0,3060.0,5945.0
+565,Line ACE : Av Americas & WBroadway,2021-09-11 04:00:00,Saturday,04:00:00,397.0,333.0,730.0
+566,Line ACE : Av Americas & WBroadway,2021-09-11 08:00:00,Saturday,08:00:00,121.0,486.0,607.0
+567,Line ACE : Av Americas & WBroadway,2021-09-11 12:00:00,Saturday,12:00:00,479.0,2198.0,2677.0
+568,Line ACE : Av Americas & WBroadway,2021-09-11 16:00:00,Saturday,16:00:00,1243.0,3365.0,4608.0
+569,Line ACE : Av Americas & WBroadway,2021-09-11 20:00:00,Saturday,20:00:00,1788.0,2649.0,4437.0
+570,Line ACE : Av Americas & WBroadway,2021-09-12 00:00:00,Sunday,00:00:00,1000.0,1183.0,2183.0
+571,Line ACE : Av Americas & WBroadway,2021-09-12 04:00:00,Sunday,04:00:00,394.0,328.0,722.0
+572,Line ACE : Av Americas & WBroadway,2021-09-12 08:00:00,Sunday,08:00:00,103.0,345.0,448.0
+573,Line ACE : Av Americas & WBroadway,2021-09-12 12:00:00,Sunday,12:00:00,364.0,1609.0,1973.0
+574,Line ACE : Av Americas & WBroadway,2021-09-12 16:00:00,Sunday,16:00:00,979.0,2751.0,3730.0
+575,Line ACE : Av Americas & WBroadway,2021-09-12 20:00:00,Sunday,20:00:00,1457.0,1918.0,3375.0
+576,Line ACE : Av Americas & WBroadway,2021-09-13 00:00:00,Monday,00:00:00,731.0,671.0,1402.0
+577,Line ACE : Av Americas & WBroadway,2021-09-13 04:00:00,Monday,04:00:00,160.0,108.0,268.0
+578,Line ACE : Av Americas & WBroadway,2021-09-13 08:00:00,Monday,08:00:00,218.0,1416.0,1634.0
+579,Line ACE : Av Americas & WBroadway,2021-09-13 12:00:00,Monday,12:00:00,661.0,3497.0,4158.0
+580,Line ACE : Av Americas & WBroadway,2021-09-13 16:00:00,Monday,16:00:00,1553.0,1695.0,3248.0
+581,Line ACE : Av Americas & WBroadway,2021-09-13 20:00:00,Monday,20:00:00,2948.0,1668.0,4616.0
+582,Line ACE : Av Americas & WBroadway,2021-09-14 00:00:00,Tuesday,00:00:00,760.0,414.0,1174.0
+583,Line ACE : Av Americas & WBroadway,2021-09-14 04:00:00,Tuesday,04:00:00,109.0,55.0,164.0
+584,Line ACE : Av Americas & WBroadway,2021-09-14 08:00:00,Tuesday,08:00:00,221.0,1536.0,1757.0
+585,Line ACE : Av Americas & WBroadway,2021-09-14 12:00:00,Tuesday,12:00:00,613.0,3782.0,4395.0
+586,Line ACE : Av Americas & WBroadway,2021-09-14 16:00:00,Tuesday,16:00:00,1567.0,1759.0,3326.0
+587,Line ACE : Av Americas & WBroadway,2021-09-14 20:00:00,Tuesday,20:00:00,3200.0,1822.0,5022.0
+588,Line ACE : Av Americas & WBroadway,2021-09-15 00:00:00,Wednesday,00:00:00,883.0,464.0,1347.0
+589,Line ACE : Av Americas & WBroadway,2021-09-15 04:00:00,Wednesday,04:00:00,138.0,54.0,192.0
+590,Line ACE : Av Americas & WBroadway,2021-09-15 08:00:00,Wednesday,08:00:00,216.0,1485.0,1701.0
+591,Line ACE : Av Americas & WBroadway,2021-09-15 12:00:00,Wednesday,12:00:00,670.0,3800.0,4470.0
+592,Line ACE : Av Americas & WBroadway,2021-09-15 16:00:00,Wednesday,16:00:00,1670.0,2030.0,3700.0
+593,Line ACE : Av Americas & WBroadway,2021-09-15 20:00:00,Wednesday,20:00:00,3169.0,1791.0,4960.0
+594,Line ACE : Av Americas & WBroadway,2021-09-16 00:00:00,Thursday,00:00:00,849.0,461.0,1310.0
+595,Line ACE : Av Americas & WBroadway,2021-09-16 04:00:00,Thursday,04:00:00,140.0,50.0,190.0
+596,Line ACE : Av Americas & WBroadway,2021-09-16 08:00:00,Thursday,08:00:00,158.0,1347.0,1505.0
+597,Line ACE : Av Americas & WBroadway,2021-09-16 12:00:00,Thursday,12:00:00,548.0,3437.0,3985.0
+598,Line ACE : Av Americas & WBroadway,2021-09-16 16:00:00,Thursday,16:00:00,1548.0,1921.0,3469.0
+599,Line ACE : Av Americas & WBroadway,2021-09-16 20:00:00,Thursday,20:00:00,2848.0,1849.0,4697.0
+600,Line ACE : Av Americas & WBroadway,2021-09-17 00:00:00,Friday,00:00:00,944.0,646.0,1590.0
+601,Line ACE : Av Americas & WBroadway,2021-09-17 04:00:00,Friday,04:00:00,195.0,80.0,275.0
+602,Line ACE : Av Americas & WBroadway,2021-09-17 08:00:00,Friday,08:00:00,209.0,1250.0,1459.0
+603,Line ACE : Av Americas & WBroadway,2021-09-17 12:00:00,Friday,12:00:00,622.0,3219.0,3841.0
+604,Line ACE : Av Americas & WBroadway,2021-09-17 16:00:00,Friday,16:00:00,1750.0,2238.0,3988.0
+605,Line ACE : Av Americas & WBroadway,2021-09-17 20:00:00,Friday,20:00:00,2751.0,2281.0,5032.0
+606,Line ACE : Av Americas & WBroadway,2021-09-18 04:00:00,Saturday,04:00:00,331.0,201.0,532.0
+607,Line ACE : Av Americas & WBroadway,2021-09-18 08:00:00,Saturday,08:00:00,113.0,370.0,483.0
+608,Line ACE : Av Americas & WBroadway,2021-09-18 12:00:00,Saturday,12:00:00,418.0,1881.0,2299.0
+609,Line ACE : Av Americas & WBroadway,2021-09-18 16:00:00,Saturday,16:00:00,1174.0,3531.0,4705.0
+610,Line ACE : Av Americas & WBroadway,2021-09-18 20:00:00,Saturday,20:00:00,1721.0,3202.0,4923.0
+611,Line ACE : Av Americas & WBroadway,2021-09-19 00:00:00,Sunday,00:00:00,982.0,1213.0,2195.0
+612,Line ACE : Av Americas & WBroadway,2021-09-19 04:00:00,Sunday,04:00:00,385.0,270.0,655.0
+613,Line ACE : Av Americas & WBroadway,2021-09-19 08:00:00,Sunday,08:00:00,98.0,231.0,329.0
+614,Line ACE : Av Americas & WBroadway,2021-09-19 12:00:00,Sunday,12:00:00,348.0,1464.0,1812.0
+615,Line ACE : Av Americas & WBroadway,2021-09-19 16:00:00,Sunday,16:00:00,932.0,2817.0,3749.0
+616,Line ACE : Av Americas & WBroadway,2021-09-19 20:00:00,Sunday,20:00:00,1398.0,2295.0,3693.0
+617,Line ACE : Av Americas & WBroadway,2021-09-20 00:00:00,Monday,00:00:00,727.0,576.0,1303.0
+618,Line ACE : Av Americas & WBroadway,2021-09-20 04:00:00,Monday,04:00:00,110.0,65.0,175.0
+619,Line ACE : Av Americas & WBroadway,2021-09-20 08:00:00,Monday,08:00:00,217.0,1515.0,1732.0
+620,Line ACE : Av Americas & WBroadway,2021-09-20 12:00:00,Monday,12:00:00,667.0,3422.0,4089.0
+621,Line ACE : Av Americas & WBroadway,2021-09-20 16:00:00,Monday,16:00:00,1566.0,1775.0,3341.0
+622,Line ACE : Av Americas & WBroadway,2021-09-20 20:00:00,Monday,20:00:00,2988.0,1833.0,4821.0
+623,Line ACE : Av Americas & WBroadway,2021-09-21 00:00:00,Tuesday,00:00:00,872.0,489.0,1361.0
+624,Line ACE : Av Americas & WBroadway,2021-09-21 04:00:00,Tuesday,04:00:00,105.0,60.0,165.0
+625,Line ACE : Av Americas & WBroadway,2021-09-21 08:00:00,Tuesday,08:00:00,220.0,1560.0,1780.0
+626,Line ACE : Av Americas & WBroadway,2021-09-21 12:00:00,Tuesday,12:00:00,703.0,4097.0,4800.0
+627,Line ACE : Av Americas & WBroadway,2021-09-21 16:00:00,Tuesday,16:00:00,1639.0,1961.0,3600.0
+628,Line ACE : Av Americas & WBroadway,2021-09-21 20:00:00,Tuesday,20:00:00,3368.0,2091.0,5459.0
+629,Line ACE : Av Americas & WBroadway,2021-09-22 00:00:00,Wednesday,00:00:00,966.0,573.0,1539.0
+630,Line ACE : Av Americas & WBroadway,2021-09-22 04:00:00,Wednesday,04:00:00,151.0,70.0,221.0
+631,Line ACE : Av Americas & WBroadway,2021-09-22 08:00:00,Wednesday,08:00:00,231.0,1475.0,1706.0
+632,Line ACE : Av Americas & WBroadway,2021-09-22 12:00:00,Wednesday,12:00:00,693.0,3959.0,4652.0
+633,Line ACE : Av Americas & WBroadway,2021-09-22 16:00:00,Wednesday,16:00:00,1643.0,1983.0,3626.0
+634,Line ACE : Av Americas & WBroadway,2021-09-22 20:00:00,Wednesday,20:00:00,3341.0,2092.0,5433.0
+635,Line ACE : Av Americas & WBroadway,2021-09-23 00:00:00,Thursday,00:00:00,950.0,520.0,1470.0
+636,Line ACE : Av Americas & WBroadway,2021-09-23 04:00:00,Thursday,04:00:00,150.0,80.0,230.0
+637,Line ACE : Av Americas & WBroadway,2021-09-23 08:00:00,Thursday,08:00:00,220.0,1499.0,1719.0
+638,Line ACE : Av Americas & WBroadway,2021-09-23 12:00:00,Thursday,12:00:00,693.0,3915.0,4608.0
+639,Line ACE : Av Americas & WBroadway,2021-09-23 16:00:00,Thursday,16:00:00,1793.0,2214.0,4007.0
+640,Line ACE : Av Americas & WBroadway,2021-09-23 20:00:00,Thursday,20:00:00,3435.0,1912.0,5347.0
+641,Line ACE : Av Americas & WBroadway,2021-09-24 00:00:00,Friday,00:00:00,844.0,517.0,1361.0
+642,Line ACE : Av Americas & WBroadway,2021-09-24 04:00:00,Friday,04:00:00,181.0,94.0,275.0
+643,Line ACE : Av Americas & WBroadway,2021-09-24 08:00:00,Friday,08:00:00,226.0,1285.0,1511.0
+644,Line ACE : Av Americas & WBroadway,2021-09-24 12:00:00,Friday,12:00:00,621.0,3159.0,3780.0
+645,Line ACE : Av Americas & WBroadway,2021-09-24 16:00:00,Friday,16:00:00,1809.0,2278.0,4087.0
+646,Line ACE : Av Americas & WBroadway,2021-09-24 20:00:00,Friday,20:00:00,2967.0,2597.0,5564.0
+647,Line ACE : Av Americas & WBroadway,2021-09-25 04:00:00,Saturday,04:00:00,395.0,222.0,617.0
+648,Line ACE : Av Americas & WBroadway,2021-09-25 08:00:00,Saturday,08:00:00,108.0,346.0,454.0
+649,Line ACE : Av Americas & WBroadway,2021-09-25 12:00:00,Saturday,12:00:00,388.0,1673.0,2061.0
+650,Line ACE : Av Americas & WBroadway,2021-09-25 16:00:00,Saturday,16:00:00,1274.0,3252.0,4526.0
+651,Line ACE : Av Americas & WBroadway,2021-09-26 00:00:00,Sunday,00:00:00,2674.0,4305.0,6979.0
+652,Line ACE : Av Americas & WBroadway,2021-09-26 04:00:00,Sunday,04:00:00,371.0,238.0,609.0
+653,Line ACE : Av Americas & WBroadway,2021-09-26 08:00:00,Sunday,08:00:00,109.0,230.0,339.0
+654,Line ACE : Av Americas & WBroadway,2021-09-26 12:00:00,Sunday,12:00:00,313.0,1300.0,1613.0
+655,Line ACE : Av Americas & WBroadway,2021-09-26 16:00:00,Sunday,16:00:00,1040.0,2668.0,3708.0
+656,Line ACE : Av Americas & WBroadway,2021-09-26 20:00:00,Sunday,20:00:00,1436.0,1862.0,3298.0
+657,Line ACE : Av Americas & WBroadway,2021-09-27 00:00:00,Monday,00:00:00,701.0,529.0,1230.0
+658,Line ACE : Av Americas & WBroadway,2021-09-27 04:00:00,Monday,04:00:00,124.0,100.0,224.0
+659,Line ACE : Av Americas & WBroadway,2021-09-27 08:00:00,Monday,08:00:00,246.0,1425.0,1671.0
+660,Line ACE : Av Americas & WBroadway,2021-09-27 12:00:00,Monday,12:00:00,636.0,3396.0,4032.0
+661,Line ACE : Av Americas & WBroadway,2021-09-27 16:00:00,Monday,16:00:00,1453.0,1731.0,3184.0
+662,Line ACE : Av Americas & WBroadway,2021-09-27 20:00:00,Monday,20:00:00,3026.0,1539.0,4565.0
+663,Line ACE : Av Americas & WBroadway,2021-09-28 00:00:00,Tuesday,00:00:00,700.0,431.0,1131.0
+664,Line ACE : Av Americas & WBroadway,2021-09-28 04:00:00,Tuesday,04:00:00,93.0,54.0,147.0
+665,Line ACE : Av Americas & WBroadway,2021-09-28 08:00:00,Tuesday,08:00:00,237.0,1555.0,1792.0
+666,Line ACE : Av Americas & WBroadway,2021-09-28 12:00:00,Tuesday,12:00:00,663.0,4027.0,4690.0
+667,Line ACE : Av Americas & WBroadway,2021-09-28 16:00:00,Tuesday,16:00:00,1547.0,1696.0,3243.0
+668,Line ACE : Av Americas & WBroadway,2021-09-28 20:00:00,Tuesday,20:00:00,3247.0,1680.0,4927.0
+669,Line ACE : Av Americas & WBroadway,2021-09-29 00:00:00,Wednesday,00:00:00,803.0,477.0,1280.0
+670,Line ACE : Av Americas & WBroadway,2021-09-29 04:00:00,Wednesday,04:00:00,132.0,70.0,202.0
+671,Line ACE : Av Americas & WBroadway,2021-09-29 08:00:00,Wednesday,08:00:00,238.0,1529.0,1767.0
+672,Line ACE : Av Americas & WBroadway,2021-09-29 12:00:00,Wednesday,12:00:00,640.0,3987.0,4627.0
+673,Line ACE : Av Americas & WBroadway,2021-09-29 16:00:00,Wednesday,16:00:00,1592.0,1973.0,3565.0
+674,Line ACE : Av Americas & WBroadway,2021-09-29 20:00:00,Wednesday,20:00:00,3402.0,1896.0,5298.0
+675,Line ACE : Av Americas & WBroadway,2021-09-30 00:00:00,Thursday,00:00:00,900.0,505.0,1405.0
+676,Line ACE : Av Americas & WBroadway,2021-09-30 04:00:00,Thursday,04:00:00,134.0,74.0,208.0
+677,Line ACE : Av Americas & WBroadway,2021-09-30 08:00:00,Thursday,08:00:00,221.0,1561.0,1782.0
+678,Line ACE : Av Americas & WBroadway,2021-09-30 12:00:00,Thursday,12:00:00,665.0,3876.0,4541.0
+679,Line ACE : Av Americas & WBroadway,2021-09-30 16:00:00,Thursday,16:00:00,1654.0,1935.0,3589.0
+680,Line ACE : Av Americas & WBroadway,2021-09-30 20:00:00,Thursday,20:00:00,3344.0,2138.0,5482.0
+681,Line ACE : Av Americas & WBroadway,2021-10-01 00:00:00,Friday,00:00:00,987.0,638.0,1625.0
+682,Line ACE : Av Americas & WBroadway,2021-10-01 04:00:00,Friday,04:00:00,213.0,114.0,327.0
+683,Line ACE : Av Americas & WBroadway,2021-10-01 08:00:00,Friday,08:00:00,210.0,1193.0,1403.0
+684,Line ACE : Av Americas & WBroadway,2021-10-01 12:00:00,Friday,12:00:00,646.0,3212.0,3858.0
+685,Line ACE : Av Americas & WBroadway,2021-10-01 16:00:00,Friday,16:00:00,1759.0,2340.0,4099.0
+686,Line ACE : Av Americas & WBroadway,2021-10-01 20:00:00,Friday,20:00:00,2932.0,2296.0,5228.0
+687,Line ACE : Av Americas & WBroadway,2021-10-02 04:00:00,Saturday,04:00:00,336.0,201.0,537.0
+688,Line ACE : Av Americas & WBroadway,2021-10-02 08:00:00,Saturday,08:00:00,93.0,350.0,443.0
+689,Line ACE : Av Americas & WBroadway,2021-10-02 12:00:00,Saturday,12:00:00,372.0,1571.0,1943.0
+690,Line ACE : Av Americas & WBroadway,2021-10-02 16:00:00,Saturday,16:00:00,1065.0,2479.0,3544.0
+691,Line ACE : Av Americas & WBroadway,2021-10-02 20:00:00,Saturday,20:00:00,1713.0,2000.0,3713.0
+692,Line ACE : Av Americas & WBroadway,2021-10-03 00:00:00,Sunday,00:00:00,782.0,847.0,1629.0
+693,Line ACE : Av Americas & WBroadway,2021-10-03 04:00:00,Sunday,04:00:00,326.0,229.0,555.0
+694,Line ACE : Av Americas & WBroadway,2021-10-03 08:00:00,Sunday,08:00:00,106.0,214.0,320.0
+695,Line ACE : Av Americas & WBroadway,2021-10-03 12:00:00,Sunday,12:00:00,304.0,1212.0,1516.0
+696,Line ACE : Av Americas & WBroadway,2021-10-03 16:00:00,Sunday,16:00:00,887.0,1973.0,2860.0
+697,Line ACE : Av Americas & WBroadway,2021-10-03 20:00:00,Sunday,20:00:00,1115.0,1289.0,2404.0
+698,Line ACE : Av Americas & WBroadway,2021-10-04 00:00:00,Monday,00:00:00,509.0,423.0,932.0
+699,Line ACE : Av Americas & WBroadway,2021-10-04 04:00:00,Monday,04:00:00,102.0,85.0,187.0
+700,Line ACE : Av Americas & WBroadway,2021-10-04 08:00:00,Monday,08:00:00,227.0,1500.0,1727.0
+701,Line ACE : Av Americas & WBroadway,2021-10-04 12:00:00,Monday,12:00:00,667.0,3618.0,4285.0
+702,Line ACE : Av Americas & WBroadway,2021-10-04 16:00:00,Monday,16:00:00,1565.0,1674.0,3239.0
+703,Line ACE : Av Americas & WBroadway,2021-10-04 20:00:00,Monday,20:00:00,3121.0,1512.0,4633.0
+704,Line ACE : Av Americas & WBroadway,2021-10-05 00:00:00,Tuesday,00:00:00,634.0,414.0,1048.0
+705,Line ACE : Av Americas & WBroadway,2021-10-05 04:00:00,Tuesday,04:00:00,84.0,84.0,168.0
+706,Line ACE : Av Americas & WBroadway,2021-10-05 08:00:00,Tuesday,08:00:00,226.0,1625.0,1851.0
+707,Line ACE : Av Americas & WBroadway,2021-10-05 12:00:00,Tuesday,12:00:00,693.0,4053.0,4746.0
+708,Line ACE : Av Americas & WBroadway,2021-10-05 16:00:00,Tuesday,16:00:00,1622.0,1783.0,3405.0
+709,Line ACE : Av Americas & WBroadway,2021-10-05 20:00:00,Tuesday,20:00:00,3395.0,1808.0,5203.0
+710,Line ACE : Av Americas & WBroadway,2021-10-06 00:00:00,Wednesday,00:00:00,873.0,425.0,1298.0
+711,Line ACE : Av Americas & WBroadway,2021-10-06 04:00:00,Wednesday,04:00:00,127.0,67.0,194.0
+712,Line ACE : Av Americas & WBroadway,2021-10-06 08:00:00,Wednesday,08:00:00,230.0,1533.0,1763.0
+713,Line ACE : Av Americas & WBroadway,2021-10-06 12:00:00,Wednesday,12:00:00,705.0,4056.0,4761.0
+714,Line ACE : Av Americas & WBroadway,2021-10-06 16:00:00,Wednesday,16:00:00,1736.0,1929.0,3665.0
+715,Line ACE : Av Americas & WBroadway,2021-10-06 20:00:00,Wednesday,20:00:00,3356.0,1935.0,5291.0
+716,Line ACE : Av Americas & WBroadway,2021-10-07 00:00:00,Thursday,00:00:00,968.0,516.0,1484.0
+717,Line ACE : Av Americas & WBroadway,2021-10-07 04:00:00,Thursday,04:00:00,138.0,66.0,204.0
+718,Line ACE : Av Americas & WBroadway,2021-10-07 08:00:00,Thursday,08:00:00,235.0,1569.0,1804.0
+719,Line ACE : Av Americas & WBroadway,2021-10-07 12:00:00,Thursday,12:00:00,672.0,3948.0,4620.0
+720,Line ACE : Av Americas & WBroadway,2021-10-07 16:00:00,Thursday,16:00:00,1713.0,2040.0,3753.0
+721,Line ACE : Av Americas & WBroadway,2021-10-07 20:00:00,Thursday,20:00:00,3417.0,2246.0,5663.0
+722,Line ACE : Av Americas & WBroadway,2021-10-08 00:00:00,Friday,00:00:00,930.0,620.0,1550.0
+723,Line ACE : Av Americas & WBroadway,2021-10-08 04:00:00,Friday,04:00:00,208.0,126.0,334.0
+724,Line ACE : Av Americas & WBroadway,2021-10-08 08:00:00,Friday,08:00:00,202.0,1260.0,1462.0
+725,Line ACE : Av Americas & WBroadway,2021-10-08 12:00:00,Friday,12:00:00,689.0,3316.0,4005.0
+726,Line ACE : Av Americas & WBroadway,2021-10-08 16:00:00,Friday,16:00:00,1816.0,2292.0,4108.0
+727,Line ACE : Av Americas & WBroadway,2021-10-08 20:00:00,Friday,20:00:00,2765.0,2526.0,5291.0
+728,Line ACE : Av Americas & WBroadway,2021-10-09 04:00:00,Saturday,04:00:00,281.0,258.0,539.0
+729,Line ACE : Av Americas & WBroadway,2021-10-09 08:00:00,Saturday,08:00:00,106.0,275.0,381.0
+730,Line ACE : Av Americas & WBroadway,2021-10-09 12:00:00,Saturday,12:00:00,362.0,961.0,1323.0
+731,Line ACE : Av Americas & WBroadway,2021-10-09 16:00:00,Saturday,16:00:00,909.0,1295.0,2204.0
+732,Line ACE : Av Americas & WBroadway,2021-10-09 20:00:00,Saturday,20:00:00,1154.0,1193.0,2347.0
+733,Line ACE : Av Americas & WBroadway,2021-10-10 00:00:00,Sunday,00:00:00,575.0,645.0,1220.0
+734,Line ACE : Av Americas & WBroadway,2021-10-10 04:00:00,Sunday,04:00:00,236.0,218.0,454.0
+735,Line ACE : Av Americas & WBroadway,2021-10-10 08:00:00,Sunday,08:00:00,82.0,184.0,266.0
+736,Line ACE : Av Americas & WBroadway,2021-10-10 12:00:00,Sunday,12:00:00,254.0,712.0,966.0
+737,Line ACE : Av Americas & WBroadway,2021-10-10 16:00:00,Sunday,16:00:00,653.0,915.0,1568.0
+738,Line ACE : Av Americas & WBroadway,2021-10-10 20:00:00,Sunday,20:00:00,710.0,822.0,1532.0
+739,Line ACE : Av Americas & WBroadway,2021-10-11 00:00:00,Monday,00:00:00,400.0,334.0,734.0
+740,Line ACE : Av Americas & WBroadway,2021-10-11 04:00:00,Monday,04:00:00,72.0,85.0,157.0
+741,Line ACE : Av Americas & WBroadway,2021-10-11 08:00:00,Monday,08:00:00,108.0,903.0,1011.0
+742,Line ACE : Av Americas & WBroadway,2021-10-11 12:00:00,Monday,12:00:00,489.0,2488.0,2977.0
+743,Line ACE : Av Americas & WBroadway,2021-10-11 16:00:00,Monday,16:00:00,1228.0,1797.0,3025.0
+744,Line ACE : Av Americas & WBroadway,2021-10-11 20:00:00,Monday,20:00:00,2158.0,1472.0,3630.0
+745,Line ACE : Av Americas & WBroadway,2021-10-12 00:00:00,Tuesday,00:00:00,565.0,404.0,969.0
+746,Line ACE : Av Americas & WBroadway,2021-10-12 04:00:00,Tuesday,04:00:00,78.0,67.0,145.0
+747,Line ACE : Av Americas & WBroadway,2021-10-12 08:00:00,Tuesday,08:00:00,212.0,1570.0,1782.0
+748,Line ACE : Av Americas & WBroadway,2021-10-12 12:00:00,Tuesday,12:00:00,757.0,4078.0,4835.0
+749,Line ACE : Av Americas & WBroadway,2021-10-12 16:00:00,Tuesday,16:00:00,1654.0,2028.0,3682.0
+750,Line ACE : Av Americas & WBroadway,2021-10-12 20:00:00,Tuesday,20:00:00,3345.0,1768.0,5113.0
+751,Line ACE : Av Americas & WBroadway,2021-10-13 00:00:00,Wednesday,00:00:00,836.0,538.0,1374.0
+752,Line ACE : Av Americas & WBroadway,2021-10-13 04:00:00,Wednesday,04:00:00,113.0,56.0,169.0
+753,Line ACE : Av Americas & WBroadway,2021-10-13 08:00:00,Wednesday,08:00:00,221.0,1573.0,1794.0
+754,Line ACE : Av Americas & WBroadway,2021-10-13 12:00:00,Wednesday,12:00:00,712.0,3943.0,4655.0
+755,Line ACE : Av Americas & WBroadway,2021-10-13 16:00:00,Wednesday,16:00:00,1619.0,1885.0,3504.0
+756,Line ACE : Av Americas & WBroadway,2021-10-13 20:00:00,Wednesday,20:00:00,3472.0,2081.0,5553.0
+757,Line ACE : Av Americas & WBroadway,2021-10-14 00:00:00,Thursday,00:00:00,904.0,537.0,1441.0
+758,Line ACE : Av Americas & WBroadway,2021-10-14 04:00:00,Thursday,04:00:00,137.0,66.0,203.0
+759,Line ACE : Av Americas & WBroadway,2021-10-14 08:00:00,Thursday,08:00:00,240.0,1451.0,1691.0
+760,Line ACE : Av Americas & WBroadway,2021-10-14 12:00:00,Thursday,12:00:00,743.0,4078.0,4821.0
+761,Line ACE : Av Americas & WBroadway,2021-10-14 16:00:00,Thursday,16:00:00,1653.0,2132.0,3785.0
+762,Line ACE : Av Americas & WBroadway,2021-10-14 20:00:00,Thursday,20:00:00,3469.0,2366.0,5835.0
+763,Line ACE : Av Americas & WBroadway,2021-10-15 00:00:00,Friday,00:00:00,1018.0,697.0,1715.0
+764,Line ACE : Av Americas & WBroadway,2021-10-15 04:00:00,Friday,04:00:00,204.0,121.0,325.0
+765,Line ACE : Av Americas & WBroadway,2021-10-15 08:00:00,Friday,08:00:00,205.0,1301.0,1506.0
+766,Line ACE : Av Americas & WBroadway,2021-10-15 12:00:00,Friday,12:00:00,731.0,3265.0,3996.0
+767,Line ACE : Av Americas & WBroadway,2021-10-15 16:00:00,Friday,16:00:00,1823.0,2314.0,4137.0
+768,Line ACE : Av Americas & WBroadway,2021-10-15 20:00:00,Friday,20:00:00,2942.0,2614.0,5556.0
+769,Line ACE : Av Americas & WBroadway,2021-10-16 04:00:00,Saturday,04:00:00,298.0,204.0,502.0
+770,Line ACE : Av Americas & WBroadway,2021-10-16 08:00:00,Saturday,08:00:00,98.0,321.0,419.0
+771,Line ACE : Av Americas & WBroadway,2021-10-16 12:00:00,Saturday,12:00:00,285.0,954.0,1239.0
+772,Line ACE : Av Americas & WBroadway,2021-10-16 16:00:00,Saturday,16:00:00,690.0,1027.0,1717.0
+773,Line ACE : Av Americas & WBroadway,2021-10-16 20:00:00,Saturday,20:00:00,1017.0,960.0,1977.0
+774,Line ACE : Av Americas & WBroadway,2021-10-17 00:00:00,Sunday,00:00:00,502.0,474.0,976.0
+775,Line ACE : Av Americas & WBroadway,2021-10-17 04:00:00,Sunday,04:00:00,229.0,142.0,371.0
+776,Line ACE : Av Americas & WBroadway,2021-10-17 08:00:00,Sunday,08:00:00,96.0,167.0,263.0
+777,Line ACE : Av Americas & WBroadway,2021-10-17 12:00:00,Sunday,12:00:00,267.0,637.0,904.0
+778,Line ACE : Av Americas & WBroadway,2021-10-17 16:00:00,Sunday,16:00:00,582.0,868.0,1450.0
+779,Line ACE : Av Americas & WBroadway,2021-10-17 20:00:00,Sunday,20:00:00,841.0,795.0,1636.0
+780,Line ACE : Av Americas & WBroadway,2021-10-18 00:00:00,Monday,00:00:00,412.0,308.0,720.0
+781,Line ACE : Av Americas & WBroadway,2021-10-18 04:00:00,Monday,04:00:00,75.0,63.0,138.0
+782,Line ACE : Av Americas & WBroadway,2021-10-18 08:00:00,Monday,08:00:00,217.0,1426.0,1643.0
+783,Line ACE : Av Americas & WBroadway,2021-10-18 12:00:00,Monday,12:00:00,647.0,3578.0,4225.0
+784,Line ACE : Av Americas & WBroadway,2021-10-18 16:00:00,Monday,16:00:00,1578.0,1806.0,3384.0
+785,Line ACE : Av Americas & WBroadway,2021-10-18 20:00:00,Monday,20:00:00,3103.0,1449.0,4552.0
+786,Line ACE : Av Americas & WBroadway,2021-10-19 00:00:00,Tuesday,00:00:00,675.0,355.0,1030.0
+787,Line ACE : Av Americas & WBroadway,2021-10-19 04:00:00,Tuesday,04:00:00,85.0,62.0,147.0
+788,Line ACE : Av Americas & WBroadway,2021-10-19 08:00:00,Tuesday,08:00:00,224.0,1717.0,1941.0
+789,Line ACE : Av Americas & WBroadway,2021-10-19 12:00:00,Tuesday,12:00:00,670.0,4162.0,4832.0
+790,Line ACE : Av Americas & WBroadway,2021-10-19 16:00:00,Tuesday,16:00:00,1622.0,1891.0,3513.0
+791,Line ACE : Av Americas & WBroadway,2021-10-19 20:00:00,Tuesday,20:00:00,3453.0,1862.0,5315.0
+792,Line ACE : Av Americas & WBroadway,2021-10-20 00:00:00,Wednesday,00:00:00,859.0,479.0,1338.0
+793,Line ACE : Av Americas & WBroadway,2021-10-20 04:00:00,Wednesday,04:00:00,107.0,71.0,178.0
+794,Line ACE : Av Americas & WBroadway,2021-10-20 08:00:00,Wednesday,08:00:00,225.0,1611.0,1836.0
+795,Line ACE : Av Americas & WBroadway,2021-10-20 12:00:00,Wednesday,12:00:00,665.0,4018.0,4683.0
+796,Line ACE : Av Americas & WBroadway,2021-10-20 16:00:00,Wednesday,16:00:00,1692.0,1962.0,3654.0
+797,Line ACE : Av Americas & WBroadway,2021-10-20 20:00:00,Wednesday,20:00:00,3537.0,1915.0,5452.0
+798,Line ACE : Av Americas & WBroadway,2021-10-21 00:00:00,Thursday,00:00:00,996.0,572.0,1568.0
+799,Line ACE : Av Americas & WBroadway,2021-10-21 04:00:00,Thursday,04:00:00,157.0,100.0,257.0
+800,Line ACE : Av Americas & WBroadway,2021-10-21 08:00:00,Thursday,08:00:00,228.0,1537.0,1765.0
+801,Line ACE : Av Americas & WBroadway,2021-10-21 12:00:00,Thursday,12:00:00,690.0,3999.0,4689.0
+802,Line ACE : Av Americas & WBroadway,2021-10-21 16:00:00,Thursday,16:00:00,1671.0,2001.0,3672.0
+803,Line ACE : Av Americas & WBroadway,2021-10-21 20:00:00,Thursday,20:00:00,3433.0,2362.0,5795.0
+804,Line ACE : Av Americas & WBroadway,2021-10-22 00:00:00,Friday,00:00:00,1008.0,634.0,1642.0
+805,Line ACE : Av Americas & WBroadway,2021-10-22 04:00:00,Friday,04:00:00,236.0,146.0,382.0
+806,Line ACE : Av Americas & WBroadway,2021-10-22 08:00:00,Friday,08:00:00,203.0,1351.0,1554.0
+807,Line ACE : Av Americas & WBroadway,2021-10-22 12:00:00,Friday,12:00:00,672.0,3275.0,3947.0
+808,Line ACE : Av Americas & WBroadway,2021-10-22 16:00:00,Friday,16:00:00,1842.0,2281.0,4123.0
+809,Line ACE : Av Americas & WBroadway,2021-10-22 20:00:00,Friday,20:00:00,2974.0,2640.0,5614.0
+810,Line ACE : Av Americas & WBroadway,2021-10-23 04:00:00,Saturday,04:00:00,339.0,241.0,580.0
+811,Line ACE : Av Americas & WBroadway,2021-10-23 08:00:00,Saturday,08:00:00,118.0,365.0,483.0
+812,Line ACE : Av Americas & WBroadway,2021-10-23 12:00:00,Saturday,12:00:00,364.0,1327.0,1691.0
+813,Line ACE : Av Americas & WBroadway,2021-10-23 16:00:00,Saturday,16:00:00,1040.0,1806.0,2846.0
+814,Line ACE : Av Americas & WBroadway,2021-10-23 20:00:00,Saturday,20:00:00,1346.0,1738.0,3084.0
+815,Line ACE : Av Americas & WBroadway,2021-10-24 00:00:00,Sunday,00:00:00,757.0,734.0,1491.0
+816,Line ACE : Av Americas & WBroadway,2021-10-24 04:00:00,Sunday,04:00:00,332.0,198.0,530.0
+817,Line ACE : Av Americas & WBroadway,2021-10-24 08:00:00,Sunday,08:00:00,95.0,212.0,307.0
+818,Line ACE : Av Americas & WBroadway,2021-10-24 12:00:00,Sunday,12:00:00,289.0,935.0,1224.0
+819,Line ACE : Av Americas & WBroadway,2021-10-24 16:00:00,Sunday,16:00:00,736.0,1273.0,2009.0
+820,Line ACE : Av Americas & WBroadway,2021-10-24 20:00:00,Sunday,20:00:00,967.0,983.0,1950.0
+821,Line ACE : Av Americas & WBroadway,2021-10-25 00:00:00,Monday,00:00:00,456.0,413.0,869.0
+822,Line ACE : Av Americas & WBroadway,2021-10-25 04:00:00,Monday,04:00:00,90.0,73.0,163.0
+823,Line ACE : Av Americas & WBroadway,2021-10-25 08:00:00,Monday,08:00:00,196.0,1374.0,1570.0
+824,Line ACE : Av Americas & WBroadway,2021-10-25 12:00:00,Monday,12:00:00,686.0,3582.0,4268.0
+825,Line ACE : Av Americas & WBroadway,2021-10-25 16:00:00,Monday,16:00:00,1529.0,1700.0,3229.0
+826,Line ACE : Av Americas & WBroadway,2021-10-25 20:00:00,Monday,20:00:00,3138.0,1626.0,4764.0
+827,Line ACE : Av Americas & WBroadway,2021-10-26 00:00:00,Tuesday,00:00:00,670.0,445.0,1115.0
+828,Line ACE : Av Americas & WBroadway,2021-10-26 04:00:00,Tuesday,04:00:00,82.0,62.0,144.0
+829,Line ACE : Av Americas & WBroadway,2021-10-26 08:00:00,Tuesday,08:00:00,212.0,1419.0,1631.0
+830,Line ACE : Av Americas & WBroadway,2021-10-26 12:00:00,Tuesday,12:00:00,640.0,3138.0,3778.0
+831,Line ACE : Av Americas & WBroadway,2021-10-26 16:00:00,Tuesday,16:00:00,1353.0,1498.0,2851.0
+832,Line ACE : Av Americas & WBroadway,2021-10-26 20:00:00,Tuesday,20:00:00,2767.0,1513.0,4280.0
+833,Line ACE : Av Americas & WBroadway,2021-10-27 00:00:00,Wednesday,00:00:00,714.0,436.0,1150.0
+834,Line ACE : Av Americas & WBroadway,2021-10-27 04:00:00,Wednesday,04:00:00,96.0,52.0,148.0
+835,Line ACE : Av Americas & WBroadway,2021-10-27 08:00:00,Wednesday,08:00:00,230.0,1585.0,1815.0
+836,Line ACE : Av Americas & WBroadway,2021-10-27 12:00:00,Wednesday,12:00:00,774.0,4372.0,5146.0
+837,Line ACE : Av Americas & WBroadway,2021-10-27 16:00:00,Wednesday,16:00:00,1733.0,1960.0,3693.0
+838,Line ACE : Av Americas & WBroadway,2021-10-27 20:00:00,Wednesday,20:00:00,3548.0,2353.0,5901.0
+839,Line ACE : Av Americas & WBroadway,2021-10-28 00:00:00,Thursday,00:00:00,987.0,791.0,1778.0
+840,Line ACE : Av Americas & WBroadway,2021-10-28 04:00:00,Thursday,04:00:00,188.0,95.0,283.0
+841,Line ACE : Av Americas & WBroadway,2021-10-28 08:00:00,Thursday,08:00:00,219.0,1582.0,1801.0
+842,Line ACE : Av Americas & WBroadway,2021-10-28 12:00:00,Thursday,12:00:00,727.0,4282.0,5009.0
+843,Line ACE : Av Americas & WBroadway,2021-10-28 16:00:00,Thursday,16:00:00,1702.0,2073.0,3775.0
+844,Line ACE : Av Americas & WBroadway,2021-10-28 20:00:00,Thursday,20:00:00,3593.0,2607.0,6200.0
+845,Line ACE : Av Americas & WBroadway,2021-10-29 00:00:00,Friday,00:00:00,1046.0,719.0,1765.0
+846,Line ACE : Av Americas & WBroadway,2021-10-29 04:00:00,Friday,04:00:00,214.0,116.0,330.0
+847,Line ACE : Av Americas & WBroadway,2021-10-29 08:00:00,Friday,08:00:00,201.0,1342.0,1543.0
+848,Line ACE : Av Americas & WBroadway,2021-10-29 12:00:00,Friday,12:00:00,679.0,3254.0,3933.0
+849,Line ACE : Av Americas & WBroadway,2021-10-29 16:00:00,Friday,16:00:00,1820.0,2275.0,4095.0
+850,Line ACE : Av Americas & WBroadway,2021-10-29 20:00:00,Friday,20:00:00,2928.0,2416.0,5344.0
+851,Line ACE : Av Americas & WBroadway,2021-10-30 04:00:00,Saturday,04:00:00,329.0,238.0,567.0
+852,Line ACE : Av Americas & WBroadway,2021-10-30 08:00:00,Saturday,08:00:00,91.0,364.0,455.0
+853,Line ACE : Av Americas & WBroadway,2021-10-30 12:00:00,Saturday,12:00:00,308.0,1452.0,1760.0
+854,Line ACE : Av Americas & WBroadway,2021-10-30 16:00:00,Saturday,16:00:00,1003.0,2267.0,3270.0
+855,Line ACE : Av Americas & WBroadway,2021-10-30 20:00:00,Saturday,20:00:00,1384.0,1945.0,3329.0
+856,Line ACE : Av Americas & WBroadway,2021-10-31 00:00:00,Sunday,00:00:00,691.0,1245.0,1936.0
+857,Line ACE : Av Americas & WBroadway,2021-10-31 04:00:00,Sunday,04:00:00,430.0,401.0,831.0
+858,Line ACE : Av Americas & WBroadway,2021-10-31 08:00:00,Sunday,08:00:00,125.0,255.0,380.0
+859,Line ACE : Av Americas & WBroadway,2021-10-31 12:00:00,Sunday,12:00:00,294.0,1044.0,1338.0
+860,Line ACE : Av Americas & WBroadway,2021-10-31 16:00:00,Sunday,16:00:00,775.0,1991.0,2766.0
+861,Line ACE : Av Americas & WBroadway,2021-10-31 20:00:00,Sunday,20:00:00,1544.0,5462.0,7006.0
+862,Line ACE : Av Americas & WBroadway,2021-11-01 00:00:00,Monday,00:00:00,1748.0,2155.0,3903.0
+863,Line ACE : Av Americas & WBroadway,2021-11-01 04:00:00,Monday,04:00:00,167.0,149.0,316.0
+864,Line ACE : Av Americas & WBroadway,2021-11-01 08:00:00,Monday,08:00:00,240.0,1452.0,1692.0
+865,Line ACE : Av Americas & WBroadway,2021-11-01 12:00:00,Monday,12:00:00,703.0,3711.0,4414.0
+866,Line ACE : Av Americas & WBroadway,2021-11-01 16:00:00,Monday,16:00:00,1478.0,1743.0,3221.0
+867,Line ACE : Av Americas & WBroadway,2021-11-01 20:00:00,Monday,20:00:00,3150.0,1625.0,4775.0
+868,Line ACE : Av Americas & WBroadway,2021-11-02 00:00:00,Tuesday,00:00:00,671.0,463.0,1134.0
+869,Line ACE : Av Americas & WBroadway,2021-11-02 04:00:00,Tuesday,04:00:00,105.0,85.0,190.0
+870,Line ACE : Av Americas & WBroadway,2021-11-02 08:00:00,Tuesday,08:00:00,201.0,1535.0,1736.0
+871,Line ACE : Av Americas & WBroadway,2021-11-02 12:00:00,Tuesday,12:00:00,600.0,3814.0,4414.0
+872,Line ACE : Av Americas & WBroadway,2021-11-02 16:00:00,Tuesday,16:00:00,1524.0,1879.0,3403.0
+873,Line ACE : Av Americas & WBroadway,2021-11-02 20:00:00,Tuesday,20:00:00,3283.0,1884.0,5167.0
+874,Line ACE : Av Americas & WBroadway,2021-11-03 00:00:00,Wednesday,00:00:00,840.0,457.0,1297.0
+875,Line ACE : Av Americas & WBroadway,2021-11-03 04:00:00,Wednesday,04:00:00,98.0,64.0,162.0
+876,Line ACE : Av Americas & WBroadway,2021-11-03 08:00:00,Wednesday,08:00:00,236.0,1693.0,1929.0
+877,Line ACE : Av Americas & WBroadway,2021-11-03 12:00:00,Wednesday,12:00:00,772.0,4305.0,5077.0
+878,Line ACE : Av Americas & WBroadway,2021-11-03 16:00:00,Wednesday,16:00:00,1656.0,2004.0,3660.0
+879,Line ACE : Av Americas & WBroadway,2021-11-03 20:00:00,Wednesday,20:00:00,3641.0,1923.0,5564.0
+880,Line ACE : Av Americas & WBroadway,2021-11-04 00:00:00,Thursday,00:00:00,879.0,514.0,1393.0
+881,Line ACE : Av Americas & WBroadway,2021-11-04 04:00:00,Thursday,04:00:00,140.0,80.0,220.0
+882,Line ACE : Av Americas & WBroadway,2021-11-04 08:00:00,Thursday,08:00:00,239.0,1588.0,1827.0
+883,Line ACE : Av Americas & WBroadway,2021-11-04 12:00:00,Thursday,12:00:00,746.0,4222.0,4968.0
+884,Line ACE : Av Americas & WBroadway,2021-11-04 16:00:00,Thursday,16:00:00,1693.0,2221.0,3914.0
+885,Line ACE : Av Americas & WBroadway,2021-11-04 20:00:00,Thursday,20:00:00,3603.0,2162.0,5765.0
+886,Line ACE : Av Americas & WBroadway,2021-11-05 00:00:00,Friday,00:00:00,897.0,654.0,1551.0
+887,Line ACE : Av Americas & WBroadway,2021-11-05 04:00:00,Friday,04:00:00,177.0,92.0,269.0
+888,Line ACE : Av Americas & WBroadway,2021-11-05 08:00:00,Friday,08:00:00,203.0,1358.0,1561.0
+889,Line ACE : Av Americas & WBroadway,2021-11-05 12:00:00,Friday,12:00:00,735.0,3420.0,4155.0
+890,Line ACE : Av Americas & WBroadway,2021-11-05 16:00:00,Friday,16:00:00,1875.0,2256.0,4131.0
+891,Line ACE : Av Americas & WBroadway,2021-11-05 20:00:00,Friday,20:00:00,3006.0,2857.0,5863.0
+892,Line ACE : Av Americas & WBroadway,2021-11-06 04:00:00,Saturday,04:00:00,313.0,224.0,537.0
+893,Line ACE : Av Americas & WBroadway,2021-11-06 08:00:00,Saturday,08:00:00,112.0,327.0,439.0
+894,Line ACE : Av Americas & WBroadway,2021-11-06 12:00:00,Saturday,12:00:00,429.0,1758.0,2187.0
+895,Line ACE : Av Americas & WBroadway,2021-11-06 16:00:00,Saturday,16:00:00,1069.0,2683.0,3752.0
+896,Line ACE : Av Americas & WBroadway,2021-11-06 20:00:00,Saturday,20:00:00,1689.0,2277.0,3966.0
+897,Line ACE : Av Americas & WBroadway,2021-11-07 00:00:00,Sunday,00:00:00,696.0,805.0,1501.0
+898,Line ACE : Av Americas & WBroadway,2021-11-07 04:00:00,Sunday,04:00:00,304.0,269.0,573.0
+899,Line ACE : Av Americas & WBroadway,2021-11-07 08:00:00,Sunday,08:00:00,76.0,137.0,213.0
+900,Line ACE : Av Americas & WBroadway,2021-11-07 12:00:00,Sunday,12:00:00,323.0,1007.0,1330.0
+901,Line ACE : Av Americas & WBroadway,2021-11-07 16:00:00,Sunday,16:00:00,821.0,2069.0,2890.0
+902,Line ACE : Av Americas & WBroadway,2021-11-07 20:00:00,Sunday,20:00:00,1784.0,2191.0,3975.0
+903,Line ACE : Av Americas & WBroadway,2021-11-08 04:00:00,Monday,04:00:00,168.0,130.0,298.0
+904,Line ACE : Av Americas & WBroadway,2021-11-08 08:00:00,Monday,08:00:00,74.0,693.0,767.0
+905,Line ACE : Av Americas & WBroadway,2021-11-08 12:00:00,Monday,12:00:00,700.0,4262.0,4962.0
+906,Line ACE : Av Americas & WBroadway,2021-11-08 16:00:00,Monday,16:00:00,1165.0,1743.0,2908.0
+907,Line ACE : Av Americas & WBroadway,2021-11-08 20:00:00,Monday,20:00:00,4334.0,2367.0,6701.0
+908,Line ACE : Av Americas & WBroadway,2021-11-09 04:00:00,Tuesday,04:00:00,221.0,105.0,326.0
+909,Line ACE : Av Americas & WBroadway,2021-11-09 08:00:00,Tuesday,08:00:00,80.0,752.0,832.0
+910,Line ACE : Av Americas & WBroadway,2021-11-09 12:00:00,Tuesday,12:00:00,722.0,4897.0,5619.0
+911,Line ACE : Av Americas & WBroadway,2021-11-09 16:00:00,Tuesday,16:00:00,1262.0,1784.0,3046.0
+912,Line ACE : Av Americas & WBroadway,2021-11-09 20:00:00,Tuesday,20:00:00,4896.0,2930.0,7826.0
+913,Line ACE : Av Americas & WBroadway,2021-11-10 04:00:00,Wednesday,04:00:00,305.0,164.0,469.0
+914,Line ACE : Av Americas & WBroadway,2021-11-10 08:00:00,Wednesday,08:00:00,79.0,700.0,779.0
+915,Line ACE : Av Americas & WBroadway,2021-11-10 12:00:00,Wednesday,12:00:00,730.0,4800.0,5530.0
+916,Line ACE : Av Americas & WBroadway,2021-11-10 16:00:00,Wednesday,16:00:00,1168.0,1973.0,3141.0
+917,Line ACE : Av Americas & WBroadway,2021-11-10 20:00:00,Wednesday,20:00:00,5085.0,3420.0,8505.0
+918,Line ACE : Av Americas & WBroadway,2021-11-11 04:00:00,Thursday,04:00:00,335.0,178.0,513.0
+919,Line ACE : Av Americas & WBroadway,2021-11-11 08:00:00,Thursday,08:00:00,83.0,622.0,705.0
+920,Line ACE : Av Americas & WBroadway,2021-11-11 12:00:00,Thursday,12:00:00,632.0,3742.0,4374.0
+921,Line ACE : Av Americas & WBroadway,2021-11-11 16:00:00,Thursday,16:00:00,1222.0,2250.0,3472.0
+922,Line ACE : Av Americas & WBroadway,2021-11-11 20:00:00,Thursday,20:00:00,4362.0,3449.0,7811.0
+923,Line ACE : Av Americas & WBroadway,2021-11-12 04:00:00,Friday,04:00:00,410.0,218.0,628.0
+924,Line ACE : Av Americas & WBroadway,2021-11-12 08:00:00,Friday,08:00:00,82.0,595.0,677.0
+925,Line ACE : Av Americas & WBroadway,2021-11-12 12:00:00,Friday,12:00:00,678.0,3494.0,4172.0
+926,Line ACE : Av Americas & WBroadway,2021-11-12 16:00:00,Friday,16:00:00,1314.0,2133.0,3447.0
+927,Line ACE : Av Americas & WBroadway,2021-11-12 20:00:00,Friday,20:00:00,4102.0,3922.0,8024.0
+928,Line ACE : Av Americas & WBroadway,2021-11-13 08:00:00,Saturday,08:00:00,95.0,217.0,312.0
+929,Line ACE : Av Americas & WBroadway,2021-11-13 12:00:00,Saturday,12:00:00,357.0,1407.0,1764.0
+930,Line ACE : Av Americas & WBroadway,2021-11-13 16:00:00,Saturday,16:00:00,1121.0,2892.0,4013.0
+931,Line ACE : Av Americas & WBroadway,2021-11-13 20:00:00,Saturday,20:00:00,2976.0,4108.0,7084.0
+932,Line ACE : Av Americas & WBroadway,2021-11-14 04:00:00,Sunday,04:00:00,500.0,408.0,908.0
+933,Line ACE : Av Americas & WBroadway,2021-11-14 08:00:00,Sunday,08:00:00,100.0,180.0,280.0
+934,Line ACE : Av Americas & WBroadway,2021-11-14 12:00:00,Sunday,12:00:00,296.0,1096.0,1392.0
+935,Line ACE : Av Americas & WBroadway,2021-11-14 16:00:00,Sunday,16:00:00,852.0,2374.0,3226.0
+936,Line ACE : Av Americas & WBroadway,2021-11-14 20:00:00,Sunday,20:00:00,2113.0,2473.0,4586.0
+937,Line ACE : Av Americas & WBroadway,2021-11-15 04:00:00,Monday,04:00:00,207.0,158.0,365.0
+938,Line ACE : Av Americas & WBroadway,2021-11-15 08:00:00,Monday,08:00:00,78.0,694.0,772.0
+939,Line ACE : Av Americas & WBroadway,2021-11-15 12:00:00,Monday,12:00:00,729.0,4200.0,4929.0
+940,Line ACE : Av Americas & WBroadway,2021-11-15 16:00:00,Monday,16:00:00,1205.0,1849.0,3054.0
+941,Line ACE : Av Americas & WBroadway,2021-11-15 20:00:00,Monday,20:00:00,4455.0,2716.0,7171.0
+942,Line ACE : Av Americas & WBroadway,2021-11-16 04:00:00,Tuesday,04:00:00,213.0,127.0,340.0
+943,Line ACE : Av Americas & WBroadway,2021-11-16 08:00:00,Tuesday,08:00:00,78.0,731.0,809.0
+944,Line ACE : Av Americas & WBroadway,2021-11-16 12:00:00,Tuesday,12:00:00,671.0,4824.0,5495.0
+945,Line ACE : Av Americas & WBroadway,2021-11-16 16:00:00,Tuesday,16:00:00,1193.0,1869.0,3062.0
+946,Line ACE : Av Americas & WBroadway,2021-11-16 20:00:00,Tuesday,20:00:00,5104.0,3060.0,8164.0
+947,Line ACE : Av Americas & WBroadway,2021-11-17 04:00:00,Wednesday,04:00:00,317.0,172.0,489.0
+948,Line ACE : Av Americas & WBroadway,2021-11-17 08:00:00,Wednesday,08:00:00,81.0,781.0,862.0
+949,Line ACE : Av Americas & WBroadway,2021-11-17 12:00:00,Wednesday,12:00:00,713.0,4792.0,5505.0
+950,Line ACE : Av Americas & WBroadway,2021-11-17 16:00:00,Wednesday,16:00:00,1274.0,1975.0,3249.0
+951,Line ACE : Av Americas & WBroadway,2021-11-17 20:00:00,Wednesday,20:00:00,5153.0,3327.0,8480.0
+952,Line ACE : Av Americas & WBroadway,2021-11-18 04:00:00,Thursday,04:00:00,314.0,196.0,510.0
+953,Line ACE : Av Americas & WBroadway,2021-11-18 08:00:00,Thursday,08:00:00,89.0,699.0,788.0
+954,Line ACE : Av Americas & WBroadway,2021-11-18 12:00:00,Thursday,12:00:00,778.0,4679.0,5457.0
+955,Line ACE : Av Americas & WBroadway,2021-11-18 16:00:00,Thursday,16:00:00,1358.0,2066.0,3424.0
+956,Line ACE : Av Americas & WBroadway,2021-11-18 20:00:00,Thursday,20:00:00,4960.0,3812.0,8772.0
+957,Line ACE : Av Americas & WBroadway,2021-11-19 04:00:00,Friday,04:00:00,392.0,214.0,606.0
+958,Line ACE : Av Americas & WBroadway,2021-11-19 08:00:00,Friday,08:00:00,94.0,654.0,748.0
+959,Line ACE : Av Americas & WBroadway,2021-11-19 12:00:00,Friday,12:00:00,654.0,3523.0,4177.0
+960,Line ACE : Av Americas & WBroadway,2021-11-19 16:00:00,Friday,16:00:00,1422.0,2257.0,3679.0
+961,Line ACE : Av Americas & WBroadway,2021-11-19 20:00:00,Friday,20:00:00,4192.0,4071.0,8263.0
+962,Line ACE : Av Americas & WBroadway,2021-11-20 08:00:00,Saturday,08:00:00,102.0,188.0,290.0
+963,Line ACE : Av Americas & WBroadway,2021-11-20 12:00:00,Saturday,12:00:00,304.0,1380.0,1684.0
+964,Line ACE : Av Americas & WBroadway,2021-11-20 16:00:00,Saturday,16:00:00,998.0,2586.0,3584.0
+965,Line ACE : Av Americas & WBroadway,2021-11-20 20:00:00,Saturday,20:00:00,2491.0,3426.0,5917.0
+966,Line ACE : Av Americas & WBroadway,2021-11-21 04:00:00,Sunday,04:00:00,410.0,348.0,758.0
+967,Line ACE : Av Americas & WBroadway,2021-11-21 08:00:00,Sunday,08:00:00,106.0,113.0,219.0
+968,Line ACE : Av Americas & WBroadway,2021-11-21 12:00:00,Sunday,12:00:00,285.0,967.0,1252.0
+969,Line ACE : Av Americas & WBroadway,2021-11-21 16:00:00,Sunday,16:00:00,797.0,2147.0,2944.0
+970,Line ACE : Av Americas & WBroadway,2021-11-21 20:00:00,Sunday,20:00:00,1859.0,2210.0,4069.0
+971,Line ACE : Av Americas & WBroadway,2021-11-22 04:00:00,Monday,04:00:00,170.0,112.0,282.0
+972,Line ACE : Av Americas & WBroadway,2021-11-22 08:00:00,Monday,08:00:00,65.0,653.0,718.0
+973,Line ACE : Av Americas & WBroadway,2021-11-22 12:00:00,Monday,12:00:00,690.0,3828.0,4518.0
+974,Line ACE : Av Americas & WBroadway,2021-11-22 16:00:00,Monday,16:00:00,1201.0,1928.0,3129.0
+975,Line ACE : Av Americas & WBroadway,2021-11-22 20:00:00,Monday,20:00:00,4202.0,2673.0,6875.0
+976,Line ACE : Av Americas & WBroadway,2021-11-23 04:00:00,Tuesday,04:00:00,234.0,160.0,394.0
+977,Line ACE : Av Americas & WBroadway,2021-11-23 08:00:00,Tuesday,08:00:00,81.0,671.0,752.0
+978,Line ACE : Av Americas & WBroadway,2021-11-23 12:00:00,Tuesday,12:00:00,674.0,4048.0,4722.0
+979,Line ACE : Av Americas & WBroadway,2021-11-23 16:00:00,Tuesday,16:00:00,1402.0,2086.0,3488.0
+980,Line ACE : Av Americas & WBroadway,2021-11-23 20:00:00,Tuesday,20:00:00,4683.0,3194.0,7877.0
+981,Line ACE : Av Americas & WBroadway,2021-11-24 04:00:00,Wednesday,04:00:00,287.0,213.0,500.0
+982,Line ACE : Av Americas & WBroadway,2021-11-24 08:00:00,Wednesday,08:00:00,62.0,638.0,700.0
+983,Line ACE : Av Americas & WBroadway,2021-11-24 12:00:00,Wednesday,12:00:00,591.0,3039.0,3630.0
+984,Line ACE : Av Americas & WBroadway,2021-11-24 16:00:00,Wednesday,16:00:00,1591.0,2062.0,3653.0
+985,Line ACE : Av Americas & WBroadway,2021-11-24 20:00:00,Wednesday,20:00:00,3614.0,2974.0,6588.0
+986,Line ACE : Av Americas & WBroadway,2021-11-25 04:00:00,Thursday,04:00:00,260.0,210.0,470.0
+987,Line ACE : Av Americas & WBroadway,2021-11-25 08:00:00,Thursday,08:00:00,83.0,127.0,210.0
+988,Line ACE : Av Americas & WBroadway,2021-11-25 12:00:00,Thursday,12:00:00,409.0,663.0,1072.0
+989,Line ACE : Av Americas & WBroadway,2021-11-25 16:00:00,Thursday,16:00:00,723.0,1619.0,2342.0
+990,Line ACE : Av Americas & WBroadway,2021-11-25 20:00:00,Thursday,20:00:00,1279.0,1923.0,3202.0
+991,Line ACE : Av Americas & WBroadway,2021-11-26 04:00:00,Friday,04:00:00,129.0,134.0,263.0
+992,Line ACE : Av Americas & WBroadway,2021-11-26 08:00:00,Friday,08:00:00,59.0,237.0,296.0
+993,Line ACE : Av Americas & WBroadway,2021-11-26 12:00:00,Friday,12:00:00,354.0,1592.0,1946.0
+994,Line ACE : Av Americas & WBroadway,2021-11-26 16:00:00,Friday,16:00:00,891.0,2025.0,2916.0
+995,Line ACE : Av Americas & WBroadway,2021-11-26 20:00:00,Friday,20:00:00,2358.0,2771.0,5129.0
+996,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-01 08:00:00,Wednesday,08:00:00,582.0,3188.0,3770.0
+997,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-01 12:00:00,Wednesday,12:00:00,2024.0,5124.0,7148.0
+998,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-01 16:00:00,Wednesday,16:00:00,4375.0,3813.0,8188.0
+999,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-01 20:00:00,Wednesday,20:00:00,4855.0,2327.0,7182.0
+1000,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-02 00:00:00,Thursday,00:00:00,721.0,850.0,1571.0
+1001,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-02 04:00:00,Thursday,04:00:00,116.0,203.0,319.0
+1002,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-02 08:00:00,Thursday,08:00:00,627.0,2293.0,2920.0
+1003,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-02 12:00:00,Thursday,12:00:00,1688.0,4256.0,5944.0
+1004,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-02 16:00:00,Thursday,16:00:00,3675.0,3419.0,7094.0
+1005,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-02 20:00:00,Thursday,20:00:00,4381.0,2898.0,7279.0
+1006,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-03 00:00:00,Friday,00:00:00,1210.0,900.0,2110.0
+1007,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-03 04:00:00,Friday,04:00:00,97.0,159.0,256.0
+1008,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-03 08:00:00,Friday,08:00:00,463.0,2412.0,2875.0
+1009,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-03 12:00:00,Friday,12:00:00,2040.0,4524.0,6564.0
+1010,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-03 16:00:00,Friday,16:00:00,4901.0,4253.0,9154.0
+1011,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-03 20:00:00,Friday,20:00:00,4940.0,3283.0,8223.0
+1012,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-04 04:00:00,Saturday,04:00:00,154.0,310.0,464.0
+1013,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-04 08:00:00,Saturday,08:00:00,284.0,1134.0,1418.0
+1014,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-04 12:00:00,Saturday,12:00:00,1840.0,4566.0,6406.0
+1015,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-04 16:00:00,Saturday,16:00:00,4402.0,5184.0,9586.0
+1016,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-04 20:00:00,Saturday,20:00:00,4777.0,4146.0,8923.0
+1017,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-05 00:00:00,Sunday,00:00:00,1896.0,1388.0,3284.0
+1018,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-05 04:00:00,Sunday,04:00:00,189.0,318.0,507.0
+1019,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-05 08:00:00,Sunday,08:00:00,228.0,910.0,1138.0
+1020,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-05 12:00:00,Sunday,12:00:00,1611.0,4462.0,6073.0
+1021,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-05 16:00:00,Sunday,16:00:00,4075.0,5251.0,9326.0
+1022,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-05 20:00:00,Sunday,20:00:00,3967.0,3188.0,7155.0
+1023,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-06 00:00:00,Monday,00:00:00,1245.0,791.0,2036.0
+1024,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-06 04:00:00,Monday,04:00:00,90.0,255.0,345.0
+1025,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-06 08:00:00,Monday,08:00:00,216.0,950.0,1166.0
+1026,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-06 12:00:00,Monday,12:00:00,1351.0,3624.0,4975.0
+1027,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-06 16:00:00,Monday,16:00:00,3515.0,4079.0,7594.0
+1028,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-06 20:00:00,Monday,20:00:00,3166.0,2408.0,5574.0
+1029,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-07 00:00:00,Tuesday,00:00:00,1003.0,640.0,1643.0
+1030,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-07 04:00:00,Tuesday,04:00:00,56.0,113.0,169.0
+1031,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-07 08:00:00,Tuesday,08:00:00,518.0,2722.0,3240.0
+1032,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-07 12:00:00,Tuesday,12:00:00,2292.0,5278.0,7570.0
+1033,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-07 16:00:00,Tuesday,16:00:00,5175.0,4278.0,9453.0
+1034,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-07 20:00:00,Tuesday,20:00:00,5631.0,2993.0,8624.0
+1035,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-08 00:00:00,Wednesday,00:00:00,1169.0,682.0,1851.0
+1036,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-08 04:00:00,Wednesday,04:00:00,63.0,155.0,218.0
+1037,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-08 08:00:00,Wednesday,08:00:00,582.0,3452.0,4034.0
+1038,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-08 12:00:00,Wednesday,12:00:00,2392.0,5785.0,8177.0
+1039,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-08 16:00:00,Wednesday,16:00:00,5095.0,4458.0,9553.0
+1040,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-08 20:00:00,Wednesday,20:00:00,6013.0,3189.0,9202.0
+1041,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-09 00:00:00,Thursday,00:00:00,1265.0,757.0,2022.0
+1042,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-09 04:00:00,Thursday,04:00:00,90.0,160.0,250.0
+1043,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-09 08:00:00,Thursday,08:00:00,667.0,3274.0,3941.0
+1044,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-09 12:00:00,Thursday,12:00:00,2067.0,5496.0,7563.0
+1045,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-09 16:00:00,Thursday,16:00:00,4702.0,4314.0,9016.0
+1046,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-09 20:00:00,Thursday,20:00:00,5629.0,3338.0,8967.0
+1047,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-10 00:00:00,Friday,00:00:00,1411.0,828.0,2239.0
+1048,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-10 04:00:00,Friday,04:00:00,135.0,250.0,385.0
+1049,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-10 08:00:00,Friday,08:00:00,622.0,3398.0,4020.0
+1050,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-10 12:00:00,Friday,12:00:00,2483.0,6072.0,8555.0
+1051,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-10 16:00:00,Friday,16:00:00,5981.0,5701.0,11682.0
+1052,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-10 20:00:00,Friday,20:00:00,6640.0,5286.0,11926.0
+1053,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-11 04:00:00,Saturday,04:00:00,315.0,426.0,741.0
+1054,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-11 08:00:00,Saturday,08:00:00,349.0,1588.0,1937.0
+1055,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-11 12:00:00,Saturday,12:00:00,1986.0,5457.0,7443.0
+1056,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-11 16:00:00,Saturday,16:00:00,4938.0,6267.0,11205.0
+1057,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-11 20:00:00,Saturday,20:00:00,5208.0,4808.0,10016.0
+1058,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-12 00:00:00,Sunday,00:00:00,1963.0,1438.0,3401.0
+1059,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-12 04:00:00,Sunday,04:00:00,306.0,395.0,701.0
+1060,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-12 08:00:00,Sunday,08:00:00,236.0,1093.0,1329.0
+1061,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-12 12:00:00,Sunday,12:00:00,1667.0,4744.0,6411.0
+1062,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-12 16:00:00,Sunday,16:00:00,4472.0,5189.0,9661.0
+1063,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-12 20:00:00,Sunday,20:00:00,4142.0,3137.0,7279.0
+1064,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-13 00:00:00,Monday,00:00:00,1306.0,954.0,2260.0
+1065,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-13 04:00:00,Monday,04:00:00,77.0,182.0,259.0
+1066,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-13 08:00:00,Monday,08:00:00,881.0,3655.0,4536.0
+1067,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-13 12:00:00,Monday,12:00:00,2550.0,5855.0,8405.0
+1068,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-13 16:00:00,Monday,16:00:00,5406.0,4375.0,9781.0
+1069,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-13 20:00:00,Monday,20:00:00,6178.0,3121.0,9299.0
+1070,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-14 00:00:00,Tuesday,00:00:00,1150.0,677.0,1827.0
+1071,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-14 04:00:00,Tuesday,04:00:00,69.0,153.0,222.0
+1072,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-14 08:00:00,Tuesday,08:00:00,910.0,3883.0,4793.0
+1073,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-14 12:00:00,Tuesday,12:00:00,2449.0,5987.0,8436.0
+1074,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-14 16:00:00,Tuesday,16:00:00,5614.0,4348.0,9962.0
+1075,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-14 20:00:00,Tuesday,20:00:00,6464.0,3221.0,9685.0
+1076,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-15 00:00:00,Wednesday,00:00:00,1346.0,744.0,2090.0
+1077,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-15 04:00:00,Wednesday,04:00:00,85.0,171.0,256.0
+1078,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-15 08:00:00,Wednesday,08:00:00,920.0,3828.0,4748.0
+1079,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-15 12:00:00,Wednesday,12:00:00,2512.0,5833.0,8345.0
+1080,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-15 16:00:00,Wednesday,16:00:00,5524.0,4579.0,10103.0
+1081,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-15 20:00:00,Wednesday,20:00:00,6157.0,3467.0,9624.0
+1082,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-16 00:00:00,Thursday,00:00:00,1386.0,676.0,2062.0
+1083,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-16 04:00:00,Thursday,04:00:00,93.0,161.0,254.0
+1084,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-16 08:00:00,Thursday,08:00:00,604.0,3436.0,4040.0
+1085,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-16 12:00:00,Thursday,12:00:00,2309.0,5839.0,8148.0
+1086,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-16 16:00:00,Thursday,16:00:00,5686.0,5029.0,10715.0
+1087,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-16 20:00:00,Thursday,20:00:00,6549.0,4066.0,10615.0
+1088,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-17 00:00:00,Friday,00:00:00,1845.0,892.0,2737.0
+1089,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-17 04:00:00,Friday,04:00:00,120.0,156.0,276.0
+1090,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-17 08:00:00,Friday,08:00:00,880.0,3538.0,4418.0
+1091,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-17 12:00:00,Friday,12:00:00,2442.0,5948.0,8390.0
+1092,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-17 16:00:00,Friday,16:00:00,6259.0,5892.0,12151.0
+1093,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-17 20:00:00,Friday,20:00:00,7030.0,6045.0,13075.0
+1094,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-18 04:00:00,Saturday,04:00:00,303.0,353.0,656.0
+1095,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-18 08:00:00,Saturday,08:00:00,310.0,1434.0,1744.0
+1096,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-18 12:00:00,Saturday,12:00:00,2107.0,6283.0,8390.0
+1097,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-18 16:00:00,Saturday,16:00:00,6387.0,8188.0,14575.0
+1098,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-18 20:00:00,Saturday,20:00:00,7156.0,7054.0,14210.0
+1099,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-19 00:00:00,Sunday,00:00:00,2905.0,1926.0,4831.0
+1100,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-19 04:00:00,Sunday,04:00:00,299.0,428.0,727.0
+1101,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-19 08:00:00,Sunday,08:00:00,237.0,1060.0,1297.0
+1102,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-19 12:00:00,Sunday,12:00:00,1764.0,5255.0,7019.0
+1103,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-19 16:00:00,Sunday,16:00:00,5452.0,6984.0,12436.0
+1104,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-19 20:00:00,Sunday,20:00:00,5876.0,4417.0,10293.0
+1105,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-20 00:00:00,Monday,00:00:00,1845.0,884.0,2729.0
+1106,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-20 04:00:00,Monday,04:00:00,77.0,160.0,237.0
+1107,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-20 08:00:00,Monday,08:00:00,924.0,3807.0,4731.0
+1108,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-20 12:00:00,Monday,12:00:00,2509.0,5782.0,8291.0
+1109,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-20 16:00:00,Monday,16:00:00,6013.0,4730.0,10743.0
+1110,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-20 20:00:00,Monday,20:00:00,7035.0,4278.0,11313.0
+1111,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-21 00:00:00,Tuesday,00:00:00,1584.0,761.0,2345.0
+1112,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-21 04:00:00,Tuesday,04:00:00,84.0,143.0,227.0
+1113,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-21 08:00:00,Tuesday,08:00:00,947.0,4002.0,4949.0
+1114,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-21 12:00:00,Tuesday,12:00:00,2571.0,6076.0,8647.0
+1115,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-21 16:00:00,Tuesday,16:00:00,6092.0,5376.0,11468.0
+1116,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-21 20:00:00,Tuesday,20:00:00,7267.0,4991.0,12258.0
+1117,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-22 00:00:00,Wednesday,00:00:00,2027.0,923.0,2950.0
+1118,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-22 04:00:00,Wednesday,04:00:00,87.0,161.0,248.0
+1119,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-22 08:00:00,Wednesday,08:00:00,960.0,3942.0,4902.0
+1120,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-22 12:00:00,Wednesday,12:00:00,2485.0,6290.0,8775.0
+1121,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-22 16:00:00,Wednesday,16:00:00,5778.0,5006.0,10784.0
+1122,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-22 20:00:00,Wednesday,20:00:00,7012.0,4536.0,11548.0
+1123,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-23 00:00:00,Thursday,00:00:00,1807.0,864.0,2671.0
+1124,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-23 04:00:00,Thursday,04:00:00,90.0,160.0,250.0
+1125,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-23 08:00:00,Thursday,08:00:00,927.0,3684.0,4611.0
+1126,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-23 12:00:00,Thursday,12:00:00,2407.0,5838.0,8245.0
+1127,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-23 16:00:00,Thursday,16:00:00,5615.0,5085.0,10700.0
+1128,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-23 20:00:00,Thursday,20:00:00,6531.0,3543.0,10074.0
+1129,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-24 00:00:00,Friday,00:00:00,1329.0,731.0,2060.0
+1130,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-24 04:00:00,Friday,04:00:00,103.0,145.0,248.0
+1131,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-24 08:00:00,Friday,08:00:00,848.0,3426.0,4274.0
+1132,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-24 12:00:00,Friday,12:00:00,2576.0,6222.0,8798.0
+1133,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-24 16:00:00,Friday,16:00:00,6289.0,6484.0,12773.0
+1134,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-24 20:00:00,Friday,20:00:00,7847.0,7182.0,15029.0
+1135,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-25 04:00:00,Saturday,04:00:00,331.0,408.0,739.0
+1136,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-25 08:00:00,Saturday,08:00:00,324.0,1488.0,1812.0
+1137,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-25 12:00:00,Saturday,12:00:00,2001.0,6453.0,8454.0
+1138,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-25 16:00:00,Saturday,16:00:00,6487.0,8238.0,14725.0
+1139,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-25 20:00:00,Saturday,20:00:00,6839.0,6337.0,13176.0
+1140,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-26 00:00:00,Sunday,00:00:00,2912.0,2005.0,4917.0
+1141,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-26 04:00:00,Sunday,04:00:00,294.0,454.0,748.0
+1142,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-26 08:00:00,Sunday,08:00:00,250.0,1073.0,1323.0
+1143,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-26 12:00:00,Sunday,12:00:00,1649.0,5086.0,6735.0
+1144,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-26 16:00:00,Sunday,16:00:00,5112.0,6432.0,11544.0
+1145,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-26 20:00:00,Sunday,20:00:00,5204.0,4003.0,9207.0
+1146,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-27 00:00:00,Monday,00:00:00,1615.0,913.0,2528.0
+1147,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-27 04:00:00,Monday,04:00:00,109.0,199.0,308.0
+1148,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-27 08:00:00,Monday,08:00:00,927.0,3764.0,4691.0
+1149,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-27 12:00:00,Monday,12:00:00,2394.0,5460.0,7854.0
+1150,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-27 16:00:00,Monday,16:00:00,5457.0,4338.0,9795.0
+1151,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-27 20:00:00,Monday,20:00:00,6055.0,2798.0,8853.0
+1152,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-28 00:00:00,Tuesday,00:00:00,1079.0,590.0,1669.0
+1153,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-28 04:00:00,Tuesday,04:00:00,57.0,133.0,190.0
+1154,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-28 08:00:00,Tuesday,08:00:00,943.0,3944.0,4887.0
+1155,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-28 12:00:00,Tuesday,12:00:00,2480.0,5556.0,8036.0
+1156,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-28 16:00:00,Tuesday,16:00:00,4906.0,3952.0,8858.0
+1157,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-28 20:00:00,Tuesday,20:00:00,6057.0,3061.0,9118.0
+1158,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-29 00:00:00,Wednesday,00:00:00,1165.0,670.0,1835.0
+1159,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-29 04:00:00,Wednesday,04:00:00,56.0,152.0,208.0
+1160,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-29 08:00:00,Wednesday,08:00:00,956.0,4043.0,4999.0
+1161,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-29 12:00:00,Wednesday,12:00:00,2439.0,6011.0,8450.0
+1162,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-29 16:00:00,Wednesday,16:00:00,5441.0,4546.0,9987.0
+1163,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-29 20:00:00,Wednesday,20:00:00,6535.0,3480.0,10015.0
+1164,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-30 00:00:00,Thursday,00:00:00,1313.0,766.0,2079.0
+1165,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-30 04:00:00,Thursday,04:00:00,72.0,179.0,251.0
+1166,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-30 08:00:00,Thursday,08:00:00,941.0,3908.0,4849.0
+1167,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-30 12:00:00,Thursday,12:00:00,2373.0,6087.0,8460.0
+1168,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-30 16:00:00,Thursday,16:00:00,5488.0,4593.0,10081.0
+1169,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-09-30 20:00:00,Thursday,20:00:00,6550.0,3692.0,10242.0
+1170,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-01 00:00:00,Friday,00:00:00,1536.0,915.0,2451.0
+1171,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-01 04:00:00,Friday,04:00:00,108.0,146.0,254.0
+1172,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-01 08:00:00,Friday,08:00:00,902.0,3401.0,4303.0
+1173,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-01 12:00:00,Friday,12:00:00,2561.0,6004.0,8565.0
+1174,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-01 16:00:00,Friday,16:00:00,6019.0,5508.0,11527.0
+1175,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-01 20:00:00,Friday,20:00:00,6792.0,4322.0,11114.0
+1176,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-02 04:00:00,Saturday,04:00:00,245.0,405.0,650.0
+1177,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-02 08:00:00,Saturday,08:00:00,328.0,1444.0,1772.0
+1178,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-02 12:00:00,Saturday,12:00:00,1931.0,5370.0,7301.0
+1179,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-02 16:00:00,Saturday,16:00:00,5190.0,6004.0,11194.0
+1180,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-02 20:00:00,Saturday,20:00:00,5211.0,4345.0,9556.0
+1181,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-03 00:00:00,Sunday,00:00:00,1869.0,1380.0,3249.0
+1182,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-03 04:00:00,Sunday,04:00:00,237.0,414.0,651.0
+1183,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-03 08:00:00,Sunday,08:00:00,247.0,1113.0,1360.0
+1184,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-03 12:00:00,Sunday,12:00:00,1573.0,4522.0,6095.0
+1185,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-03 16:00:00,Sunday,16:00:00,4157.0,4590.0,8747.0
+1186,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-03 20:00:00,Sunday,20:00:00,3810.0,2523.0,6333.0
+1187,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-04 00:00:00,Monday,00:00:00,1055.0,718.0,1773.0
+1188,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-04 04:00:00,Monday,04:00:00,66.0,129.0,195.0
+1189,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-04 08:00:00,Monday,08:00:00,933.0,3758.0,4691.0
+1190,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-04 12:00:00,Monday,12:00:00,2420.0,5748.0,8168.0
+1191,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-04 16:00:00,Monday,16:00:00,5470.0,4133.0,9603.0
+1192,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-04 20:00:00,Monday,20:00:00,5796.0,2781.0,8577.0
+1193,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-05 00:00:00,Tuesday,00:00:00,1048.0,581.0,1629.0
+1194,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-05 04:00:00,Tuesday,04:00:00,57.0,155.0,212.0
+1195,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-05 08:00:00,Tuesday,08:00:00,937.0,4076.0,5013.0
+1196,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-05 12:00:00,Tuesday,12:00:00,2437.0,6096.0,8533.0
+1197,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-05 16:00:00,Tuesday,16:00:00,5545.0,4501.0,10046.0
+1198,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-05 20:00:00,Tuesday,20:00:00,6595.0,3088.0,9683.0
+1199,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-06 00:00:00,Wednesday,00:00:00,1255.0,707.0,1962.0
+1200,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-06 04:00:00,Wednesday,04:00:00,73.0,179.0,252.0
+1201,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-06 08:00:00,Wednesday,08:00:00,953.0,4147.0,5100.0
+1202,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-06 12:00:00,Wednesday,12:00:00,2441.0,5985.0,8426.0
+1203,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-06 16:00:00,Wednesday,16:00:00,5432.0,4574.0,10006.0
+1204,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-06 20:00:00,Wednesday,20:00:00,6429.0,3362.0,9791.0
+1205,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-07 00:00:00,Thursday,00:00:00,1380.0,740.0,2120.0
+1206,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-07 04:00:00,Thursday,04:00:00,90.0,175.0,265.0
+1207,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-07 08:00:00,Thursday,08:00:00,971.0,4054.0,5025.0
+1208,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-07 12:00:00,Thursday,12:00:00,2470.0,6175.0,8645.0
+1209,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-07 16:00:00,Thursday,16:00:00,5562.0,4627.0,10189.0
+1210,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-07 20:00:00,Thursday,20:00:00,6788.0,3665.0,10453.0
+1211,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-08 00:00:00,Friday,00:00:00,1562.0,945.0,2507.0
+1212,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-08 04:00:00,Friday,04:00:00,142.0,194.0,336.0
+1213,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-08 08:00:00,Friday,08:00:00,881.0,3508.0,4389.0
+1214,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-08 12:00:00,Friday,12:00:00,2700.0,6201.0,8901.0
+1215,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-08 16:00:00,Friday,16:00:00,6277.0,5895.0,12172.0
+1216,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-08 20:00:00,Friday,20:00:00,7063.0,4858.0,11921.0
+1217,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-09 04:00:00,Saturday,04:00:00,266.0,355.0,621.0
+1218,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-09 08:00:00,Saturday,08:00:00,340.0,1461.0,1801.0
+1219,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-09 12:00:00,Saturday,12:00:00,2183.0,6359.0,8542.0
+1220,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-09 16:00:00,Saturday,16:00:00,5886.0,7777.0,13663.0
+1221,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-09 20:00:00,Saturday,20:00:00,5857.0,5756.0,11613.0
+1222,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-10 00:00:00,Sunday,00:00:00,2142.0,1618.0,3760.0
+1223,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-10 04:00:00,Sunday,04:00:00,301.0,401.0,702.0
+1224,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-10 08:00:00,Sunday,08:00:00,237.0,946.0,1183.0
+1225,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-10 12:00:00,Sunday,12:00:00,1766.0,5009.0,6775.0
+1226,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-10 16:00:00,Sunday,16:00:00,4237.0,5776.0,10013.0
+1227,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-10 20:00:00,Sunday,20:00:00,4257.0,3679.0,7936.0
+1228,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-11 00:00:00,Monday,00:00:00,1388.0,822.0,2210.0
+1229,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-11 04:00:00,Monday,04:00:00,70.0,151.0,221.0
+1230,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-11 08:00:00,Monday,08:00:00,524.0,2552.0,3076.0
+1231,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-11 12:00:00,Monday,12:00:00,2244.0,5419.0,7663.0
+1232,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-11 16:00:00,Monday,16:00:00,5243.0,5167.0,10410.0
+1233,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-11 20:00:00,Monday,20:00:00,5780.0,3309.0,9089.0
+1234,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-12 00:00:00,Tuesday,00:00:00,1222.0,664.0,1886.0
+1235,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-12 04:00:00,Tuesday,04:00:00,69.0,170.0,239.0
+1236,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-12 08:00:00,Tuesday,08:00:00,929.0,4063.0,4992.0
+1237,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-12 12:00:00,Tuesday,12:00:00,2452.0,6328.0,8780.0
+1238,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-12 16:00:00,Tuesday,16:00:00,5763.0,4544.0,10307.0
+1239,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-12 20:00:00,Tuesday,20:00:00,6612.0,3223.0,9835.0
+1240,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-13 00:00:00,Wednesday,00:00:00,1326.0,700.0,2026.0
+1241,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-13 04:00:00,Wednesday,04:00:00,84.0,177.0,261.0
+1242,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-13 08:00:00,Wednesday,08:00:00,951.0,4036.0,4987.0
+1243,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-13 12:00:00,Wednesday,12:00:00,2485.0,6352.0,8837.0
+1244,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-13 16:00:00,Wednesday,16:00:00,5475.0,4521.0,9996.0
+1245,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-13 20:00:00,Wednesday,20:00:00,6710.0,3513.0,10223.0
+1246,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-14 00:00:00,Thursday,00:00:00,1405.0,724.0,2129.0
+1247,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-14 04:00:00,Thursday,04:00:00,103.0,169.0,272.0
+1248,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-14 08:00:00,Thursday,08:00:00,1006.0,3965.0,4971.0
+1249,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-14 12:00:00,Thursday,12:00:00,2517.0,6203.0,8720.0
+1250,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-14 16:00:00,Thursday,16:00:00,5940.0,5053.0,10993.0
+1251,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-14 20:00:00,Thursday,20:00:00,7040.0,3880.0,10920.0
+1252,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-15 00:00:00,Friday,00:00:00,1607.0,1102.0,2709.0
+1253,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-15 04:00:00,Friday,04:00:00,125.0,186.0,311.0
+1254,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-15 08:00:00,Friday,08:00:00,931.0,3582.0,4513.0
+1255,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-15 12:00:00,Friday,12:00:00,2627.0,6283.0,8910.0
+1256,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-15 16:00:00,Friday,16:00:00,6510.0,5993.0,12503.0
+1257,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-15 20:00:00,Friday,20:00:00,7235.0,5252.0,12487.0
+1258,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-16 04:00:00,Saturday,04:00:00,299.0,324.0,623.0
+1259,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-16 08:00:00,Saturday,08:00:00,305.0,1515.0,1820.0
+1260,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-16 12:00:00,Saturday,12:00:00,2132.0,6050.0,8182.0
+1261,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-16 16:00:00,Saturday,16:00:00,5501.0,6847.0,12348.0
+1262,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-16 20:00:00,Saturday,20:00:00,5797.0,4730.0,10527.0
+1263,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-17 00:00:00,Sunday,00:00:00,1814.0,1219.0,3033.0
+1264,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-17 04:00:00,Sunday,04:00:00,199.0,314.0,513.0
+1265,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-17 08:00:00,Sunday,08:00:00,253.0,1136.0,1389.0
+1266,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-17 12:00:00,Sunday,12:00:00,1729.0,5116.0,6845.0
+1267,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-17 16:00:00,Sunday,16:00:00,4910.0,5795.0,10705.0
+1268,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-17 20:00:00,Sunday,20:00:00,4389.0,3203.0,7592.0
+1269,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-18 00:00:00,Monday,00:00:00,1264.0,748.0,2012.0
+1270,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-18 04:00:00,Monday,04:00:00,74.0,178.0,252.0
+1271,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-18 08:00:00,Monday,08:00:00,956.0,4018.0,4974.0
+1272,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-18 12:00:00,Monday,12:00:00,2467.0,5995.0,8462.0
+1273,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-18 16:00:00,Monday,16:00:00,5878.0,4435.0,10313.0
+1274,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-18 20:00:00,Monday,20:00:00,6509.0,3132.0,9641.0
+1275,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-19 00:00:00,Tuesday,00:00:00,1108.0,648.0,1756.0
+1276,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-19 04:00:00,Tuesday,04:00:00,62.0,142.0,204.0
+1277,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-19 08:00:00,Tuesday,08:00:00,946.0,3940.0,4886.0
+1278,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-19 12:00:00,Tuesday,12:00:00,2483.0,6295.0,8778.0
+1279,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-19 16:00:00,Tuesday,16:00:00,5558.0,4590.0,10148.0
+1280,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-19 20:00:00,Tuesday,20:00:00,6796.0,3307.0,10103.0
+1281,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-20 00:00:00,Wednesday,00:00:00,1313.0,734.0,2047.0
+1282,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-20 04:00:00,Wednesday,04:00:00,94.0,181.0,275.0
+1283,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-20 08:00:00,Wednesday,08:00:00,977.0,4059.0,5036.0
+1284,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-20 12:00:00,Wednesday,12:00:00,2443.0,6173.0,8616.0
+1285,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-20 16:00:00,Wednesday,16:00:00,5743.0,4591.0,10334.0
+1286,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-20 20:00:00,Wednesday,20:00:00,6790.0,3519.0,10309.0
+1287,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-21 00:00:00,Thursday,00:00:00,1401.0,733.0,2134.0
+1288,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-21 04:00:00,Thursday,04:00:00,108.0,171.0,279.0
+1289,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-21 08:00:00,Thursday,08:00:00,959.0,3627.0,4586.0
+1290,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-21 12:00:00,Thursday,12:00:00,2457.0,6515.0,8972.0
+1291,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-21 16:00:00,Thursday,16:00:00,5755.0,4922.0,10677.0
+1292,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-21 20:00:00,Thursday,20:00:00,6869.0,4218.0,11087.0
+1293,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-22 00:00:00,Friday,00:00:00,1695.0,984.0,2679.0
+1294,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-22 04:00:00,Friday,04:00:00,134.0,172.0,306.0
+1295,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-22 08:00:00,Friday,08:00:00,900.0,3583.0,4483.0
+1296,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-22 12:00:00,Friday,12:00:00,2594.0,6292.0,8886.0
+1297,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-22 16:00:00,Friday,16:00:00,6545.0,5992.0,12537.0
+1298,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-22 20:00:00,Friday,20:00:00,7200.0,5332.0,12532.0
+1299,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-23 04:00:00,Saturday,04:00:00,281.0,362.0,643.0
+1300,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-23 08:00:00,Saturday,08:00:00,315.0,1530.0,1845.0
+1301,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-23 12:00:00,Saturday,12:00:00,2155.0,5942.0,8097.0
+1302,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-23 16:00:00,Saturday,16:00:00,5744.0,7013.0,12757.0
+1303,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-23 20:00:00,Saturday,20:00:00,6099.0,5180.0,11279.0
+1304,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-24 00:00:00,Sunday,00:00:00,2116.0,1579.0,3695.0
+1305,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-24 04:00:00,Sunday,04:00:00,298.0,332.0,630.0
+1306,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-24 08:00:00,Sunday,08:00:00,290.0,1075.0,1365.0
+1307,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-24 12:00:00,Sunday,12:00:00,1684.0,4560.0,6244.0
+1308,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-24 16:00:00,Sunday,16:00:00,4589.0,5005.0,9594.0
+1309,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-24 20:00:00,Sunday,20:00:00,4252.0,3022.0,7274.0
+1310,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-25 00:00:00,Monday,00:00:00,1328.0,708.0,2036.0
+1311,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-25 04:00:00,Monday,04:00:00,70.0,147.0,217.0
+1312,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-25 08:00:00,Monday,08:00:00,944.0,3611.0,4555.0
+1313,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-25 12:00:00,Monday,12:00:00,2411.0,6149.0,8560.0
+1314,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-25 16:00:00,Monday,16:00:00,5700.0,4477.0,10177.0
+1315,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-25 20:00:00,Monday,20:00:00,6653.0,3038.0,9691.0
+1316,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-26 00:00:00,Tuesday,00:00:00,1117.0,672.0,1789.0
+1317,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-26 04:00:00,Tuesday,04:00:00,45.0,82.0,127.0
+1318,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-26 08:00:00,Tuesday,08:00:00,841.0,3375.0,4216.0
+1319,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-26 12:00:00,Tuesday,12:00:00,1886.0,5179.0,7065.0
+1320,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-26 16:00:00,Tuesday,16:00:00,4582.0,3518.0,8100.0
+1321,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-26 20:00:00,Tuesday,20:00:00,5446.0,2728.0,8174.0
+1322,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-27 00:00:00,Wednesday,00:00:00,1013.0,591.0,1604.0
+1323,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-27 04:00:00,Wednesday,04:00:00,51.0,93.0,144.0
+1324,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-27 08:00:00,Wednesday,08:00:00,959.0,3918.0,4877.0
+1325,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-27 12:00:00,Wednesday,12:00:00,2439.0,6420.0,8859.0
+1326,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-27 16:00:00,Wednesday,16:00:00,5614.0,4666.0,10280.0
+1327,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-27 20:00:00,Wednesday,20:00:00,6883.0,3755.0,10638.0
+1328,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-28 00:00:00,Thursday,00:00:00,1465.0,974.0,2439.0
+1329,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-28 04:00:00,Thursday,04:00:00,101.0,174.0,275.0
+1330,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-28 08:00:00,Thursday,08:00:00,946.0,3841.0,4787.0
+1331,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-28 12:00:00,Thursday,12:00:00,1872.0,5406.0,7278.0
+1332,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-28 16:00:00,Thursday,16:00:00,4519.0,4216.0,8735.0
+1333,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-28 20:00:00,Thursday,20:00:00,5284.0,3578.0,8862.0
+1334,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-29 00:00:00,Friday,00:00:00,1279.0,787.0,2066.0
+1335,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-29 04:00:00,Friday,04:00:00,4272.0,2770.0,7042.0
+1336,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-29 08:00:00,Friday,08:00:00,846.0,3321.0,4167.0
+1337,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-29 12:00:00,Friday,12:00:00,2534.0,6250.0,8784.0
+1338,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-29 16:00:00,Friday,16:00:00,7445.0,5792.0,13237.0
+1339,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-29 20:00:00,Friday,20:00:00,7060.0,4675.0,11735.0
+1340,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-30 04:00:00,Saturday,04:00:00,309.0,392.0,701.0
+1341,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-30 08:00:00,Saturday,08:00:00,304.0,1388.0,1692.0
+1342,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-30 12:00:00,Saturday,12:00:00,1826.0,5233.0,7059.0
+1343,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-30 16:00:00,Saturday,16:00:00,4932.0,6175.0,11107.0
+1344,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-30 20:00:00,Saturday,20:00:00,5018.0,4366.0,9384.0
+1345,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-31 00:00:00,Sunday,00:00:00,1696.0,1928.0,3624.0
+1346,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-31 04:00:00,Sunday,04:00:00,407.0,796.0,1203.0
+1347,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-31 08:00:00,Sunday,08:00:00,238.0,994.0,1232.0
+1348,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-31 12:00:00,Sunday,12:00:00,1153.0,2801.0,3954.0
+1349,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-31 16:00:00,Sunday,16:00:00,4701.0,6881.0,11582.0
+1350,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-10-31 20:00:00,Sunday,20:00:00,4212.0,6450.0,10662.0
+1351,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-01 00:00:00,Monday,00:00:00,1600.0,1437.0,3037.0
+1352,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-01 04:00:00,Monday,04:00:00,143.0,240.0,383.0
+1353,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-01 08:00:00,Monday,08:00:00,734.0,3127.0,3861.0
+1354,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-01 12:00:00,Monday,12:00:00,2619.0,6492.0,9111.0
+1355,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-01 16:00:00,Monday,16:00:00,5793.0,4672.0,10465.0
+1356,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-01 20:00:00,Monday,20:00:00,6595.0,3213.0,9808.0
+1357,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-02 00:00:00,Tuesday,00:00:00,1192.0,602.0,1794.0
+1358,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-02 04:00:00,Tuesday,04:00:00,51.0,144.0,195.0
+1359,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-02 08:00:00,Tuesday,08:00:00,698.0,3493.0,4191.0
+1360,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-02 12:00:00,Tuesday,12:00:00,2222.0,6029.0,8251.0
+1361,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-02 16:00:00,Tuesday,16:00:00,5374.0,4464.0,9838.0
+1362,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-02 20:00:00,Tuesday,20:00:00,6353.0,3277.0,9630.0
+1363,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-03 00:00:00,Wednesday,00:00:00,1307.0,750.0,2057.0
+1364,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-03 04:00:00,Wednesday,04:00:00,86.0,131.0,217.0
+1365,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-03 08:00:00,Wednesday,08:00:00,428.0,2167.0,2595.0
+1366,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-03 12:00:00,Wednesday,12:00:00,3088.0,7813.0,10901.0
+1367,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-03 16:00:00,Wednesday,16:00:00,5632.0,4384.0,10016.0
+1368,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-03 20:00:00,Wednesday,20:00:00,6716.0,3571.0,10287.0
+1369,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-04 00:00:00,Thursday,00:00:00,1444.0,979.0,2423.0
+1370,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-04 04:00:00,Thursday,04:00:00,105.0,150.0,255.0
+1371,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-04 08:00:00,Thursday,08:00:00,693.0,3194.0,3887.0
+1372,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-04 12:00:00,Thursday,12:00:00,2736.0,6827.0,9563.0
+1373,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-04 16:00:00,Thursday,16:00:00,5599.0,4862.0,10461.0
+1374,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-04 20:00:00,Thursday,20:00:00,6940.0,3702.0,10642.0
+1375,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-05 00:00:00,Friday,00:00:00,1492.0,821.0,2313.0
+1376,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-05 04:00:00,Friday,04:00:00,138.0,203.0,341.0
+1377,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-05 08:00:00,Friday,08:00:00,871.0,3339.0,4210.0
+1378,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-05 12:00:00,Friday,12:00:00,2641.0,6262.0,8903.0
+1379,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-05 16:00:00,Friday,16:00:00,6479.0,5906.0,12385.0
+1380,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-05 20:00:00,Friday,20:00:00,7472.0,5202.0,12674.0
+1381,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-06 04:00:00,Saturday,04:00:00,230.0,350.0,580.0
+1382,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-06 08:00:00,Saturday,08:00:00,380.0,1421.0,1801.0
+1383,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-06 12:00:00,Saturday,12:00:00,2145.0,6626.0,8771.0
+1384,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-06 16:00:00,Saturday,16:00:00,6234.0,7968.0,14202.0
+1385,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-06 20:00:00,Saturday,20:00:00,6391.0,5920.0,12311.0
+1386,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-07 00:00:00,Sunday,00:00:00,2097.0,1650.0,3747.0
+1387,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-07 04:00:00,Sunday,04:00:00,296.0,390.0,686.0
+1388,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-07 08:00:00,Sunday,08:00:00,204.0,617.0,821.0
+1389,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-07 12:00:00,Sunday,12:00:00,1459.0,4542.0,6001.0
+1390,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-07 16:00:00,Sunday,16:00:00,4358.0,6463.0,10821.0
+1391,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-07 20:00:00,Sunday,20:00:00,4767.0,4247.0,9014.0
+1392,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-08 00:00:00,Monday,00:00:00,1758.0,1104.0,2862.0
+1393,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-08 04:00:00,Monday,04:00:00,143.0,172.0,315.0
+1394,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-08 08:00:00,Monday,08:00:00,496.0,1744.0,2240.0
+1395,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-08 12:00:00,Monday,12:00:00,2101.0,7257.0,9358.0
+1396,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-08 16:00:00,Monday,16:00:00,4747.0,4718.0,9465.0
+1397,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-08 20:00:00,Monday,20:00:00,8064.0,3821.0,11885.0
+1398,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-09 00:00:00,Tuesday,00:00:00,1771.0,829.0,2600.0
+1399,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-09 04:00:00,Tuesday,04:00:00,133.0,190.0,323.0
+1400,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-09 08:00:00,Tuesday,08:00:00,508.0,1893.0,2401.0
+1401,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-09 12:00:00,Tuesday,12:00:00,2095.0,7986.0,10081.0
+1402,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-09 16:00:00,Tuesday,16:00:00,4954.0,4907.0,9861.0
+1403,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-09 20:00:00,Tuesday,20:00:00,8214.0,3957.0,12171.0
+1404,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-10 00:00:00,Wednesday,00:00:00,2013.0,972.0,2985.0
+1405,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-10 04:00:00,Wednesday,04:00:00,181.0,209.0,390.0
+1406,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-10 08:00:00,Wednesday,08:00:00,485.0,1831.0,2316.0
+1407,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-10 12:00:00,Wednesday,12:00:00,2205.0,7643.0,9848.0
+1408,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-10 16:00:00,Wednesday,16:00:00,4758.0,4979.0,9737.0
+1409,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-10 20:00:00,Wednesday,20:00:00,8422.0,4446.0,12868.0
+1410,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-11 00:00:00,Thursday,00:00:00,2211.0,1192.0,3403.0
+1411,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-11 04:00:00,Thursday,04:00:00,230.0,235.0,465.0
+1412,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-11 08:00:00,Thursday,08:00:00,378.0,1466.0,1844.0
+1413,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-11 12:00:00,Thursday,12:00:00,1906.0,6861.0,8767.0
+1414,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-11 16:00:00,Thursday,16:00:00,5127.0,6217.0,11344.0
+1415,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-11 20:00:00,Thursday,20:00:00,7668.0,5144.0,12812.0
+1416,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-12 00:00:00,Friday,00:00:00,2387.0,1486.0,3873.0
+1417,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-12 04:00:00,Friday,04:00:00,301.0,300.0,601.0
+1418,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-12 08:00:00,Friday,08:00:00,460.0,1677.0,2137.0
+1419,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-12 12:00:00,Friday,12:00:00,2179.0,6805.0,8984.0
+1420,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-12 16:00:00,Friday,16:00:00,4941.0,5525.0,10466.0
+1421,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-12 20:00:00,Friday,20:00:00,8280.0,6341.0,14621.0
+1422,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-13 04:00:00,Saturday,04:00:00,436.0,513.0,949.0
+1423,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-13 08:00:00,Saturday,08:00:00,236.0,754.0,990.0
+1424,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-13 12:00:00,Saturday,12:00:00,1467.0,5353.0,6820.0
+1425,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-13 16:00:00,Saturday,16:00:00,5523.0,7426.0,12949.0
+1426,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-13 20:00:00,Saturday,20:00:00,6143.0,5815.0,11958.0
+1427,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-14 00:00:00,Sunday,00:00:00,2645.0,2170.0,4815.0
+1428,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-14 04:00:00,Sunday,04:00:00,413.0,491.0,904.0
+1429,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-14 08:00:00,Sunday,08:00:00,159.0,429.0,588.0
+1430,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-14 12:00:00,Sunday,12:00:00,1098.0,3657.0,4755.0
+1431,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-14 16:00:00,Sunday,16:00:00,3926.0,5748.0,9674.0
+1432,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-14 20:00:00,Sunday,20:00:00,4841.0,3709.0,8550.0
+1433,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-15 00:00:00,Monday,00:00:00,1610.0,1061.0,2671.0
+1434,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-15 04:00:00,Monday,04:00:00,135.0,162.0,297.0
+1435,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-15 08:00:00,Monday,08:00:00,458.0,1650.0,2108.0
+1436,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-15 12:00:00,Monday,12:00:00,2206.0,7347.0,9553.0
+1437,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-15 16:00:00,Monday,16:00:00,4991.0,4961.0,9952.0
+1438,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-15 20:00:00,Monday,20:00:00,8161.0,4101.0,12262.0
+1439,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-16 00:00:00,Tuesday,00:00:00,1850.0,921.0,2771.0
+1440,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-16 04:00:00,Tuesday,04:00:00,120.0,154.0,274.0
+1441,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-16 08:00:00,Tuesday,08:00:00,489.0,1858.0,2347.0
+1442,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-16 12:00:00,Tuesday,12:00:00,2262.0,8035.0,10297.0
+1443,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-16 16:00:00,Tuesday,16:00:00,4838.0,4809.0,9647.0
+1444,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-16 20:00:00,Tuesday,20:00:00,8348.0,4339.0,12687.0
+1445,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-17 00:00:00,Wednesday,00:00:00,2096.0,1278.0,3374.0
+1446,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-17 04:00:00,Wednesday,04:00:00,203.0,221.0,424.0
+1447,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-17 08:00:00,Wednesday,08:00:00,494.0,1810.0,2304.0
+1448,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-17 12:00:00,Wednesday,12:00:00,2247.0,7925.0,10172.0
+1449,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-17 16:00:00,Wednesday,16:00:00,5254.0,5202.0,10456.0
+1450,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-17 20:00:00,Wednesday,20:00:00,9111.0,5243.0,14354.0
+1451,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-18 00:00:00,Thursday,00:00:00,2120.0,1219.0,3339.0
+1452,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-18 04:00:00,Thursday,04:00:00,211.0,245.0,456.0
+1453,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-18 08:00:00,Thursday,08:00:00,490.0,1838.0,2328.0
+1454,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-18 12:00:00,Thursday,12:00:00,2241.0,7937.0,10178.0
+1455,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-18 16:00:00,Thursday,16:00:00,4954.0,5061.0,10015.0
+1456,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-18 20:00:00,Thursday,20:00:00,8518.0,4962.0,13480.0
+1457,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-19 00:00:00,Friday,00:00:00,2420.0,1397.0,3817.0
+1458,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-19 04:00:00,Friday,04:00:00,272.0,239.0,511.0
+1459,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-19 08:00:00,Friday,08:00:00,456.0,1796.0,2252.0
+1460,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-19 12:00:00,Friday,12:00:00,2256.0,7346.0,9602.0
+1461,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-19 16:00:00,Friday,16:00:00,5603.0,6156.0,11759.0
+1462,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-19 20:00:00,Friday,20:00:00,8598.0,5844.0,14442.0
+1463,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-20 04:00:00,Saturday,04:00:00,472.0,486.0,958.0
+1464,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-20 08:00:00,Saturday,08:00:00,245.0,767.0,1012.0
+1465,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-20 12:00:00,Saturday,12:00:00,1489.0,5102.0,6591.0
+1466,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-20 16:00:00,Saturday,16:00:00,5147.0,7356.0,12503.0
+1467,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-20 20:00:00,Saturday,20:00:00,6923.0,5952.0,12875.0
+1468,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-21 00:00:00,Sunday,00:00:00,2733.0,2161.0,4894.0
+1469,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-21 04:00:00,Sunday,04:00:00,457.0,536.0,993.0
+1470,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-21 08:00:00,Sunday,08:00:00,215.0,634.0,849.0
+1471,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-21 12:00:00,Sunday,12:00:00,1187.0,4453.0,5640.0
+1472,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-21 16:00:00,Sunday,16:00:00,4446.0,6352.0,10798.0
+1473,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-21 20:00:00,Sunday,20:00:00,5133.0,4037.0,9170.0
+1474,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-22 00:00:00,Monday,00:00:00,1796.0,1195.0,2991.0
+1475,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-22 04:00:00,Monday,04:00:00,169.0,247.0,416.0
+1476,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-22 08:00:00,Monday,08:00:00,418.0,1719.0,2137.0
+1477,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-22 12:00:00,Monday,12:00:00,2341.0,7656.0,9997.0
+1478,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-22 16:00:00,Monday,16:00:00,5342.0,5543.0,10885.0
+1479,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-22 20:00:00,Monday,20:00:00,8669.0,4668.0,13337.0
+1480,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-23 00:00:00,Tuesday,00:00:00,2045.0,1159.0,3204.0
+1481,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-23 04:00:00,Tuesday,04:00:00,156.0,234.0,390.0
+1482,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-23 08:00:00,Tuesday,08:00:00,454.0,1640.0,2094.0
+1483,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-23 12:00:00,Tuesday,12:00:00,2286.0,7898.0,10184.0
+1484,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-23 16:00:00,Tuesday,16:00:00,5607.0,6272.0,11879.0
+1485,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-23 20:00:00,Tuesday,20:00:00,8681.0,5120.0,13801.0
+1486,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-24 00:00:00,Wednesday,00:00:00,2231.0,1344.0,3575.0
+1487,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-24 04:00:00,Wednesday,04:00:00,221.0,230.0,451.0
+1488,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-24 08:00:00,Wednesday,08:00:00,367.0,1607.0,1974.0
+1489,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-24 12:00:00,Wednesday,12:00:00,2316.0,7136.0,9452.0
+1490,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-24 16:00:00,Wednesday,16:00:00,6330.0,6703.0,13033.0
+1491,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-24 20:00:00,Wednesday,20:00:00,7783.0,5286.0,13069.0
+1492,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-25 00:00:00,Thursday,00:00:00,2207.0,1508.0,3715.0
+1493,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-25 04:00:00,Thursday,04:00:00,226.0,354.0,580.0
+1494,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-25 08:00:00,Thursday,08:00:00,202.0,533.0,735.0
+1495,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-25 12:00:00,Thursday,12:00:00,1036.0,3065.0,4101.0
+1496,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-25 16:00:00,Thursday,16:00:00,3704.0,5606.0,9310.0
+1497,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-25 20:00:00,Thursday,20:00:00,3480.0,3452.0,6932.0
+1498,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-26 00:00:00,Friday,00:00:00,1529.0,1088.0,2617.0
+1499,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-26 04:00:00,Friday,04:00:00,100.0,188.0,288.0
+1500,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-26 08:00:00,Friday,08:00:00,185.0,902.0,1087.0
+1501,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-26 12:00:00,Friday,12:00:00,1389.0,5564.0,6953.0
+1502,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-26 16:00:00,Friday,16:00:00,5543.0,8270.0,13813.0
+1503,Line JNQRZ6W : Canal & Broadway/Lafayette,2021-11-26 20:00:00,Friday,20:00:00,7205.0,5561.0,12766.0
